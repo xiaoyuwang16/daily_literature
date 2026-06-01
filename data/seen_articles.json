@@ -1,4 +1,68 @@
 {
-  "seen": {}
+  "seen": {
+    "arxiv:2605.28886v1": {
+      "date": "2026-05-27",
+      "score": 13,
+      "sent_at": "2026-06-01T12:12:47.372270+00:00",
+      "source": "arXiv",
+      "title": "Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches",
+      "url": "http://arxiv.org/abs/2605.28886v1"
+    },
+    "doi:10.1016/j.ab.2026.116092": {
+      "date": "2026 Jun",
+      "score": 4,
+      "sent_at": "2026-06-01T12:12:47.372270+00:00",
+      "source": "PubMed",
+      "title": "msCNN-PLM-FAD: Enhanced predicting FAD binding sites by using protein language representation combined with multiple separable windows convolutional neural networks",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41763284/"
+    },
+    "doi:10.1021/acs.jctc.6c00427": {
+      "date": "2026 May 26",
+      "score": 12,
+      "sent_at": "2026-06-01T12:12:47.372270+00:00",
+      "source": "PubMed",
+      "title": "Predicting and Decoding Allosteric Binding Sites Using Protein Language Models and Structure-Based Machine Learning: An Energy Landscape-Guided Explainable AI Framework",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42093179/"
+    },
+    "doi:10.1038/s41598-026-55161-0": {
+      "date": "2026 May 29",
+      "score": 10,
+      "sent_at": "2026-06-01T12:12:47.372270+00:00",
+      "source": "PubMed",
+      "title": "A robust framework for protein-protein interaction prediction with multi-objective ensemble learning and embedding-based representations",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42215669/"
+    },
+    "doi:10.1073/pnas.2531932123": {
+      "date": "2026-05-26",
+      "score": 5,
+      "sent_at": "2026-06-01T12:12:47.372270+00:00",
+      "source": "OpenAlex",
+      "title": "amyloid-predict and LLPS-predict: Predicting phase separation propensities in the intrinsically disordered proteome",
+      "url": "https://doi.org/10.1073/pnas.2531932123"
+    },
+    "doi:10.1080/19420862.2026.2678000": {
+      "date": "2026 Dec 31",
+      "score": 10,
+      "sent_at": "2026-06-01T12:12:47.372270+00:00",
+      "source": "PubMed",
+      "title": "Prediction of antibody non-specificity using protein language models and biophysical parameters",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42200306/"
+    },
+    "doi:10.53799/gteskx50": {
+      "date": "2026-05-30",
+      "score": 15,
+      "sent_at": "2026-06-01T12:12:47.372270+00:00",
+      "source": "OpenAlex",
+      "title": "Probing Adversarial Robustness of Protein Language Models: A Reproducible Case Study of ESM-2 Under Substitution-Based Attacks",
+      "url": "https://doi.org/10.53799/gteskx50"
+    },
+    "openalex:https://openalex.org/w7162892946": {
+      "date": "2026-05-27",
+      "score": 13,
+      "sent_at": "2026-06-01T12:12:47.372270+00:00",
+      "source": "OpenAlex",
+      "title": "Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches",
+      "url": "https://openalex.org/W7162892946"
+    }
+  }
 }
-
