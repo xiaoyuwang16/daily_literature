@@ -8,6 +8,14 @@
       "title": "Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches",
       "url": "http://arxiv.org/abs/2605.28886v1"
     },
+    "doi:10.1007/s00497-026-00540-w": {
+      "date": "2026-05-30",
+      "score": 4,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Basis of apomixis in flowering plants \u2013 state of the art and research perspectives",
+      "url": "https://doi.org/10.1007/s00497-026-00540-w"
+    },
     "doi:10.1016/j.ab.2026.116092": {
       "date": "2026 Jun",
       "score": 4,
@@ -15,6 +23,14 @@
       "source": "PubMed",
       "title": "msCNN-PLM-FAD: Enhanced predicting FAD binding sites by using protein language representation combined with multiple separable windows convolutional neural networks",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41763284/"
+    },
+    "doi:10.1021/acs.jcim.6c00363": {
+      "date": "2026-05-29",
+      "score": 10,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "SSPSPredictor: A Sequence- and Structure-Based Deep Learning Model for Predicting Phase-Separating Proteins",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00363"
     },
     "doi:10.1021/acs.jctc.6c00427": {
       "date": "2026 May 26",
@@ -48,6 +64,94 @@
       "title": "Prediction of antibody non-specificity using protein language models and biophysical parameters",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42200306/"
     },
+    "doi:10.1093/nargab/lqag047": {
+      "date": "2026 Jun",
+      "score": 6,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "PubMed",
+      "title": "Integrating protein and DNA embeddings for improving genome-wide transcription factor binding site prediction",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42099803/"
+    },
+    "doi:10.1186/s12864-026-12976-5": {
+      "date": "2026-05-29",
+      "score": 22,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "PRIME: An evaluation framework for protein representation inference and generalization in viral mutation space",
+      "url": "https://doi.org/10.1186/s12864-026-12976-5"
+    },
+    "doi:10.21203/rs.3.rs-9299039/v1": {
+      "date": "2026-05-26",
+      "score": 18,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Independent Structural Contribution to Mutation Sensitivity in Protein Language Models Revealed by Variance Decomposition Across Complete Missense Landscapes",
+      "url": "https://doi.org/10.21203/rs.3.rs-9299039/v1"
+    },
+    "doi:10.5281/zenodo.20434891": {
+      "date": "2026-05-28",
+      "score": 27,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "The Cross-Channel Generalisation Gap (CCGG) Benchmark for Protein Language Models",
+      "url": "https://doi.org/10.5281/zenodo.20434891"
+    },
+    "doi:10.5281/zenodo.20434892": {
+      "date": "2026-05-28",
+      "score": 27,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "The Cross-Channel Generalisation Gap (CCGG) Benchmark for Protein Language Models",
+      "url": "https://doi.org/10.5281/zenodo.20434892"
+    },
+    "doi:10.5281/zenodo.20435563": {
+      "date": "2026-05-29",
+      "score": 21,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "ESM-2 MLP Classifier for Ocean Phage Dark Matter Functional Annotation \u2014 Ibdaa 2027",
+      "url": "https://doi.org/10.5281/zenodo.20435563"
+    },
+    "doi:10.5281/zenodo.20435564": {
+      "date": "2026-05-29",
+      "score": 21,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "ESM-2 MLP Classifier for Ocean Phage Dark Matter Functional Annotation \u2014 Ibdaa 2027",
+      "url": "https://doi.org/10.5281/zenodo.20435564"
+    },
+    "doi:10.5281/zenodo.20458790": {
+      "date": "2026-05-30",
+      "score": 30,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Notebooks for \"Cluster-Aware Benchmarking of Protein Language Models for Plastic-Degrading Enzyme Prediction\"",
+      "url": "https://doi.org/10.5281/zenodo.20458790"
+    },
+    "doi:10.5281/zenodo.20458791": {
+      "date": "2026-05-30",
+      "score": 30,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Notebooks for \"Cluster-Aware Benchmarking of Protein Language Models for Plastic-Degrading Enzyme Prediction\"",
+      "url": "https://doi.org/10.5281/zenodo.20458791"
+    },
+    "doi:10.5281/zenodo.20461148": {
+      "date": "2026-05-30",
+      "score": 9,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Hierarchical latent protein representations enable functional discovery and generative design",
+      "url": "https://doi.org/10.5281/zenodo.20461148"
+    },
+    "doi:10.5281/zenodo.20461149": {
+      "date": "2026-05-30",
+      "score": 9,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Hierarchical latent protein representations enable functional discovery and generative design",
+      "url": "https://doi.org/10.5281/zenodo.20461149"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -56,6 +160,70 @@
       "title": "Probing Adversarial Robustness of Protein Language Models: A Reproducible Case Study of ESM-2 Under Substitution-Based Attacks",
       "url": "https://doi.org/10.53799/gteskx50"
     },
+    "doi:10.64898/2026.02.28.708734": {
+      "date": "2026-05-25",
+      "score": 4,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "biorxiv",
+      "title": "Read-Consistent Minimum Unique Substrings: A Parameter-Free, Linear-Time Framework for Genomic Sequence Representation",
+      "url": "https://doi.org/10.64898/2026.02.28.708734"
+    },
+    "doi:10.64898/2026.05.23.727225": {
+      "date": "2026-05-27",
+      "score": 6,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "GraphTox: A Semi-Supervised Pre-Trained Framework for Peptide Toxicity Prediction using Geometric Graph Transformer and ReLoRA based finetuning",
+      "url": "https://doi.org/10.64898/2026.05.23.727225"
+    },
+    "doi:10.64898/2026.05.23.727275": {
+      "date": "2026-05-26",
+      "score": 17,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Nitrosomes: protein language modeling and live-cell imaging reveal condensate-like nitrogenase organization in heterocysts",
+      "url": "https://doi.org/10.64898/2026.05.23.727275"
+    },
+    "doi:10.64898/2026.05.25.727723": {
+      "date": "2026-05-26",
+      "score": 17,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "StrucNS reveals interaction-weighted network topology as the driving predictor of absolute stability of natural and de novo proteins",
+      "url": "https://doi.org/10.64898/2026.05.25.727723"
+    },
+    "doi:10.64898/2026.05.26.723419": {
+      "date": "2026-05-29",
+      "score": 18,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Alignment-free phylogenetic inference via hyperbolic protein language models",
+      "url": "https://doi.org/10.64898/2026.05.26.723419"
+    },
+    "doi:10.64898/2026.05.26.727927": {
+      "date": "2026-05-29",
+      "score": 12,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Multiple versus pairwise sequence alignments for protein phylogenetics using foundation models",
+      "url": "https://doi.org/10.64898/2026.05.26.727927"
+    },
+    "doi:10.64898/2026.05.28.728275": {
+      "date": "2026-05-30",
+      "score": 10,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Disentangling RNA evolution and thermodynamics in genomic language models",
+      "url": "https://doi.org/10.64898/2026.05.28.728275"
+    },
+    "openalex:https://openalex.org/w7162820676": {
+      "date": "2026-05-26",
+      "score": 13,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "Protein Characterization using Deep Learning Models",
+      "url": "https://openalex.org/W7162820676"
+    },
     "openalex:https://openalex.org/w7162892946": {
       "date": "2026-05-27",
       "score": 13,
@@ -63,6 +231,14 @@
       "source": "OpenAlex",
       "title": "Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches",
       "url": "https://openalex.org/W7162892946"
+    },
+    "openalex:https://openalex.org/w7162893686": {
+      "date": "2026-05-27",
+      "score": 14,
+      "sent_at": "2026-06-01T12:34:16.826841+00:00",
+      "source": "OpenAlex",
+      "title": "PROTOCOL: Late Interaction Retrieval for Protein Homolog Search",
+      "url": "https://openalex.org/W7162893686"
     }
   }
 }
