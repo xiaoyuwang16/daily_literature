@@ -1,0 +1,100 @@
+alert:
+  title: "Daily PLM-PPI Literature Alert"
+  project_context: >
+    We are interested in protein language models for protein-protein interaction
+    interpretation, partner-conditioned embedding shifts, sparse autoencoder
+    features, AlphaFold-Multimer limitations, proximity labeling, PUP-IT, and
+    functional vs physical interaction continua.
+
+sources:
+  pubmed:
+    queries:
+      - '("protein language model" OR "protein language models") AND ("protein-protein interaction" OR interface OR binding)'
+      - '("sparse autoencoder" OR "interpretable feature" OR "mechanistic interpretability") AND protein'
+      - '("AlphaFold-Multimer" OR "AlphaFold Multimer") AND ("protein-protein interaction" OR interface OR screening)'
+      - '("proximity labeling" OR "PUP-IT" OR "pupylation-based interaction tagging" OR TurboID OR BioID) AND protein'
+  arxiv:
+    queries:
+      - 'all:"protein language model" AND all:"protein-protein interaction"'
+      - 'all:"protein language model" AND all:"sparse autoencoder"'
+      - 'all:"AlphaFold-Multimer" AND all:"protein-protein interaction"'
+      - 'all:"proximity labeling" AND all:"protein"'
+  openalex:
+    queries:
+      - 'protein language model protein-protein interaction'
+      - 'protein language model sparse autoencoder'
+      - 'partner-conditioned protein language model'
+      - 'AlphaFold-Multimer protein interaction screening'
+      - 'PUP-IT proximity labeling protein interaction'
+  biorxiv:
+    enabled: true
+  medrxiv:
+    enabled: true
+
+positive_keywords:
+  - protein language model
+  - protein language models
+  - PLM
+  - ESM
+  - ESM2
+  - ESM-2
+  - ProGen
+  - ProtT5
+  - protein-protein interaction
+  - PPI
+  - protein interaction
+  - interface
+  - binding
+  - contact prediction
+  - partner-conditioned
+  - pair-aware
+  - paired sequence
+  - interaction context
+  - sparse autoencoder
+  - SAE
+  - interpretable feature
+  - mechanistic interpretability
+  - disentangle
+  - disentanglement
+  - AlphaFold-Multimer
+  - AlphaFold Multimer
+  - ipTM
+  - pDockQ
+  - proximity labeling
+  - proximity labelling
+  - PUP-IT
+  - pupylation-based interaction tagging
+  - TurboID
+  - BioID
+  - STRING
+  - interactome
+  - Arabidopsis
+  - plant
+  - stress
+  - co-complex
+  - functional association
+
+high_priority_phrases:
+  - protein language model
+  - protein-protein interaction
+  - sparse autoencoder
+  - partner-conditioned
+  - pair-aware
+  - AlphaFold-Multimer
+  - proximity labeling
+  - PUP-IT
+  - functional association
+
+negative_keywords:
+  - clinical trial
+  - diagnosis
+  - cancer immunotherapy
+  - patient cohort
+  - purely synthetic polymer
+
+score_weights:
+  positive_keyword: 1
+  high_priority_phrase: 3
+  title_match_multiplier: 2
+  negative_keyword: -3
+
