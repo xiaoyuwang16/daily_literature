@@ -11,7 +11,7 @@ sources:
     queries:
       - '("protein language model" OR "protein language models") AND ("protein-protein interaction" OR interface OR binding)'
       - '("protein language model" OR "protein language models" OR ESM OR "evolutionary scale modeling") AND ("representation learning" OR embedding OR embeddings OR "sequence representation")'
-      - '(ESM OR ESM2 OR "ESM-2" OR "evolutionary scale modeling" OR ProtT5 OR ProGen) AND protein'
+      - '(ESM OR ESM2 OR "ESM-2" OR "evolutionary scale modeling" OR “ESM-c") AND protein'
       - '("sparse autoencoder" OR "interpretable feature" OR "mechanistic interpretability") AND protein'
       - '("AlphaFold-Multimer" OR "AlphaFold Multimer") AND ("protein-protein interaction" OR interface OR screening)'
       - '("proximity labeling" OR "PUP-IT" OR "pupylation-based interaction tagging" OR TurboID OR BioID) AND protein'
@@ -116,7 +116,6 @@ high_priority_phrases:
   - protein-protein interaction
   - sparse autoencoder
   - partner-conditioned
-  - pair-aware
   - AlphaFold-Multimer
   - proximity labeling
   - PUP-IT
