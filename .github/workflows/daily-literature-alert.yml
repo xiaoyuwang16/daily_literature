@@ -1,0 +1,73 @@
+name: Daily PLM-PPI Literature Alert
+
+on:
+  schedule:
+    # GitHub Actions cron uses UTC.
+    # 06:00 UTC = 08:00 Copenhagen during summer time.
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: "How many recent days to search"
+        required: false
+        default: "7"
+      min_score:
+        description: "Minimum relevance score"
+        required: false
+        default: "4"
+      max_results:
+        description: "Maximum papers in the email"
+        required: false
+        default: "25"
+      dry_run:
+        description: "Do not send email"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  literature-alert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run literature alert
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          DAYS_BACK: ${{ github.event.inputs.days_back || '7' }}
+          MIN_SCORE: ${{ github.event.inputs.min_score || '4' }}
+          MAX_RESULTS: ${{ github.event.inputs.max_results || '25' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: |
+          EXTRA_ARGS=""
+          if [ "$DRY_RUN" = "true" ]; then
+            EXTRA_ARGS="--dry-run"
+          fi
+          python scripts/daily_literature_alert.py \
+            --days-back "$DAYS_BACK" \
+            --min-score "$MIN_SCORE" \
+            --max-results "$MAX_RESULTS" \
+            $EXTRA_ARGS
+
+      - name: Commit updated seen-article state
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/seen_articles.json
+          git diff --cached --quiet || git commit -m "Update literature alert seen articles"
+          git push
