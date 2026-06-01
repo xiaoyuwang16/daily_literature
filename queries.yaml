@@ -10,18 +10,27 @@ sources:
   pubmed:
     queries:
       - '("protein language model" OR "protein language models") AND ("protein-protein interaction" OR interface OR binding)'
+      - '("protein language model" OR "protein language models" OR ESM OR "evolutionary scale modeling") AND ("representation learning" OR embedding OR embeddings OR "sequence representation")'
+      - '(ESM OR ESM2 OR "ESM-2" OR "evolutionary scale modeling" OR ProtT5 OR ProGen) AND protein'
       - '("sparse autoencoder" OR "interpretable feature" OR "mechanistic interpretability") AND protein'
       - '("AlphaFold-Multimer" OR "AlphaFold Multimer") AND ("protein-protein interaction" OR interface OR screening)'
       - '("proximity labeling" OR "PUP-IT" OR "pupylation-based interaction tagging" OR TurboID OR BioID) AND protein'
   arxiv:
     queries:
       - 'all:"protein language model" AND all:"protein-protein interaction"'
+      - 'all:"protein language model" AND all:"representation learning"'
+      - 'all:"evolutionary scale modeling" AND all:"protein"'
+      - 'all:"ESM" AND all:"protein"'
       - 'all:"protein language model" AND all:"sparse autoencoder"'
       - 'all:"AlphaFold-Multimer" AND all:"protein-protein interaction"'
       - 'all:"proximity labeling" AND all:"protein"'
   openalex:
     queries:
       - 'protein language model protein-protein interaction'
+      - 'protein language model representation learning protein sequence'
+      - 'evolutionary scale modeling protein'
+      - 'ESM protein language model'
+      - 'protein embeddings structure function'
       - 'protein language model sparse autoencoder'
       - 'partner-conditioned protein language model'
       - 'AlphaFold-Multimer protein interaction screening'
@@ -35,11 +44,30 @@ positive_keywords:
   - protein language model
   - protein language models
   - PLM
+  - pLM
+  - language model
+  - masked language model
+  - protein representation
+  - sequence representation
+  - representation learning
+  - embedding
+  - embeddings
   - ESM
   - ESM2
   - ESM-2
+  - ESMFold
+  - evolutionary scale modeling
+  - evolutionary-scale modeling
   - ProGen
   - ProtT5
+  - xTrimoPGLM
+  - ProteinBERT
+  - ProtBert
+  - MSA Transformer
+  - inverse folding
+  - structure prediction
+  - structure and function
+  - sequence-to-function
   - protein-protein interaction
   - PPI
   - protein interaction
@@ -76,6 +104,14 @@ positive_keywords:
 
 high_priority_phrases:
   - protein language model
+  - protein language models
+  - evolutionary scale modeling
+  - ESM-2
+  - ESM2
+  - ESMFold
+  - representation learning
+  - protein representation
+  - protein embeddings
   - protein-protein interaction
   - sparse autoencoder
   - partner-conditioned
@@ -97,4 +133,3 @@ score_weights:
   high_priority_phrase: 3
   title_match_multiplier: 2
   negative_keyword: -3
-
