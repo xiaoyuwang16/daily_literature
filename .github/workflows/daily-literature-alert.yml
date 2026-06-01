@@ -23,8 +23,6 @@ on:
         description: "Do not send email"
         required: false
         default: "false"
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   
 permissions:
   contents: write
