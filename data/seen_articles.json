@@ -24,6 +24,54 @@
       "title": "msCNN-PLM-FAD: Enhanced predicting FAD binding sites by using protein language representation combined with multiple separable windows convolutional neural networks",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41763284/"
     },
+    "doi:10.1016/j.ab.2026.116154": {
+      "date": "2026 May 21",
+      "score": 6,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "Enhancing Protein Subcellular Localization Prediction through Language Model-Based Knowledge Embeddings and Machine Learning Techniques",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42173334/"
+    },
+    "doi:10.1016/j.chroma.2026.466890": {
+      "date": "2026 May 10",
+      "score": 10,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "Protein language model-guided generative design of affinity peptides for chromatographic purification of lentiviral vectors",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41833101/"
+    },
+    "doi:10.1016/j.compbiolchem.2026.109130": {
+      "date": "2026 May 19",
+      "score": 10,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "SPLiNet: Lightweight prediction of protein-RNA interaction sites by integrating a structure-aware protein language model with a dual-branch network",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42190366/"
+    },
+    "doi:10.1016/j.ijbiomac.2026.152509": {
+      "date": "2026 May 12",
+      "score": 4,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "RIMGOGraph: integrating AlphaFold-derived residue interaction graphs and protein language embeddings for structure-informed protein function prediction",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42119874/"
+    },
+    "doi:10.1016/j.isci.2026.115795": {
+      "date": "2026 May 15",
+      "score": 18,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "Predicting protein-nucleic acid interactions via protein language models with biophysical and evolutionary priors",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42100742/"
+    },
+    "doi:10.1021/acs.jcim.5c02744": {
+      "date": "2026 May 25",
+      "score": 10,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "BERT-T6: Toward High-Accuracy T6SS Bacterial Toxin Identification Using a Protein Language Model",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42095236/"
+    },
     "doi:10.1021/acs.jcim.6c00363": {
       "date": "2026-05-29",
       "score": 10,
@@ -31,6 +79,14 @@
       "source": "OpenAlex",
       "title": "SSPSPredictor: A Sequence- and Structure-Based Deep Learning Model for Predicting Phase-Separating Proteins",
       "url": "https://doi.org/10.1021/acs.jcim.6c00363"
+    },
+    "doi:10.1021/acs.jcim.6c00577": {
+      "date": "2026 May 11",
+      "score": 14,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "Predicting Peptide Aggregation with Protein Language Model Embeddings",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42049499/"
     },
     "doi:10.1021/acs.jctc.6c00427": {
       "date": "2026 May 26",
@@ -48,6 +104,14 @@
       "title": "A robust framework for protein-protein interaction prediction with multi-objective ensemble learning and embedding-based representations",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42215669/"
     },
+    "doi:10.1073/pnas.2524201123": {
+      "date": "2026-05-20",
+      "score": 19,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "OpenAlex",
+      "title": "ProteomeLM: A proteome-scale language model enables accurate and rapid prediction of protein\u2013protein interactions and gene essentiality across taxa",
+      "url": "https://doi.org/10.1073/pnas.2524201123"
+    },
     "doi:10.1073/pnas.2531932123": {
       "date": "2026-05-26",
       "score": 5,
@@ -64,6 +128,46 @@
       "title": "Prediction of antibody non-specificity using protein language models and biophysical parameters",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42200306/"
     },
+    "doi:10.1093/bioinformatics/btag254": {
+      "date": "2026 May 3",
+      "score": 8,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "Learning protein representations with conformational dynamics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42085496/"
+    },
+    "doi:10.1093/bioinformatics/btag260": {
+      "date": "2026 May 3",
+      "score": 14,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "Protein language model embeddings improve HIV drug resistance prediction: a comprehensive benchmark with attention-based interpretability",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42105210/"
+    },
+    "doi:10.1093/bioinformatics/btag309": {
+      "date": "2026 May 14",
+      "score": 8,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "BindPred: A Framework for Predicting Protein-Protein Binding Affinity from Language Model Embeddings",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42135943/"
+    },
+    "doi:10.1093/nar/gkag425": {
+      "date": "2026 May 5",
+      "score": 4,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "xBind: an integrated webserver for large language model-enabled cross-molecular protein binding site prediction",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42083872/"
+    },
+    "doi:10.1093/nargab/lqag042": {
+      "date": "2026 Jun",
+      "score": 10,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "A multimodal human protein embeddings database: DeepDrug Protein Embeddings Bank (DPEB)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42088442/"
+    },
     "doi:10.1093/nargab/lqag047": {
       "date": "2026 Jun",
       "score": 6,
@@ -72,6 +176,14 @@
       "title": "Integrating protein and DNA embeddings for improving genome-wide transcription factor binding site prediction",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42099803/"
     },
+    "doi:10.1126/sciadv.aed3077": {
+      "date": "2026 May 8",
+      "score": 18,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "Protein language models accurately predict polymorphic peptide-modulated NK cell receptor-HLA class I interaction strengths",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102196/"
+    },
     "doi:10.1186/s12864-026-12976-5": {
       "date": "2026-05-29",
       "score": 22,
@@ -79,6 +191,14 @@
       "source": "OpenAlex",
       "title": "PRIME: An evaluation framework for protein representation inference and generalization in viral mutation space",
       "url": "https://doi.org/10.1186/s12864-026-12976-5"
+    },
+    "doi:10.1186/s12915-026-02636-1": {
+      "date": "2026 May 19",
+      "score": 10,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "KmalPred: a deep learning framework for lysine malonylation site prediction using protein language model representations",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42157243/"
     },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
@@ -168,6 +288,38 @@
       "title": "Read-Consistent Minimum Unique Substrings: A Parameter-Free, Linear-Time Framework for Genomic Sequence Representation",
       "url": "https://doi.org/10.64898/2026.02.28.708734"
     },
+    "doi:10.64898/2026.04.28.721359": {
+      "date": "2026 May 8",
+      "score": 12,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "SPPIDER-seq: Sequence-based partner-aware predictor of protein-protein interaction sites",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42094486/"
+    },
+    "doi:10.64898/2026.04.29.721522": {
+      "date": "2026-05-02",
+      "score": 5,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "biorxiv",
+      "title": "Knowledge Inclusive Machine Learning for Disease Gene Prioritisation",
+      "url": "https://doi.org/10.64898/2026.04.29.721522"
+    },
+    "doi:10.64898/2026.04.29.721692": {
+      "date": "2026 May 4",
+      "score": 14,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "PubMed",
+      "title": "DPLM: Dynamics-aware Protein Language Model via contrastive learning between sequence and molecular dynamics simulation trajectory",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42146638/"
+    },
+    "doi:10.64898/2026.05.07.723448": {
+      "date": "2026-05-11",
+      "score": 4,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "OpenAlex",
+      "title": "The astrocyte-enriched gene <i>Tmem44</i> regulates circadian protein translation in mouse astrocytes",
+      "url": "https://doi.org/10.64898/2026.05.07.723448"
+    },
     "doi:10.64898/2026.05.23.727225": {
       "date": "2026-05-27",
       "score": 6,
@@ -216,6 +368,30 @@
       "title": "Disentangling RNA evolution and thermodynamics in genomic language models",
       "url": "https://doi.org/10.64898/2026.05.28.728275"
     },
+    "openalex:https://openalex.org/w7161090705": {
+      "date": "2026-05-09",
+      "score": 14,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "OpenAlex",
+      "title": "PPI2Text: Captioning Protein-Protein Interactions with Coordinate-Aligned Pair-Map Decoding",
+      "url": "https://openalex.org/W7161090705"
+    },
+    "openalex:https://openalex.org/w7162149927": {
+      "date": "2026-05-20",
+      "score": 12,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "OpenAlex",
+      "title": "ECHO-PPI: Trustworthy AI for Evidence-Bundled Detection of Overlapping Protein Modules in Protein-Protein Interaction Networks",
+      "url": "https://openalex.org/W7162149927"
+    },
+    "openalex:https://openalex.org/w7162219193": {
+      "date": "2026-05-19",
+      "score": 20,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "OpenAlex",
+      "title": "Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Embedding-Space Flow Matching for Protein-Protein Interaction Discovery",
+      "url": "https://openalex.org/W7162219193"
+    },
     "openalex:https://openalex.org/w7162820676": {
       "date": "2026-05-26",
       "score": 13,
@@ -231,6 +407,14 @@
       "source": "OpenAlex",
       "title": "Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches",
       "url": "https://openalex.org/W7162892946"
+    },
+    "openalex:https://openalex.org/w7162893062": {
+      "date": "2026-05-22",
+      "score": 4,
+      "sent_at": "2026-06-01T13:16:19.883568+00:00",
+      "source": "OpenAlex",
+      "title": "Continuity and Ordinality Matter: Constraining Time Series Tokens for Effective Time Series Analysis with Large Language Models",
+      "url": "https://openalex.org/W7162893062"
     },
     "openalex:https://openalex.org/w7162893686": {
       "date": "2026-05-27",
