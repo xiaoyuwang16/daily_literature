@@ -32,6 +32,30 @@
       "title": "Enhancing Protein Subcellular Localization Prediction through Language Model-Based Knowledge Embeddings and Machine Learning Techniques",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42173334/"
     },
+    "doi:10.1016/j.cbpa.2026.102678": {
+      "date": "2026 Jun",
+      "score": 8,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "PubMed",
+      "title": "Photocatalytic proximity labeling in primary samples",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41931858/"
+    },
+    "doi:10.1016/j.cbpa.2026.102695": {
+      "date": "2026 Jun",
+      "score": 12,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "PubMed",
+      "title": "Always on the move: Mapping spatiotemporal interactome with proximity labeling in mammalian cells",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42127738/"
+    },
+    "doi:10.1016/j.celrep.2026.117355": {
+      "date": "2026 May 26",
+      "score": 8,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "PubMed",
+      "title": "Proximity labeling proteomics maps radial glial ciliary proteins across the developing telencephalon",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42105234/"
+    },
     "doi:10.1016/j.chroma.2026.466890": {
       "date": "2026 May 10",
       "score": 10,
@@ -96,6 +120,30 @@
       "title": "Predicting and Decoding Allosteric Binding Sites Using Protein Language Models and Structure-Based Machine Learning: An Energy Landscape-Guided Explainable AI Framework",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42093179/"
     },
+    "doi:10.1038/s41467-026-73885-5": {
+      "date": "2026-05-30",
+      "score": 12,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "OpenAlex",
+      "title": "Improving protein and protein interactions using pseudo-dimers derived from monomeric proteins",
+      "url": "https://doi.org/10.1038/s41467-026-73885-5"
+    },
+    "doi:10.1038/s41589-025-01993-2": {
+      "date": "2026 Jun",
+      "score": 8,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "PubMed",
+      "title": "In situ proximity labeling of proteins associated with circRNA and RNA G-quadruplexes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40775047/"
+    },
+    "doi:10.1038/s41589-025-02028-6": {
+      "date": "2026 Jun",
+      "score": 8,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "PubMed",
+      "title": "Author Correction: In situ proximity labeling of proteins associated with circRNA and RNA G-quadruplexes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40855111/"
+    },
     "doi:10.1038/s41598-026-55161-0": {
       "date": "2026 May 29",
       "score": 10,
@@ -127,6 +175,14 @@
       "source": "PubMed",
       "title": "Prediction of antibody non-specificity using protein language models and biophysical parameters",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42200306/"
+    },
+    "doi:10.1091/mbc.e25-12-0627": {
+      "date": "2026 Jun",
+      "score": 8,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "PubMed",
+      "title": "An integrated proximity labeling and vesicle reconstitution assay identifies novel regulators of Sonic hedgehog secretion",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42126957/"
     },
     "doi:10.1093/bioinformatics/btag254": {
       "date": "2026 May 3",
@@ -200,6 +256,14 @@
       "title": "KmalPred: a deep learning framework for lysine malonylation site prediction using protein language model representations",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42157243/"
     },
+    "doi:10.1186/s13062-026-00848-7": {
+      "date": "2026-06-01",
+      "score": 14,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "OpenAlex",
+      "title": "Deep learning\u2013driven decoding of ubiquitination: from regulatory mechanisms to targeted protein degradation",
+      "url": "https://doi.org/10.1186/s13062-026-00848-7"
+    },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
       "score": 18,
@@ -207,6 +271,22 @@
       "source": "OpenAlex",
       "title": "Independent Structural Contribution to Mutation Sensitivity in Protein Language Models Revealed by Variance Decomposition Across Complete Missense Landscapes",
       "url": "https://doi.org/10.21203/rs.3.rs-9299039/v1"
+    },
+    "doi:10.3892/etm.2026.13144": {
+      "date": "2026 Jun",
+      "score": 10,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "PubMed",
+      "title": "Interacting proteins of AMPK studied using TurboID proximity labeling technology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42022757/"
+    },
+    "doi:10.48550/arxiv.2605.31518": {
+      "date": "2026-05-29",
+      "score": 10,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "OpenAlex",
+      "title": "On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders",
+      "url": "https://doi.org/10.48550/arxiv.2605.31518"
     },
     "doi:10.5281/zenodo.20434891": {
       "date": "2026-05-28",
@@ -320,6 +400,14 @@
       "title": "The astrocyte-enriched gene <i>Tmem44</i> regulates circadian protein translation in mouse astrocytes",
       "url": "https://doi.org/10.64898/2026.05.07.723448"
     },
+    "doi:10.64898/2026.05.22.727045": {
+      "date": "2026-05-26",
+      "score": 7,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "biorxiv",
+      "title": "OryzaG3: A Single-species Genomic Foundation Model Pretrained on Rice Pangenome",
+      "url": "https://doi.org/10.64898/2026.05.22.727045"
+    },
     "doi:10.64898/2026.05.23.727225": {
       "date": "2026-05-27",
       "score": 6,
@@ -360,6 +448,14 @@
       "title": "Multiple versus pairwise sequence alignments for protein phylogenetics using foundation models",
       "url": "https://doi.org/10.64898/2026.05.26.727927"
     },
+    "doi:10.64898/2026.05.28.728246": {
+      "date": "2026-06-01",
+      "score": 15,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "OpenAlex",
+      "title": "Species- and Topic-aware Representation Learning for Antimicrobial Peptide Discovery",
+      "url": "https://doi.org/10.64898/2026.05.28.728246"
+    },
     "doi:10.64898/2026.05.28.728275": {
       "date": "2026-05-30",
       "score": 10,
@@ -367,6 +463,14 @@
       "source": "OpenAlex",
       "title": "Disentangling RNA evolution and thermodynamics in genomic language models",
       "url": "https://doi.org/10.64898/2026.05.28.728275"
+    },
+    "doi:10.64898/2026.05.29.728699": {
+      "date": "2026-05-31",
+      "score": 12,
+      "sent_at": "2026-06-02T10:01:25.207569+00:00",
+      "source": "OpenAlex",
+      "title": "Predicting host-pathogen interactions using a proteome-scale language model",
+      "url": "https://doi.org/10.64898/2026.05.29.728699"
     },
     "openalex:https://openalex.org/w7161090705": {
       "date": "2026-05-09",
