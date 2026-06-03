@@ -216,6 +216,14 @@
       "title": "xBind: an integrated webserver for large language model-enabled cross-molecular protein binding site prediction",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42083872/"
     },
+    "doi:10.1093/nar/gkag507": {
+      "date": "2026-06-02",
+      "score": 4,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "OpenAlex",
+      "title": "SGGly: a web server for whole-protein, structure-guided analysis of candidate N-linked glycosylation sites",
+      "url": "https://doi.org/10.1093/nar/gkag507"
+    },
     "doi:10.1093/nargab/lqag042": {
       "date": "2026 Jun",
       "score": 10,
@@ -264,6 +272,14 @@
       "title": "Deep learning\u2013driven decoding of ubiquitination: from regulatory mechanisms to targeted protein degradation",
       "url": "https://doi.org/10.1186/s13062-026-00848-7"
     },
+    "doi:10.1371/journal.pone.0349433": {
+      "date": "2026",
+      "score": 16,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "PubMed",
+      "title": "ProtAttn-QuadNet: An attention-based deep learning framework for protein-protein interaction prediction using ProtBERT embeddings",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228714/"
+    },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
       "score": 18,
@@ -271,6 +287,46 @@
       "source": "OpenAlex",
       "title": "Independent Structural Contribution to Mutation Sensitivity in Protein Language Models Revealed by Variance Decomposition Across Complete Missense Landscapes",
       "url": "https://doi.org/10.21203/rs.3.rs-9299039/v1"
+    },
+    "doi:10.25258/ijddt.16.43s.111": {
+      "date": "2026-06-02",
+      "score": 4,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "OpenAlex",
+      "title": "From Sequence to Function: insilico Structural and Functional Annotation of a Target Protein CDK4",
+      "url": "https://doi.org/10.25258/ijddt.16.43s.111"
+    },
+    "doi:10.26434/chemrxiv.15004221/v1": {
+      "date": "2026-06-02",
+      "score": 26,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "OpenAlex",
+      "title": "Illuminating the Dark Kinome through Protein Language Models, Symbolic Regression, and Structure-Based Prioritisation",
+      "url": "https://doi.org/10.26434/chemrxiv.15004221/v1"
+    },
+    "doi:10.3389/fnmol.2026.1831452": {
+      "date": "2026-06-02",
+      "score": 6,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "OpenAlex",
+      "title": "Calcium signaling and postsynaptic density dynamics: the roles of calmodulin in synaptic protein regulation",
+      "url": "https://doi.org/10.3389/fnmol.2026.1831452"
+    },
+    "doi:10.3389/fpls.2026.1815183": {
+      "date": "2026-06-02",
+      "score": 4,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "OpenAlex",
+      "title": "Decoding plant volatile stress signals across scales: from molecular responses to ecosystem dynamics",
+      "url": "https://doi.org/10.3389/fpls.2026.1815183"
+    },
+    "doi:10.3389/fpls.2026.1860606": {
+      "date": "2026-06-02",
+      "score": 4,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "OpenAlex",
+      "title": "Expression of the quinoa TCP gene family and analysis of CqTCP11 involvement in seed germination stress response",
+      "url": "https://doi.org/10.3389/fpls.2026.1860606"
     },
     "doi:10.3892/etm.2026.13144": {
       "date": "2026 Jun",
@@ -440,6 +496,30 @@
       "title": "Alignment-free phylogenetic inference via hyperbolic protein language models",
       "url": "https://doi.org/10.64898/2026.05.26.723419"
     },
+    "doi:10.64898/2026.05.26.727766": {
+      "date": "2026-05-27",
+      "score": 4,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "biorxiv",
+      "title": "The Function of LncRNA DRIR in Freezing Tolerance by Promoting Autophagic Degradation of CP29A and CP29B to Alter Alternative Splicing Patterns of Pre-mRNAs",
+      "url": "https://doi.org/10.64898/2026.05.26.727766"
+    },
+    "doi:10.64898/2026.05.26.727834": {
+      "date": "2026-05-27",
+      "score": 4,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "biorxiv",
+      "title": "Systematic prediction and functional analysis of amino acid residues determining product specificity in the plant oxidosqualene cyclase superfamily",
+      "url": "https://doi.org/10.64898/2026.05.26.727834"
+    },
+    "doi:10.64898/2026.05.26.727883": {
+      "date": "2026-05-27",
+      "score": 5,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "biorxiv",
+      "title": "The DC1 domain protein Vacuoleless Gametophytes positively regulates salt stress tolerance in Arabidopsis thaliana",
+      "url": "https://doi.org/10.64898/2026.05.26.727883"
+    },
     "doi:10.64898/2026.05.26.727927": {
       "date": "2026-05-29",
       "score": 12,
@@ -464,6 +544,14 @@
       "title": "Disentangling RNA evolution and thermodynamics in genomic language models",
       "url": "https://doi.org/10.64898/2026.05.28.728275"
     },
+    "doi:10.64898/2026.05.29.727021": {
+      "date": "2026-06-02",
+      "score": 33,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "OpenAlex",
+      "title": "Mechanistic Interpretability for Protein Language Models: A Validation Framework",
+      "url": "https://doi.org/10.64898/2026.05.29.727021"
+    },
     "doi:10.64898/2026.05.29.728699": {
       "date": "2026-05-31",
       "score": 12,
@@ -471,6 +559,14 @@
       "source": "OpenAlex",
       "title": "Predicting host-pathogen interactions using a proteome-scale language model",
       "url": "https://doi.org/10.64898/2026.05.29.728699"
+    },
+    "doi:10.64898/2026.05.29.728739": {
+      "date": "2026-06-02",
+      "score": 21,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "OpenAlex",
+      "title": "Decoding the Grammar of Protein-Protein Interaction Interfaces with Multimodal Representations",
+      "url": "https://doi.org/10.64898/2026.05.29.728739"
     },
     "openalex:https://openalex.org/w7161090705": {
       "date": "2026-05-09",
@@ -527,6 +623,14 @@
       "source": "OpenAlex",
       "title": "PROTOCOL: Late Interaction Retrieval for Protein Homolog Search",
       "url": "https://openalex.org/W7162893686"
+    },
+    "openalex:https://openalex.org/w7163286954": {
+      "date": "2026-05-29",
+      "score": 10,
+      "sent_at": "2026-06-03T10:32:28.607478+00:00",
+      "source": "OpenAlex",
+      "title": "On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders",
+      "url": "https://openalex.org/W7163286954"
     }
   }
 }
