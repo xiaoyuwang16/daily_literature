@@ -152,6 +152,22 @@
       "title": "A robust framework for protein-protein interaction prediction with multi-objective ensemble learning and embedding-based representations",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42215669/"
     },
+    "doi:10.1038/s41598-026-56178-1": {
+      "date": "2026-06-03",
+      "score": 5,
+      "sent_at": "2026-06-05T09:26:59.914441+00:00",
+      "source": "OpenAlex",
+      "title": "Learning continuous activation fields from microscopic SEM images of lycoperdioid fungi via CNN-guided neural operator modeling",
+      "url": "https://doi.org/10.1038/s41598-026-56178-1"
+    },
+    "doi:10.1038/s44431-026-00025-w": {
+      "date": "2026-06-03",
+      "score": 10,
+      "sent_at": "2026-06-05T09:26:59.914441+00:00",
+      "source": "OpenAlex",
+      "title": "Advancements in characterization of protein dynamics with machine learning",
+      "url": "https://doi.org/10.1038/s44431-026-00025-w"
+    },
     "doi:10.1073/pnas.2524201123": {
       "date": "2026-05-20",
       "score": 19,
@@ -312,6 +328,14 @@
       "title": "Illuminating the Dark Kinome through Protein Language Models, Symbolic Regression, and Structure-Based Prioritisation",
       "url": "https://doi.org/10.26434/chemrxiv.15004221/v1"
     },
+    "doi:10.3389/fbinf.2026.1832968": {
+      "date": "2026-06-03",
+      "score": 14,
+      "sent_at": "2026-06-05T09:26:59.914441+00:00",
+      "source": "OpenAlex",
+      "title": "NbBayesLM: bayesian prediction of nanobody thermostability using protein language model",
+      "url": "https://doi.org/10.3389/fbinf.2026.1832968"
+    },
     "doi:10.3389/fnmol.2026.1831452": {
       "date": "2026-06-02",
       "score": 6,
@@ -432,6 +456,14 @@
       "title": "Read-Consistent Minimum Unique Substrings: A Parameter-Free, Linear-Time Framework for Genomic Sequence Representation",
       "url": "https://doi.org/10.64898/2026.02.28.708734"
     },
+    "doi:10.64898/2026.04.22.720175": {
+      "date": "2026 May 29",
+      "score": 4,
+      "sent_at": "2026-06-05T09:26:59.914441+00:00",
+      "source": "PubMed",
+      "title": "AlphaInterp: Mechanistic Interpretability of AlphaFold 3 Reveals How Evolutionary Information Shapes Protein Structure Prediction",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42079181/"
+    },
     "doi:10.64898/2026.04.28.721359": {
       "date": "2026 May 8",
       "score": 12,
@@ -536,6 +568,14 @@
       "title": "Multiple versus pairwise sequence alignments for protein phylogenetics using foundation models",
       "url": "https://doi.org/10.64898/2026.05.26.727927"
     },
+    "doi:10.64898/2026.05.27.728120": {
+      "date": "2026-05-29",
+      "score": 7,
+      "sent_at": "2026-06-05T09:26:59.914441+00:00",
+      "source": "biorxiv",
+      "title": "TrbA binds and locks a sliding clamp KorB to repress transcription on multi-drug resistance plasmids",
+      "url": "https://doi.org/10.64898/2026.05.27.728120"
+    },
     "doi:10.64898/2026.05.28.728246": {
       "date": "2026-06-01",
       "score": 15,
@@ -639,6 +679,14 @@
       "source": "OpenAlex",
       "title": "On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders",
       "url": "https://openalex.org/W7163286954"
+    },
+    "openalex:https://openalex.org/w7163287517": {
+      "date": "2026-05-29",
+      "score": 8,
+      "sent_at": "2026-06-05T09:26:59.914441+00:00",
+      "source": "OpenAlex",
+      "title": "Effective Biological Representation Learning by Masking Gene Expression",
+      "url": "https://openalex.org/W7163287517"
     }
   }
 }
