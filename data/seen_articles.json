@@ -8,6 +8,30 @@
       "title": "Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches",
       "url": "http://arxiv.org/abs/2605.28886v1"
     },
+    "arxiv:2606.03422v1": {
+      "date": "2026-06-02",
+      "score": 12,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "arXiv",
+      "title": "HonestAffinity: Leak-Aware Evaluation of Protein and Pocket Priors for Binding Affinity Prediction",
+      "url": "http://arxiv.org/abs/2606.03422v1"
+    },
+    "arxiv:2606.04021v1": {
+      "date": "2026-06-01",
+      "score": 7,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "arXiv",
+      "title": "Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks",
+      "url": "http://arxiv.org/abs/2606.04021v1"
+    },
+    "arxiv:2606.04228v1": {
+      "date": "2026-06-02",
+      "score": 26,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "arXiv",
+      "title": "When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models",
+      "url": "http://arxiv.org/abs/2606.04228v1"
+    },
     "doi:10.1007/s00497-026-00540-w": {
       "date": "2026-05-30",
       "score": 4,
@@ -119,6 +143,14 @@
       "source": "PubMed",
       "title": "Predicting and Decoding Allosteric Binding Sites Using Protein Language Models and Structure-Based Machine Learning: An Energy Landscape-Guided Explainable AI Framework",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42093179/"
+    },
+    "doi:10.1021/acs.jpclett.6c01417": {
+      "date": "2026-06-04",
+      "score": 6,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "OpenAlex",
+      "title": "SCOP-KHNET: An Interpretable Hybrid Network for Protein Structural Class Prediction",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01417"
     },
     "doi:10.1038/s41467-026-73885-5": {
       "date": "2026-05-30",
@@ -376,6 +408,14 @@
       "title": "On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders",
       "url": "https://doi.org/10.48550/arxiv.2605.31518"
     },
+    "doi:10.5281/zenodo.17488190": {
+      "date": "2026-06-04",
+      "score": 26,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "OpenAlex",
+      "title": "data and model weights for MotifAE, a sparse autoencoder for unsupervised discovery of functional motifs from protein language model",
+      "url": "https://doi.org/10.5281/zenodo.17488190"
+    },
     "doi:10.5281/zenodo.20434891": {
       "date": "2026-05-28",
       "score": 27,
@@ -440,6 +480,30 @@
       "title": "Hierarchical latent protein representations enable functional discovery and generative design",
       "url": "https://doi.org/10.5281/zenodo.20461149"
     },
+    "doi:10.5281/zenodo.20545410": {
+      "date": "2026-06-04",
+      "score": 10,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "OpenAlex",
+      "title": "ProMotifGen: Protein language model-guided generation of heterodimeric DNA motifs for transcription factor interactions",
+      "url": "https://doi.org/10.5281/zenodo.20545410"
+    },
+    "doi:10.5281/zenodo.20545411": {
+      "date": "2026-06-04",
+      "score": 10,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "OpenAlex",
+      "title": "ProMotifGen: Protein language model-guided generation of heterodimeric DNA motifs for transcription factor interactions",
+      "url": "https://doi.org/10.5281/zenodo.20545411"
+    },
+    "doi:10.5281/zenodo.20547228": {
+      "date": "2026-06-04",
+      "score": 26,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "OpenAlex",
+      "title": "data and model weights for MotifAE, a sparse autoencoder for unsupervised discovery of functional motifs from protein language model",
+      "url": "https://doi.org/10.5281/zenodo.20547228"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -447,6 +511,14 @@
       "source": "OpenAlex",
       "title": "Probing Adversarial Robustness of Protein Language Models: A Reproducible Case Study of ESM-2 Under Substitution-Based Attacks",
       "url": "https://doi.org/10.53799/gteskx50"
+    },
+    "doi:10.64898/2025.12.01.25341371": {
+      "date": "2026-05-30",
+      "score": 7,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "medrxiv",
+      "title": "The Association Between Oral Microbiota and Chronic Obstructive Pulmonary Disease: An Integrated Study of Genetic Causal Inference and Bioinformatics Analysis",
+      "url": "https://doi.org/10.64898/2025.12.01.25341371"
     },
     "doi:10.64898/2026.02.28.708734": {
       "date": "2026-05-25",
@@ -615,6 +687,22 @@
       "source": "OpenAlex",
       "title": "Decoding the Grammar of Protein-Protein Interaction Interfaces with Multimodal Representations",
       "url": "https://doi.org/10.64898/2026.05.29.728739"
+    },
+    "doi:10.64898/2026.06.01.729118": {
+      "date": "2026-06-04",
+      "score": 23,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "OpenAlex",
+      "title": "Learning residue-level context for modeling protein-protein interactions",
+      "url": "https://doi.org/10.64898/2026.06.01.729118"
+    },
+    "doi:10.64898/2026.06.01.729313": {
+      "date": "2026-06-04",
+      "score": 8,
+      "sent_at": "2026-06-06T08:22:17.973329+00:00",
+      "source": "OpenAlex",
+      "title": "De Novo Design and Computational Validation of a High-Affinity Peptide Inhibitor Targeting the HPV E1-E2 Interface",
+      "url": "https://doi.org/10.64898/2026.06.01.729313"
     },
     "openalex:https://openalex.org/w7161090705": {
       "date": "2026-05-09",
