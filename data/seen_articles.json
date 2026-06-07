@@ -176,6 +176,14 @@
       "title": "Author Correction: In situ proximity labeling of proteins associated with circRNA and RNA G-quadruplexes",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40855111/"
     },
+    "doi:10.1038/s41598-026-54567-0": {
+      "date": "2026-06-04",
+      "score": 9,
+      "sent_at": "2026-06-07T08:43:23.105699+00:00",
+      "source": "OpenAlex",
+      "title": "Structural insights into predicted protein\u2013protein interactions and protein complexes in the human proteome",
+      "url": "https://doi.org/10.1038/s41598-026-54567-0"
+    },
     "doi:10.1038/s41598-026-55161-0": {
       "date": "2026 May 29",
       "score": 10,
@@ -368,6 +376,14 @@
       "title": "NbBayesLM: bayesian prediction of nanobody thermostability using protein language model",
       "url": "https://doi.org/10.3389/fbinf.2026.1832968"
     },
+    "doi:10.3389/ffunb.2026.1813584": {
+      "date": "2026-06-05",
+      "score": 11,
+      "sent_at": "2026-06-07T08:43:23.105699+00:00",
+      "source": "OpenAlex",
+      "title": "First draft genome and genomic analysis of Neofusicoccum parvum isolated from mango (Mangifera indica L.) in Paraguay",
+      "url": "https://doi.org/10.3389/ffunb.2026.1813584"
+    },
     "doi:10.3389/fnmol.2026.1831452": {
       "date": "2026-06-02",
       "score": 6,
@@ -391,6 +407,14 @@
       "source": "OpenAlex",
       "title": "Expression of the quinoa TCP gene family and analysis of CqTCP11 involvement in seed germination stress response",
       "url": "https://doi.org/10.3389/fpls.2026.1860606"
+    },
+    "doi:10.36306/konjes.1716813": {
+      "date": "2026-06-04",
+      "score": 4,
+      "sent_at": "2026-06-07T08:43:23.105699+00:00",
+      "source": "OpenAlex",
+      "title": "AN OVERVIEW OF MULTIMODAL LEARNING: CONCEPTS, CHALLENGES, APPLICATIONS AND DATASETS",
+      "url": "https://doi.org/10.36306/konjes.1716813"
     },
     "doi:10.3892/etm.2026.13144": {
       "date": "2026 Jun",
@@ -775,6 +799,38 @@
       "source": "OpenAlex",
       "title": "Effective Biological Representation Learning by Masking Gene Expression",
       "url": "https://openalex.org/W7163287517"
+    },
+    "openalex:https://openalex.org/w7163594924": {
+      "date": "2026-06-01",
+      "score": 12,
+      "sent_at": "2026-06-07T08:43:23.105699+00:00",
+      "source": "OpenAlex",
+      "title": "Structure-Guided Adaptive Propagation for Protein-Protein Interaction Site Prediction",
+      "url": "https://openalex.org/W7163594924"
+    },
+    "openalex:https://openalex.org/w7163595775": {
+      "date": "2026-05-31",
+      "score": 4,
+      "sent_at": "2026-06-07T08:43:23.105699+00:00",
+      "source": "OpenAlex",
+      "title": "CryoProt: A Protein Pretraining Framework with Cross-Box Interactions on Cryo-EM Density Maps",
+      "url": "https://openalex.org/W7163595775"
+    },
+    "openalex:https://openalex.org/w7163597603": {
+      "date": "2026-06-02",
+      "score": 12,
+      "sent_at": "2026-06-07T08:43:23.105699+00:00",
+      "source": "OpenAlex",
+      "title": "HonestAffinity: Leak-Aware Evaluation of Protein and Pocket Priors for Binding Affinity Prediction",
+      "url": "https://openalex.org/W7163597603"
+    },
+    "openalex:https://openalex.org/w7163597865": {
+      "date": "2026-06-01",
+      "score": 29,
+      "sent_at": "2026-06-07T08:43:23.105699+00:00",
+      "source": "OpenAlex",
+      "title": "AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design",
+      "url": "https://openalex.org/W7163597865"
     }
   }
 }
