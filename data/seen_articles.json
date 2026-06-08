@@ -72,6 +72,14 @@
       "title": "Always on the move: Mapping spatiotemporal interactome with proximity labeling in mammalian cells",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42127738/"
     },
+    "doi:10.1016/j.cell.2026.05.009": {
+      "date": "2026 Jun 2",
+      "score": 4,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "PubMed",
+      "title": "Plant cell wall-plasma membrane attachments mediate stress resilience through cellulose synthase complexes and remorins",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42229423/"
+    },
     "doi:10.1016/j.celrep.2026.117355": {
       "date": "2026 May 26",
       "score": 8,
@@ -151,6 +159,14 @@
       "source": "OpenAlex",
       "title": "SCOP-KHNET: An Interpretable Hybrid Network for Protein Structural Class Prediction",
       "url": "https://doi.org/10.1021/acs.jpclett.6c01417"
+    },
+    "doi:10.1021/acs.jpclett.6c01417.s001": {
+      "date": "2026-06-04",
+      "score": 6,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "SCOP-KHNET:An Interpretable Hybrid Network for ProteinStructural Class Prediction",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01417.s001"
     },
     "doi:10.1038/s41467-026-73885-5": {
       "date": "2026-05-30",
@@ -528,6 +544,30 @@
       "title": "data and model weights for MotifAE, a sparse autoencoder for unsupervised discovery of functional motifs from protein language model",
       "url": "https://doi.org/10.5281/zenodo.20547228"
     },
+    "doi:10.5281/zenodo.20569394": {
+      "date": "2026-06-06",
+      "score": 11,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "Zihan Luo/GTT-EC: GTT",
+      "url": "https://doi.org/10.5281/zenodo.20569394"
+    },
+    "doi:10.5281/zenodo.20573954": {
+      "date": "2026-06-06",
+      "score": 30,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "Notebooks for \"Cluster-Aware Benchmarking of Protein Language Models for Plastic-Degrading Enzyme Prediction\"",
+      "url": "https://doi.org/10.5281/zenodo.20573954"
+    },
+    "doi:10.5281/zenodo.20573955": {
+      "date": "2026-06-06",
+      "score": 30,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "Notebooks for \"Cluster-Aware Benchmarking of Protein Language Models for Plastic-Degrading Enzyme Prediction\"",
+      "url": "https://doi.org/10.5281/zenodo.20573955"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -728,6 +768,22 @@
       "title": "De Novo Design and Computational Validation of a High-Affinity Peptide Inhibitor Targeting the HPV E1-E2 Interface",
       "url": "https://doi.org/10.64898/2026.06.01.729313"
     },
+    "doi:10.64898/2026.06.04.730144": {
+      "date": "2026-06-06",
+      "score": 15,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "Handshake: Partner-Specific Protein-Protein Binding Site Prediction at Scale Using ProstT5 and Cross-Chain Attention",
+      "url": "https://doi.org/10.64898/2026.06.04.730144"
+    },
+    "doi:10.64898/2026.06.05.730461": {
+      "date": "2026-06-07",
+      "score": 22,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "Polynomial Trajectory Compression for Protein Language Model Embeddings",
+      "url": "https://doi.org/10.64898/2026.06.05.730461"
+    },
     "openalex:https://openalex.org/w7161090705": {
       "date": "2026-05-09",
       "score": 14,
@@ -831,6 +887,38 @@
       "source": "OpenAlex",
       "title": "AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design",
       "url": "https://openalex.org/W7163597865"
+    },
+    "openalex:https://openalex.org/w7163719741": {
+      "date": "2026-06-02",
+      "score": 6,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "EpiFormer: Learning Antigen-Antibody Interactions for Epitope Prediction via Geometric Deep Learning",
+      "url": "https://openalex.org/W7163719741"
+    },
+    "openalex:https://openalex.org/w7163720061": {
+      "date": "2026-06-01",
+      "score": 4,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "SpliceBind: Isoform-Aware Prediction of Binding Pocket Druggability",
+      "url": "https://openalex.org/W7163720061"
+    },
+    "openalex:https://openalex.org/w7163720111": {
+      "date": "2026-06-02",
+      "score": 26,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models",
+      "url": "https://openalex.org/W7163720111"
+    },
+    "openalex:https://openalex.org/w7163720659": {
+      "date": "2026-06-03",
+      "score": 10,
+      "sent_at": "2026-06-08T10:14:26.516113+00:00",
+      "source": "OpenAlex",
+      "title": "AF_Cache: Efficient Pipeline for Running AlphaFold for High-Throughput Protein-Protein Interaction Prediction",
+      "url": "https://openalex.org/W7163720659"
     }
   }
 }
