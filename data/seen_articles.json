@@ -448,6 +448,14 @@
       "title": "On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders",
       "url": "https://doi.org/10.48550/arxiv.2605.31518"
     },
+    "doi:10.48550/arxiv.2606.04228": {
+      "date": "2026-06-02",
+      "score": 26,
+      "sent_at": "2026-06-09T08:57:14.011518+00:00",
+      "source": "OpenAlex",
+      "title": "When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models",
+      "url": "https://doi.org/10.48550/arxiv.2606.04228"
+    },
     "doi:10.5281/zenodo.17488190": {
       "date": "2026-06-04",
       "score": 26,
