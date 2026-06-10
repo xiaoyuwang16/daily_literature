@@ -56,6 +56,14 @@
       "title": "Enhancing Protein Subcellular Localization Prediction through Language Model-Based Knowledge Embeddings and Machine Learning Techniques",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42173334/"
     },
+    "doi:10.1016/j.biotechadv.2026.108945": {
+      "date": "2026 Jun 6",
+      "score": 22,
+      "sent_at": "2026-06-10T09:38:30.718125+00:00",
+      "source": "PubMed",
+      "title": "Interpreting embeddings from genome and protein language models",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42252067/"
+    },
     "doi:10.1016/j.cbpa.2026.102678": {
       "date": "2026 Jun",
       "score": 8,
@@ -384,6 +392,14 @@
       "title": "Illuminating the Dark Kinome through Protein Language Models, Symbolic Regression, and Structure-Based Prioritisation",
       "url": "https://doi.org/10.26434/chemrxiv.15004221/v1"
     },
+    "doi:10.3389/fbael.2026.1849012": {
+      "date": "2026-06-08",
+      "score": 4,
+      "sent_at": "2026-06-10T09:38:30.718125+00:00",
+      "source": "OpenAlex",
+      "title": "Deep learning assisted modeling of Li-ion transport in SEI: a graph neural network based study",
+      "url": "https://doi.org/10.3389/fbael.2026.1849012"
+    },
     "doi:10.3389/fbinf.2026.1832968": {
       "date": "2026-06-03",
       "score": 14,
@@ -463,6 +479,14 @@
       "source": "OpenAlex",
       "title": "data and model weights for MotifAE, a sparse autoencoder for unsupervised discovery of functional motifs from protein language model",
       "url": "https://doi.org/10.5281/zenodo.17488190"
+    },
+    "doi:10.5281/zenodo.19466629": {
+      "date": "2026-06-08",
+      "score": 22,
+      "sent_at": "2026-06-10T09:38:30.718125+00:00",
+      "source": "OpenAlex",
+      "title": "HIV Drug Resistance Prediction with ESM-2 Protein Language Model",
+      "url": "https://doi.org/10.5281/zenodo.19466629"
     },
     "doi:10.5281/zenodo.20434891": {
       "date": "2026-05-28",
@@ -575,6 +599,14 @@
       "source": "OpenAlex",
       "title": "Notebooks for \"Cluster-Aware Benchmarking of Protein Language Models for Plastic-Degrading Enzyme Prediction\"",
       "url": "https://doi.org/10.5281/zenodo.20573955"
+    },
+    "doi:10.5281/zenodo.20592324": {
+      "date": "2026-06-08",
+      "score": 22,
+      "sent_at": "2026-06-10T09:38:30.718125+00:00",
+      "source": "OpenAlex",
+      "title": "HIV Drug Resistance Prediction with ESM-2 Protein Language Model",
+      "url": "https://doi.org/10.5281/zenodo.20592324"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
@@ -791,6 +823,22 @@
       "source": "OpenAlex",
       "title": "Polynomial Trajectory Compression for Protein Language Model Embeddings",
       "url": "https://doi.org/10.64898/2026.06.05.730461"
+    },
+    "doi:10.64898/2026.06.05.730531": {
+      "date": "2026-06-08",
+      "score": 8,
+      "sent_at": "2026-06-10T09:38:30.718125+00:00",
+      "source": "OpenAlex",
+      "title": "DDI_single: Single-Sequence-Based Protein Domain Assembly",
+      "url": "https://doi.org/10.64898/2026.06.05.730531"
+    },
+    "doi:10.71423/aimed.20260606": {
+      "date": "2026-06-06",
+      "score": 8,
+      "sent_at": "2026-06-10T09:38:30.718125+00:00",
+      "source": "OpenAlex",
+      "title": "Artificial Intelligence-Driven Antibody-Drug Conjugate Development for Chronic Neuropathic Pain: From Target Discovery to Clinical Translation",
+      "url": "https://doi.org/10.71423/aimed.20260606"
     },
     "openalex:https://openalex.org/w7161090705": {
       "date": "2026-05-09",
