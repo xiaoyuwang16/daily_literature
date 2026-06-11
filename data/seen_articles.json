@@ -32,6 +32,14 @@
       "title": "When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models",
       "url": "http://arxiv.org/abs/2606.04228v1"
     },
+    "arxiv:2606.12209v1": {
+      "date": "2026-06-10",
+      "score": 17,
+      "sent_at": "2026-06-11T10:01:57.751560+00:00",
+      "source": "arXiv",
+      "title": "Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe",
+      "url": "http://arxiv.org/abs/2606.12209v1"
+    },
     "doi:10.1007/s00497-026-00540-w": {
       "date": "2026-05-30",
       "score": 4,
@@ -408,6 +416,14 @@
       "title": "NbBayesLM: bayesian prediction of nanobody thermostability using protein language model",
       "url": "https://doi.org/10.3389/fbinf.2026.1832968"
     },
+    "doi:10.3389/fendo.2026.1798210": {
+      "date": "2026-06-09",
+      "score": 5,
+      "sent_at": "2026-06-11T10:01:57.751560+00:00",
+      "source": "OpenAlex",
+      "title": "Research trends and potential molecular intersections between diabetic kidney disease and sarcopenia: a 21-year bibliometric and bioinformatics analysis",
+      "url": "https://doi.org/10.3389/fendo.2026.1798210"
+    },
     "doi:10.3389/ffunb.2026.1813584": {
       "date": "2026-06-05",
       "score": 11,
@@ -479,6 +495,14 @@
       "source": "OpenAlex",
       "title": "data and model weights for MotifAE, a sparse autoencoder for unsupervised discovery of functional motifs from protein language model",
       "url": "https://doi.org/10.5281/zenodo.17488190"
+    },
+    "doi:10.5281/zenodo.19034258": {
+      "date": "2026-06-09",
+      "score": 15,
+      "sent_at": "2026-06-11T10:01:57.751560+00:00",
+      "source": "OpenAlex",
+      "title": "ChloroGuide: prediction of subplastid localization using protein language model",
+      "url": "https://doi.org/10.5281/zenodo.19034258"
     },
     "doi:10.5281/zenodo.19466629": {
       "date": "2026-06-08",
@@ -607,6 +631,30 @@
       "source": "OpenAlex",
       "title": "HIV Drug Resistance Prediction with ESM-2 Protein Language Model",
       "url": "https://doi.org/10.5281/zenodo.20592324"
+    },
+    "doi:10.5281/zenodo.20607326": {
+      "date": "2026-06-09",
+      "score": 15,
+      "sent_at": "2026-06-11T10:01:57.751560+00:00",
+      "source": "OpenAlex",
+      "title": "ChloroGuide: prediction of subplastid localization using protein language model",
+      "url": "https://doi.org/10.5281/zenodo.20607326"
+    },
+    "doi:10.5281/zenodo.20611190": {
+      "date": "2026-06-09",
+      "score": 10,
+      "sent_at": "2026-06-11T10:01:57.751560+00:00",
+      "source": "OpenAlex",
+      "title": "Telomere-length genetic architecture is frequency-stratified: SHQ1 p.Phe72Cys as a fine-mapped coding bridge, with a falsifiable stability test",
+      "url": "https://doi.org/10.5281/zenodo.20611190"
+    },
+    "doi:10.5281/zenodo.20611191": {
+      "date": "2026-06-09",
+      "score": 10,
+      "sent_at": "2026-06-11T10:01:57.751560+00:00",
+      "source": "OpenAlex",
+      "title": "Telomere-length genetic architecture is frequency-stratified: SHQ1 p.Phe72Cys as a fine-mapped coding bridge, with a falsifiable stability test",
+      "url": "https://doi.org/10.5281/zenodo.20611191"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
@@ -807,6 +855,14 @@
       "source": "OpenAlex",
       "title": "De Novo Design and Computational Validation of a High-Affinity Peptide Inhibitor Targeting the HPV E1-E2 Interface",
       "url": "https://doi.org/10.64898/2026.06.01.729313"
+    },
+    "doi:10.64898/2026.06.04.729962": {
+      "date": "2026-06-07",
+      "score": 5,
+      "sent_at": "2026-06-11T10:01:57.751560+00:00",
+      "source": "OpenAlex",
+      "title": "CLASPP: A unified model for predicting post-translational modifications",
+      "url": "https://doi.org/10.64898/2026.06.04.729962"
     },
     "doi:10.64898/2026.06.04.730144": {
       "date": "2026-06-06",
