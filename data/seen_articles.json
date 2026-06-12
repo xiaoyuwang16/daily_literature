@@ -40,6 +40,14 @@
       "title": "Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe",
       "url": "http://arxiv.org/abs/2606.12209v1"
     },
+    "arxiv:2606.12609v1": {
+      "date": "2026-06-10",
+      "score": 23,
+      "sent_at": "2026-06-12T09:56:40.015893+00:00",
+      "source": "arXiv",
+      "title": "Viral Proteins Reveal Geometry of Protein Language Models",
+      "url": "http://arxiv.org/abs/2606.12609v1"
+    },
     "doi:10.1007/s00497-026-00540-w": {
       "date": "2026-05-30",
       "score": 4,
@@ -328,6 +336,14 @@
       "title": "Integrating protein and DNA embeddings for improving genome-wide transcription factor binding site prediction",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42099803/"
     },
+    "doi:10.1093/protein/gzag013": {
+      "date": "2026 Jun 11",
+      "score": 20,
+      "sent_at": "2026-06-12T09:56:40.015893+00:00",
+      "source": "PubMed",
+      "title": "Combining bacterial display and protein language models to engineer a CD69-binding affibody for molecular imaging of immune activation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42275072/"
+    },
     "doi:10.1101/2024.12.04.626803": {
       "date": "2026-05-28",
       "score": 5,
@@ -416,6 +432,22 @@
       "title": "NbBayesLM: bayesian prediction of nanobody thermostability using protein language model",
       "url": "https://doi.org/10.3389/fbinf.2026.1832968"
     },
+    "doi:10.3389/fbinf.2026.1861685": {
+      "date": "2026-06-11",
+      "score": 13,
+      "sent_at": "2026-06-12T09:56:40.015893+00:00",
+      "source": "OpenAlex",
+      "title": "CMA-DTI: a cross-modal fusion and attentive interaction network for interpretable drug-target interaction prediction",
+      "url": "https://doi.org/10.3389/fbinf.2026.1861685"
+    },
+    "doi:10.3389/fcell.2026.1805468": {
+      "date": "2026-06-10",
+      "score": 8,
+      "sent_at": "2026-06-12T09:56:40.015893+00:00",
+      "source": "OpenAlex",
+      "title": "ZDHHC5 interacts physically and functionally with DLG1 at primary cilia and regulates ciliary length and kidney morphology",
+      "url": "https://doi.org/10.3389/fcell.2026.1805468"
+    },
     "doi:10.3389/fendo.2026.1798210": {
       "date": "2026-06-09",
       "score": 5,
@@ -487,6 +519,14 @@
       "source": "OpenAlex",
       "title": "When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models",
       "url": "https://doi.org/10.48550/arxiv.2606.04228"
+    },
+    "doi:10.48550/arxiv.2606.12209": {
+      "date": "2026-06-10",
+      "score": 17,
+      "sent_at": "2026-06-12T09:56:40.015893+00:00",
+      "source": "OpenAlex",
+      "title": "Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe",
+      "url": "https://doi.org/10.48550/arxiv.2606.12209"
     },
     "doi:10.5281/zenodo.17488190": {
       "date": "2026-06-04",
@@ -1031,6 +1071,14 @@
       "source": "OpenAlex",
       "title": "AF_Cache: Efficient Pipeline for Running AlphaFold for High-Throughput Protein-Protein Interaction Prediction",
       "url": "https://openalex.org/W7163720659"
+    },
+    "openalex:https://openalex.org/w7164090362": {
+      "date": "2026-06-05",
+      "score": 9,
+      "sent_at": "2026-06-12T09:56:40.015893+00:00",
+      "source": "OpenAlex",
+      "title": "A Geometric View for Understanding Concept Learning and Neuron Interpretation in Sparse Autoencoders",
+      "url": "https://openalex.org/W7164090362"
     }
   }
 }
