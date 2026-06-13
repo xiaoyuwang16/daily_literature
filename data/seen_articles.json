@@ -408,6 +408,14 @@
       "title": "From Sequence to Function: insilico Structural and Functional Annotation of a Target Protein CDK4",
       "url": "https://doi.org/10.25258/ijddt.16.43s.111"
     },
+    "doi:10.25258/ijddt.16.54s.12": {
+      "date": "2026-06-10",
+      "score": 7,
+      "sent_at": "2026-06-13T08:45:09.316690+00:00",
+      "source": "OpenAlex",
+      "title": "Multi-Target Therapeutic Potential of Vacha (Acorus calamus) in Dementia: \"A Network Pharmacology and Molecular Docking Study\"",
+      "url": "https://doi.org/10.25258/ijddt.16.54s.12"
+    },
     "doi:10.26434/chemrxiv.15004221/v1": {
       "date": "2026-06-02",
       "score": 26,
@@ -463,6 +471,14 @@
       "source": "OpenAlex",
       "title": "First draft genome and genomic analysis of Neofusicoccum parvum isolated from mango (Mangifera indica L.) in Paraguay",
       "url": "https://doi.org/10.3389/ffunb.2026.1813584"
+    },
+    "doi:10.3389/fnagi.2026.1837720": {
+      "date": "2026-06-11",
+      "score": 4,
+      "sent_at": "2026-06-13T08:45:09.316690+00:00",
+      "source": "OpenAlex",
+      "title": "Next-generation TREM2-targeted therapies for Alzheimer's disease: insights and directions from the INVOKE-2 trial",
+      "url": "https://doi.org/10.3389/fnagi.2026.1837720"
     },
     "doi:10.3389/fnmol.2026.1831452": {
       "date": "2026-06-02",
@@ -760,6 +776,14 @@
       "title": "The astrocyte-enriched gene <i>Tmem44</i> regulates circadian protein translation in mouse astrocytes",
       "url": "https://doi.org/10.64898/2026.05.07.723448"
     },
+    "doi:10.64898/2026.05.14.725271": {
+      "date": "2026-06-06",
+      "score": 5,
+      "sent_at": "2026-06-13T08:45:09.316690+00:00",
+      "source": "biorxiv",
+      "title": "AHP-Weighted Exosomal Proteomics in TNBC Recovers an ECM Invasion Module and Nominates AGRN as an Understudied Candidate",
+      "url": "https://doi.org/10.64898/2026.05.14.725271"
+    },
     "doi:10.64898/2026.05.22.727045": {
       "date": "2026-05-26",
       "score": 7,
@@ -896,6 +920,14 @@
       "title": "De Novo Design and Computational Validation of a High-Affinity Peptide Inhibitor Targeting the HPV E1-E2 Interface",
       "url": "https://doi.org/10.64898/2026.06.01.729313"
     },
+    "doi:10.64898/2026.06.04.26354928": {
+      "date": "2026-06-06",
+      "score": 4,
+      "sent_at": "2026-06-13T08:45:09.316690+00:00",
+      "source": "medrxiv",
+      "title": "Surfacing Suicidal Risk Through Simulated Social Interaction: Per-Person Language Model Agents as Communicative Stress Tests",
+      "url": "https://doi.org/10.64898/2026.06.04.26354928"
+    },
     "doi:10.64898/2026.06.04.729962": {
       "date": "2026-06-07",
       "score": 5,
@@ -903,6 +935,14 @@
       "source": "OpenAlex",
       "title": "CLASPP: A unified model for predicting post-translational modifications",
       "url": "https://doi.org/10.64898/2026.06.04.729962"
+    },
+    "doi:10.64898/2026.06.04.730083": {
+      "date": "2026-06-06",
+      "score": 4,
+      "sent_at": "2026-06-13T08:45:09.316690+00:00",
+      "source": "biorxiv",
+      "title": "Loss of PSAE redirects PGRL1 to photosystem I and enhances PGR5-dependent cyclic electron transfer in Arabidopsis",
+      "url": "https://doi.org/10.64898/2026.06.04.730083"
     },
     "doi:10.64898/2026.06.04.730144": {
       "date": "2026-06-06",
@@ -927,6 +967,14 @@
       "source": "OpenAlex",
       "title": "DDI_single: Single-Sequence-Based Protein Domain Assembly",
       "url": "https://doi.org/10.64898/2026.06.05.730531"
+    },
+    "doi:10.64898/2026.06.09.728211": {
+      "date": "2026-06-10",
+      "score": 11,
+      "sent_at": "2026-06-13T08:45:09.316690+00:00",
+      "source": "OpenAlex",
+      "title": "Folding the unfoldable 2: using AlphaFold and ESMFold to explore spurious proteins",
+      "url": "https://doi.org/10.64898/2026.06.09.728211"
     },
     "doi:10.71423/aimed.20260606": {
       "date": "2026-06-06",
@@ -1079,6 +1127,14 @@
       "source": "OpenAlex",
       "title": "A Geometric View for Understanding Concept Learning and Neuron Interpretation in Sparse Autoencoders",
       "url": "https://openalex.org/W7164090362"
+    },
+    "openalex:https://openalex.org/w7164234110": {
+      "date": "2026-06-06",
+      "score": 9,
+      "sent_at": "2026-06-13T08:45:09.316690+00:00",
+      "source": "OpenAlex",
+      "title": "Constraint-Aware Optimization for Robust Protein Stability Prediction",
+      "url": "https://openalex.org/W7164234110"
     }
   }
 }
