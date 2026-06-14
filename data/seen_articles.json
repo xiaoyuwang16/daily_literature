@@ -200,6 +200,14 @@
       "title": "Improving protein and protein interactions using pseudo-dimers derived from monomeric proteins",
       "url": "https://doi.org/10.1038/s41467-026-73885-5"
     },
+    "doi:10.1038/s41540-026-00759-3": {
+      "date": "2026-06-11",
+      "score": 10,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "A powerful representation learning method for enhanced analysis of incomplete multi-omics data",
+      "url": "https://doi.org/10.1038/s41540-026-00759-3"
+    },
     "doi:10.1038/s41589-025-01993-2": {
       "date": "2026 Jun",
       "score": 8,
@@ -239,6 +247,14 @@
       "source": "OpenAlex",
       "title": "Learning continuous activation fields from microscopic SEM images of lycoperdioid fungi via CNN-guided neural operator modeling",
       "url": "https://doi.org/10.1038/s41598-026-56178-1"
+    },
+    "doi:10.1038/s41746-026-02664-9": {
+      "date": "2026-06-11",
+      "score": 5,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "Embeddings of clinical codes enable knowledge-grounded AI in medicine",
+      "url": "https://doi.org/10.1038/s41746-026-02664-9"
     },
     "doi:10.1038/s44431-026-00025-w": {
       "date": "2026-06-03",
@@ -303,6 +319,14 @@
       "source": "PubMed",
       "title": "BindPred: A Framework for Predicting Protein-Protein Binding Affinity from Language Model Embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42135943/"
+    },
+    "doi:10.1093/bioinformatics/btag375": {
+      "date": "2026 Jun 12",
+      "score": 10,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "PubMed",
+      "title": "PEPE: Scalable extraction of multi-modal protein language model representations",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42286792/"
     },
     "doi:10.1093/nar/gkag425": {
       "date": "2026 May 5",
@@ -488,6 +512,14 @@
       "title": "Calcium signaling and postsynaptic density dynamics: the roles of calmodulin in synaptic protein regulation",
       "url": "https://doi.org/10.3389/fnmol.2026.1831452"
     },
+    "doi:10.3389/fphar.2026.1686243": {
+      "date": "2026-06-11",
+      "score": 5,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "Analysis of the interaction network relationship between drugs using a graph neural network",
+      "url": "https://doi.org/10.3389/fphar.2026.1686243"
+    },
     "doi:10.3389/fpls.2026.1815183": {
       "date": "2026-06-02",
       "score": 4,
@@ -543,6 +575,14 @@
       "source": "OpenAlex",
       "title": "Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe",
       "url": "https://doi.org/10.48550/arxiv.2606.12209"
+    },
+    "doi:10.48550/arxiv.2606.12609": {
+      "date": "2026-06-10",
+      "score": 23,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "Viral Proteins Reveal Geometry of Protein Language Models",
+      "url": "https://doi.org/10.48550/arxiv.2606.12609"
     },
     "doi:10.5281/zenodo.17488190": {
       "date": "2026-06-04",
@@ -711,6 +751,38 @@
       "source": "OpenAlex",
       "title": "Telomere-length genetic architecture is frequency-stratified: SHQ1 p.Phe72Cys as a fine-mapped coding bridge, with a falsifiable stability test",
       "url": "https://doi.org/10.5281/zenodo.20611191"
+    },
+    "doi:10.5281/zenodo.20660982": {
+      "date": "2026-06-12",
+      "score": 12,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "3D-IsofunGO: input data and cached features for structure-aware isoform function prediction",
+      "url": "https://doi.org/10.5281/zenodo.20660982"
+    },
+    "doi:10.5281/zenodo.20660983": {
+      "date": "2026-06-12",
+      "score": 12,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "3D-IsofunGO: input data and cached features for structure-aware isoform function prediction",
+      "url": "https://doi.org/10.5281/zenodo.20660983"
+    },
+    "doi:10.5281/zenodo.20670256": {
+      "date": "2026-06-12",
+      "score": 12,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "DefensePredictor2",
+      "url": "https://doi.org/10.5281/zenodo.20670256"
+    },
+    "doi:10.5281/zenodo.20670257": {
+      "date": "2026-06-12",
+      "score": 12,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "DefensePredictor2",
+      "url": "https://doi.org/10.5281/zenodo.20670257"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
@@ -952,6 +1024,14 @@
       "title": "Handshake: Partner-Specific Protein-Protein Binding Site Prediction at Scale Using ProstT5 and Cross-Chain Attention",
       "url": "https://doi.org/10.64898/2026.06.04.730144"
     },
+    "doi:10.64898/2026.06.05.729520": {
+      "date": "2026-06-07",
+      "score": 7,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "biorxiv",
+      "title": "Multimodal physical evidence uncovers interpretable gene regulatory networks for perturbation prediction",
+      "url": "https://doi.org/10.64898/2026.06.05.729520"
+    },
     "doi:10.64898/2026.06.05.730461": {
       "date": "2026-06-07",
       "score": 22,
@@ -975,6 +1055,14 @@
       "source": "OpenAlex",
       "title": "Folding the unfoldable 2: using AlphaFold and ESMFold to explore spurious proteins",
       "url": "https://doi.org/10.64898/2026.06.09.728211"
+    },
+    "doi:10.67231/kytb0e28": {
+      "date": "2026-06-13",
+      "score": 9,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "A Unified Multi-Modal Mixture-of-Experts Model for Integrated Representation Learning in Pharmaceutical Sciences",
+      "url": "https://doi.org/10.67231/kytb0e28"
     },
     "doi:10.71423/aimed.20260606": {
       "date": "2026-06-06",
@@ -1135,6 +1223,30 @@
       "source": "OpenAlex",
       "title": "Constraint-Aware Optimization for Robust Protein Stability Prediction",
       "url": "https://openalex.org/W7164234110"
+    },
+    "openalex:https://openalex.org/w7164446695": {
+      "date": "2026-06-08",
+      "score": 10,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "VFUSE: Virulent Feature Understanding with Sparse autoEncoders",
+      "url": "https://openalex.org/W7164446695"
+    },
+    "openalex:https://openalex.org/w7164614740": {
+      "date": "2026-06-10",
+      "score": 17,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe",
+      "url": "https://openalex.org/W7164614740"
+    },
+    "openalex:https://openalex.org/w7164701482": {
+      "date": "2026-06-10",
+      "score": 23,
+      "sent_at": "2026-06-14T09:00:20.215532+00:00",
+      "source": "OpenAlex",
+      "title": "Viral Proteins Reveal Geometry of Protein Language Models",
+      "url": "https://openalex.org/W7164701482"
     }
   }
 }
