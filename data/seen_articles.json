@@ -48,6 +48,14 @@
       "title": "Viral Proteins Reveal Geometry of Protein Language Models",
       "url": "http://arxiv.org/abs/2606.12609v1"
     },
+    "arxiv:2606.16044v1": {
+      "date": "2026-06-14",
+      "score": 34,
+      "sent_at": "2026-06-16T10:51:23.515830+00:00",
+      "source": "arXiv",
+      "title": "Circuit Tracing in Autoregressive Protein Language Models",
+      "url": "http://arxiv.org/abs/2606.16044v1"
+    },
     "doi:10.1007/s00497-026-00540-w": {
       "date": "2026-05-30",
       "score": 4,
@@ -216,6 +224,14 @@
       "title": "SCOP-KHNET:An Interpretable Hybrid Network for ProteinStructural Class Prediction",
       "url": "https://doi.org/10.1021/acs.jpclett.6c01417.s001"
     },
+    "doi:10.1021/acssynbio.6c00142": {
+      "date": "2026 Jun 14",
+      "score": 8,
+      "sent_at": "2026-06-16T10:51:23.515830+00:00",
+      "source": "PubMed",
+      "title": "RPI-PLMGNN: Enhancing RNA-Protein Interaction Prediction with the Pretrained Large Language Models and Graph Neural Networks",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42288985/"
+    },
     "doi:10.1038/s41467-026-73885-5": {
       "date": "2026-05-30",
       "score": 12,
@@ -351,6 +367,14 @@
       "source": "PubMed",
       "title": "PEPE: Scalable extraction of multi-modal protein language model representations",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42286792/"
+    },
+    "doi:10.1093/bioinformatics/btag388": {
+      "date": "2026 Jun 13",
+      "score": 12,
+      "sent_at": "2026-06-16T10:51:23.515830+00:00",
+      "source": "PubMed",
+      "title": "SPPIDER-seq: Sequence-based Partner-aware Predictor of Protein-Protein Interaction Sites",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42289971/"
     },
     "doi:10.1093/jxb/erag288": {
       "date": "2026 Jun 11",
@@ -1103,6 +1127,14 @@
       "source": "OpenAlex",
       "title": "DDI_single: Single-Sequence-Based Protein Domain Assembly",
       "url": "https://doi.org/10.64898/2026.06.05.730531"
+    },
+    "doi:10.64898/2026.06.06.730618": {
+      "date": "2026-06-09",
+      "score": 5,
+      "sent_at": "2026-06-16T10:51:23.515830+00:00",
+      "source": "biorxiv",
+      "title": "TaxoFormer: Hierarchical Transformer for Predicting the Full Taxonomic Lineage of Protein Sequences",
+      "url": "https://doi.org/10.64898/2026.06.06.730618"
     },
     "doi:10.64898/2026.06.09.728211": {
       "date": "2026-06-10",
