@@ -288,6 +288,14 @@
       "title": "Learning continuous activation fields from microscopic SEM images of lycoperdioid fungi via CNN-guided neural operator modeling",
       "url": "https://doi.org/10.1038/s41598-026-56178-1"
     },
+    "doi:10.1038/s41598-026-58022-y": {
+      "date": "2026-06-15",
+      "score": 5,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "DRQuantum: a drug repurposing method by quantum walks on a multi-layered heterogeneous network",
+      "url": "https://doi.org/10.1038/s41598-026-58022-y"
+    },
     "doi:10.1038/s41746-026-02664-9": {
       "date": "2026-06-11",
       "score": 5,
@@ -359,6 +367,14 @@
       "source": "PubMed",
       "title": "BindPred: A Framework for Predicting Protein-Protein Binding Affinity from Language Model Embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42135943/"
+    },
+    "doi:10.1093/bioinformatics/btag373": {
+      "date": "2026-06-15",
+      "score": 6,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "EAGP: an efficient generative augmentation framework for phage protein classification under severe class imbalance",
+      "url": "https://doi.org/10.1093/bioinformatics/btag373"
     },
     "doi:10.1093/bioinformatics/btag375": {
       "date": "2026 Jun 12",
@@ -456,6 +472,14 @@
       "title": "Protein language models accurately predict polymorphic peptide-modulated NK cell receptor-HLA class I interaction strengths",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42102196/"
     },
+    "doi:10.1128/mbio.00878-26": {
+      "date": "2026-06-15",
+      "score": 6,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "AlphaFold reveals how pathogenic <i>Leptospira</i> use cross-kingdom thiol-disulfide exchange to evade the complement membrane attack complex",
+      "url": "https://doi.org/10.1128/mbio.00878-26"
+    },
     "doi:10.1186/s12859-026-06491-3": {
       "date": "2026 Jun 12",
       "score": 18,
@@ -503,6 +527,14 @@
       "source": "OpenAlex",
       "title": "Independent Structural Contribution to Mutation Sensitivity in Protein Language Models Revealed by Variance Decomposition Across Complete Missense Landscapes",
       "url": "https://doi.org/10.21203/rs.3.rs-9299039/v1"
+    },
+    "doi:10.22541/authorea.15004784/v1": {
+      "date": "2026-06-16",
+      "score": 6,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "Evolutionary reorganization of transcriptomic architecture across a UVB tolerance gradient in fish",
+      "url": "https://doi.org/10.22541/authorea.15004784/v1"
     },
     "doi:10.25258/ijddt.16.43s.111": {
       "date": "2026-06-02",
@@ -575,6 +607,14 @@
       "source": "OpenAlex",
       "title": "First draft genome and genomic analysis of Neofusicoccum parvum isolated from mango (Mangifera indica L.) in Paraguay",
       "url": "https://doi.org/10.3389/ffunb.2026.1813584"
+    },
+    "doi:10.3389/fmolb.2026.1814859": {
+      "date": "2026-06-16",
+      "score": 7,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "Bound or unbound: mapping and monitoring receptor oligomerization by time-resolved fluorescence live-cell imaging",
+      "url": "https://doi.org/10.3389/fmolb.2026.1814859"
     },
     "doi:10.3389/fnagi.2026.1837720": {
       "date": "2026-06-11",
@@ -664,6 +704,14 @@
       "title": "Viral Proteins Reveal Geometry of Protein Language Models",
       "url": "https://doi.org/10.48550/arxiv.2606.12609"
     },
+    "doi:10.48550/arxiv.2606.16044": {
+      "date": "2026-06-14",
+      "score": 34,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "Circuit Tracing in Autoregressive Protein Language Models",
+      "url": "https://doi.org/10.48550/arxiv.2606.16044"
+    },
     "doi:10.5281/zenodo.17488190": {
       "date": "2026-06-04",
       "score": 26,
@@ -687,6 +735,14 @@
       "source": "OpenAlex",
       "title": "HIV Drug Resistance Prediction with ESM-2 Protein Language Model",
       "url": "https://doi.org/10.5281/zenodo.19466629"
+    },
+    "doi:10.5281/zenodo.20143142": {
+      "date": "2026-06-17",
+      "score": 23,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "The Homology Cliff in Frozen Protein Language Models: Research Compendium",
+      "url": "https://doi.org/10.5281/zenodo.20143142"
     },
     "doi:10.5281/zenodo.20434891": {
       "date": "2026-05-28",
@@ -864,6 +920,46 @@
       "title": "DefensePredictor2",
       "url": "https://doi.org/10.5281/zenodo.20670257"
     },
+    "doi:10.5281/zenodo.20711860": {
+      "date": "2026-06-16",
+      "score": 16,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "Foundation model representation-geometry analysis on a genomic testbed: 10-condition factorial dataset, 4-metric robustness analysis, and trained checkpoints",
+      "url": "https://doi.org/10.5281/zenodo.20711860"
+    },
+    "doi:10.5281/zenodo.20711861": {
+      "date": "2026-06-16",
+      "score": 16,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "Foundation model representation-geometry analysis on a genomic testbed: 10-condition factorial dataset, 4-metric robustness analysis, and trained checkpoints",
+      "url": "https://doi.org/10.5281/zenodo.20711861"
+    },
+    "doi:10.5281/zenodo.20719001": {
+      "date": "2026-06-16",
+      "score": 23,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "The Homology Cliff in Frozen Protein Language Models: Research Compendium",
+      "url": "https://doi.org/10.5281/zenodo.20719001"
+    },
+    "doi:10.5281/zenodo.20720422": {
+      "date": "2026-06-16",
+      "score": 23,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "The Homology Cliff in Frozen Protein Language Models: Research Compendium",
+      "url": "https://doi.org/10.5281/zenodo.20720422"
+    },
+    "doi:10.5281/zenodo.20724055": {
+      "date": "2026-06-17",
+      "score": 23,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "The Homology Cliff in Frozen Protein Language Models: Research Compendium",
+      "url": "https://doi.org/10.5281/zenodo.20724055"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -919,6 +1015,14 @@
       "source": "PubMed",
       "title": "DPLM: Dynamics-aware Protein Language Model via contrastive learning between sequence and molecular dynamics simulation trajectory",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42146638/"
+    },
+    "doi:10.64898/2026.05.04.722713": {
+      "date": "2026-06-10",
+      "score": 10,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "biorxiv",
+      "title": "SLiMNet: a deep learning model to detect short linear motifs using protein large language model representations and paired inputs",
+      "url": "https://doi.org/10.64898/2026.05.04.722713"
     },
     "doi:10.64898/2026.05.07.723448": {
       "date": "2026-05-11",
@@ -1143,6 +1247,22 @@
       "source": "OpenAlex",
       "title": "Folding the unfoldable 2: using AlphaFold and ESMFold to explore spurious proteins",
       "url": "https://doi.org/10.64898/2026.06.09.728211"
+    },
+    "doi:10.64898/2026.06.12.732009": {
+      "date": "2026-06-13",
+      "score": 14,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "Virus-human protein-protein interactions predict viral phenotypes",
+      "url": "https://doi.org/10.64898/2026.06.12.732009"
+    },
+    "doi:10.64898/2026.06.13.732058": {
+      "date": "2026-06-13",
+      "score": 14,
+      "sent_at": "2026-06-17T10:23:53.756970+00:00",
+      "source": "OpenAlex",
+      "title": "ProtAff: Protein Binding Affinity Prediction via LoRA-Finetuned ESM-2",
+      "url": "https://doi.org/10.64898/2026.06.13.732058"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
