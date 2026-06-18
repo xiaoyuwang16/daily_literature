@@ -1240,6 +1240,14 @@
       "title": "TaxoFormer: Hierarchical Transformer for Predicting the Full Taxonomic Lineage of Protein Sequences",
       "url": "https://doi.org/10.64898/2026.06.06.730618"
     },
+    "doi:10.64898/2026.06.07.730473": {
+      "date": "2026-06-11",
+      "score": 5,
+      "sent_at": "2026-06-18T10:02:57.395169+00:00",
+      "source": "biorxiv",
+      "title": "Sequence-Based Therapeutic Peptide Classification with Augmented Negative Sampling",
+      "url": "https://doi.org/10.64898/2026.06.07.730473"
+    },
     "doi:10.64898/2026.06.09.728211": {
       "date": "2026-06-10",
       "score": 11,
