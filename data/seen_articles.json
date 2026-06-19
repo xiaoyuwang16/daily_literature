@@ -168,6 +168,14 @@
       "title": "Predicting protein-nucleic acid interactions via protein language models with biophysical and evolutionary priors",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42100742/"
     },
+    "doi:10.1016/j.tig.2026.05.014": {
+      "date": "2026 Jun 15",
+      "score": 14,
+      "sent_at": "2026-06-19T10:09:57.533517+00:00",
+      "source": "PubMed",
+      "title": "Rethinking molecular evolution through protein language model embeddings",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42289369/"
+    },
     "doi:10.1021/acs.analchem.6c00752": {
       "date": "2026 Jun 10",
       "score": 12,
@@ -288,6 +296,14 @@
       "title": "Learning continuous activation fields from microscopic SEM images of lycoperdioid fungi via CNN-guided neural operator modeling",
       "url": "https://doi.org/10.1038/s41598-026-56178-1"
     },
+    "doi:10.1038/s41598-026-57699-5": {
+      "date": "2026 Jun 17",
+      "score": 14,
+      "sent_at": "2026-06-19T10:09:57.533517+00:00",
+      "source": "PubMed",
+      "title": "Analysis of phylogenetic signal in protein language model embeddings",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42310357/"
+    },
     "doi:10.1038/s41598-026-58022-y": {
       "date": "2026-06-15",
       "score": 5,
@@ -327,6 +343,14 @@
       "source": "OpenAlex",
       "title": "amyloid-predict and LLPS-predict: Predicting phase separation propensities in the intrinsically disordered proteome",
       "url": "https://doi.org/10.1073/pnas.2531932123"
+    },
+    "doi:10.1073/pnas.2610619123": {
+      "date": "2026-06-17",
+      "score": 5,
+      "sent_at": "2026-06-19T10:09:57.533517+00:00",
+      "source": "OpenAlex",
+      "title": "Linear-time prediction of proteome-scale microbial protein interactions",
+      "url": "https://doi.org/10.1073/pnas.2610619123"
     },
     "doi:10.1080/19420862.2026.2678000": {
       "date": "2026 Dec 31",
@@ -1463,6 +1487,14 @@
       "source": "OpenAlex",
       "title": "Viral Proteins Reveal Geometry of Protein Language Models",
       "url": "https://openalex.org/W7164701482"
+    },
+    "openalex:https://openalex.org/w7165063673": {
+      "date": "2026-06-14",
+      "score": 34,
+      "sent_at": "2026-06-19T10:09:57.533517+00:00",
+      "source": "OpenAlex",
+      "title": "Circuit Tracing in Autoregressive Protein Language Models",
+      "url": "https://openalex.org/W7165063673"
     }
   }
 }
