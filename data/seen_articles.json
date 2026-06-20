@@ -504,6 +504,14 @@
       "title": "AlphaFold reveals how pathogenic <i>Leptospira</i> use cross-kingdom thiol-disulfide exchange to evade the complement membrane attack complex",
       "url": "https://doi.org/10.1128/mbio.00878-26"
     },
+    "doi:10.1145/3820356.3820362": {
+      "date": "2026-06-17",
+      "score": 4,
+      "sent_at": "2026-06-20T08:38:56.420682+00:00",
+      "source": "OpenAlex",
+      "title": "Topological Data Analysis Applications in Natural Language Processing: A Survey",
+      "url": "https://doi.org/10.1145/3820356.3820362"
+    },
     "doi:10.1186/s12859-026-06491-3": {
       "date": "2026 Jun 12",
       "score": 18,
@@ -567,6 +575,14 @@
       "source": "OpenAlex",
       "title": "From Sequence to Function: insilico Structural and Functional Annotation of a Target Protein CDK4",
       "url": "https://doi.org/10.25258/ijddt.16.43s.111"
+    },
+    "doi:10.25258/ijddt.16.54s.111": {
+      "date": "2026-06-17",
+      "score": 10,
+      "sent_at": "2026-06-20T08:38:56.420682+00:00",
+      "source": "OpenAlex",
+      "title": "Machine Learning-Driven Prediction Of Protein-Protein Interactions In Emerging Viral Pathogens",
+      "url": "https://doi.org/10.25258/ijddt.16.54s.111"
     },
     "doi:10.25258/ijddt.16.54s.12": {
       "date": "2026-06-10",
@@ -680,6 +696,14 @@
       "title": "Expression of the quinoa TCP gene family and analysis of CqTCP11 involvement in seed germination stress response",
       "url": "https://doi.org/10.3389/fpls.2026.1860606"
     },
+    "doi:10.3389/fpsyt.2026.1814473": {
+      "date": "2026-06-19",
+      "score": 4,
+      "sent_at": "2026-06-20T08:38:56.420682+00:00",
+      "source": "OpenAlex",
+      "title": "Integration of transcriptome profiling to identify key genes involved in the interplay between oxidative stress and mitophagy in major depressive disorder, followed by multidimensional phenotypic validation",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1814473"
+    },
     "doi:10.36306/konjes.1716813": {
       "date": "2026-06-04",
       "score": 4,
@@ -735,6 +759,14 @@
       "source": "OpenAlex",
       "title": "Circuit Tracing in Autoregressive Protein Language Models",
       "url": "https://doi.org/10.48550/arxiv.2606.16044"
+    },
+    "doi:10.48550/arxiv.2606.18703": {
+      "date": "2026-06-17",
+      "score": 6,
+      "sent_at": "2026-06-20T08:38:56.420682+00:00",
+      "source": "OpenAlex",
+      "title": "Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment",
+      "url": "https://doi.org/10.48550/arxiv.2606.18703"
     },
     "doi:10.5281/zenodo.17488190": {
       "date": "2026-06-04",
@@ -1288,6 +1320,22 @@
       "title": "Virus-human protein-protein interactions predict viral phenotypes",
       "url": "https://doi.org/10.64898/2026.06.12.732009"
     },
+    "doi:10.64898/2026.06.13.732023": {
+      "date": "2026-06-13",
+      "score": 5,
+      "sent_at": "2026-06-20T08:38:56.420682+00:00",
+      "source": "biorxiv",
+      "title": "Unlocking Your Programmable and Creative RNA Sequence Designer with RDiffusion",
+      "url": "https://doi.org/10.64898/2026.06.13.732023"
+    },
+    "doi:10.64898/2026.06.13.732026": {
+      "date": "2026-06-13",
+      "score": 4,
+      "sent_at": "2026-06-20T08:38:56.420682+00:00",
+      "source": "biorxiv",
+      "title": "ADMETron: An AI-driven SaaS platform for comprehensive ADMET prediction and compound prioritisation",
+      "url": "https://doi.org/10.64898/2026.06.13.732026"
+    },
     "doi:10.64898/2026.06.13.732058": {
       "date": "2026-06-13",
       "score": 14,
@@ -1295,6 +1343,14 @@
       "source": "OpenAlex",
       "title": "ProtAff: Protein Binding Affinity Prediction via LoRA-Finetuned ESM-2",
       "url": "https://doi.org/10.64898/2026.06.13.732058"
+    },
+    "doi:10.64898/2026.06.15.732269": {
+      "date": "2026-06-18",
+      "score": 9,
+      "sent_at": "2026-06-20T08:38:56.420682+00:00",
+      "source": "OpenAlex",
+      "title": "Predicting optimal growth temperatures of bacteria using learned structural information from a single protein",
+      "url": "https://doi.org/10.64898/2026.06.15.732269"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
@@ -1495,6 +1551,14 @@
       "source": "OpenAlex",
       "title": "Circuit Tracing in Autoregressive Protein Language Models",
       "url": "https://openalex.org/W7165063673"
+    },
+    "openalex:https://openalex.org/w7165219926": {
+      "date": "2026-06-17",
+      "score": 6,
+      "sent_at": "2026-06-20T08:38:56.420682+00:00",
+      "source": "OpenAlex",
+      "title": "Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment",
+      "url": "https://openalex.org/W7165219926"
     }
   }
 }
