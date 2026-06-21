@@ -64,6 +64,14 @@
       "title": "Basis of apomixis in flowering plants \u2013 state of the art and research perspectives",
       "url": "https://doi.org/10.1007/s00497-026-00540-w"
     },
+    "doi:10.1007/s10522-026-10464-7": {
+      "date": "2026-06-20",
+      "score": 4,
+      "sent_at": "2026-06-21T09:34:09.025946+00:00",
+      "source": "OpenAlex",
+      "title": "RNA-binding proteins in aging and age-related diseases: roles, mechanisms, and a large language model analysis",
+      "url": "https://doi.org/10.1007/s10522-026-10464-7"
+    },
     "doi:10.1016/j.ab.2026.116092": {
       "date": "2026 Jun",
       "score": 4,
@@ -600,6 +608,14 @@
       "title": "Illuminating the Dark Kinome through Protein Language Models, Symbolic Regression, and Structure-Based Prioritisation",
       "url": "https://doi.org/10.26434/chemrxiv.15004221/v1"
     },
+    "doi:10.26434/chemrxiv.15004978/v1": {
+      "date": "2026-06-19",
+      "score": 6,
+      "sent_at": "2026-06-21T09:34:09.025946+00:00",
+      "source": "OpenAlex",
+      "title": "DNA Foundation Models for Molecular Biology: From Genomic Sequence Understanding to Function Prediction and Biological Design",
+      "url": "https://doi.org/10.26434/chemrxiv.15004978/v1"
+    },
     "doi:10.3389/fbael.2026.1849012": {
       "date": "2026-06-08",
       "score": 4,
@@ -703,6 +719,14 @@
       "source": "OpenAlex",
       "title": "Integration of transcriptome profiling to identify key genes involved in the interplay between oxidative stress and mitophagy in major depressive disorder, followed by multidimensional phenotypic validation",
       "url": "https://doi.org/10.3389/fpsyt.2026.1814473"
+    },
+    "doi:10.3389/frai.2026.1758852": {
+      "date": "2026-06-19",
+      "score": 4,
+      "sent_at": "2026-06-21T09:34:09.025946+00:00",
+      "source": "OpenAlex",
+      "title": "Multimodal graph neural network with large language models for node and link prediction",
+      "url": "https://doi.org/10.3389/frai.2026.1758852"
     },
     "doi:10.36306/konjes.1716813": {
       "date": "2026-06-04",
@@ -1368,6 +1392,14 @@
       "title": "Artificial Intelligence-Driven Antibody-Drug Conjugate Development for Chronic Neuropathic Pain: From Target Discovery to Clinical Translation",
       "url": "https://doi.org/10.71423/aimed.20260606"
     },
+    "doi:10.7551/mitpress/16007.003.0020": {
+      "date": "2026-06-16",
+      "score": 9,
+      "sent_at": "2026-06-21T09:34:09.025946+00:00",
+      "source": "OpenAlex",
+      "title": "Bioinformatics Meets Biosemiotics and Signal Peptides Emerge as Dicisigns",
+      "url": "https://doi.org/10.7551/mitpress/16007.003.0020"
+    },
     "openalex:https://openalex.org/w7161090705": {
       "date": "2026-05-09",
       "score": 14,
@@ -1551,6 +1583,14 @@
       "source": "OpenAlex",
       "title": "Circuit Tracing in Autoregressive Protein Language Models",
       "url": "https://openalex.org/W7165063673"
+    },
+    "openalex:https://openalex.org/w7165219830": {
+      "date": "2026-06-17",
+      "score": 24,
+      "sent_at": "2026-06-21T09:34:09.025946+00:00",
+      "source": "OpenAlex",
+      "title": "Be Your Own Teacher: Steering Protein Language Models via Unsupervised Reward Optimization",
+      "url": "https://openalex.org/W7165219830"
     },
     "openalex:https://openalex.org/w7165219926": {
       "date": "2026-06-17",
