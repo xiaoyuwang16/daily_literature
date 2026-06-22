@@ -424,6 +424,14 @@
       "title": "SPPIDER-seq: Sequence-based Partner-aware Predictor of Protein-Protein Interaction Sites",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42289971/"
     },
+    "doi:10.1093/bioinformatics/btag433": {
+      "date": "2026 Jun 20",
+      "score": 10,
+      "sent_at": "2026-06-22T11:31:03.945336+00:00",
+      "source": "PubMed",
+      "title": "Protein-Nucleic Acid Binding Site Prediction Using Interpretable Kolmogorov-Arnold Networks with Hypergraph Representation Learning",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42323855/"
+    },
     "doi:10.1093/jxb/erag288": {
       "date": "2026 Jun 11",
       "score": 4,
@@ -1119,6 +1127,14 @@
       "source": "biorxiv",
       "title": "AHP-Weighted Exosomal Proteomics in TNBC Recovers an ECM Invasion Module and Nominates AGRN as an Understudied Candidate",
       "url": "https://doi.org/10.64898/2026.05.14.725271"
+    },
+    "doi:10.64898/2026.05.15.725513": {
+      "date": "2026-06-15",
+      "score": 8,
+      "sent_at": "2026-06-22T11:31:03.945336+00:00",
+      "source": "biorxiv",
+      "title": "Relational biological structure improves fine-mapping of causal GWAS variants under weak signal",
+      "url": "https://doi.org/10.64898/2026.05.15.725513"
     },
     "doi:10.64898/2026.05.22.727045": {
       "date": "2026-05-26",
