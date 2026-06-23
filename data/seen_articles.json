@@ -56,6 +56,22 @@
       "title": "Circuit Tracing in Autoregressive Protein Language Models",
       "url": "http://arxiv.org/abs/2606.16044v1"
     },
+    "arxiv:2606.21876v1": {
+      "date": "2026-06-20",
+      "score": 7,
+      "sent_at": "2026-06-23T08:55:43.481503+00:00",
+      "source": "arXiv",
+      "title": "Protein contacts are already in the attention: a single-forward-pass alternative to the Categorical Jacobian",
+      "url": "http://arxiv.org/abs/2606.21876v1"
+    },
+    "arxiv:2606.22181v1": {
+      "date": "2026-06-20",
+      "score": 25,
+      "sent_at": "2026-06-23T08:55:43.481503+00:00",
+      "source": "arXiv",
+      "title": "Residue-Level Attributions in Protein Language Models Do Not Recover Allergen Epitopes",
+      "url": "http://arxiv.org/abs/2606.22181v1"
+    },
     "doi:10.1007/s00497-026-00540-w": {
       "date": "2026-05-30",
       "score": 4,
@@ -247,6 +263,14 @@
       "source": "PubMed",
       "title": "RPI-PLMGNN: Enhancing RNA-Protein Interaction Prediction with the Pretrained Large Language Models and Graph Neural Networks",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42288985/"
+    },
+    "doi:10.1038/s10038-026-01484-9": {
+      "date": "2026 Jun 22",
+      "score": 10,
+      "sent_at": "2026-06-23T08:55:43.481503+00:00",
+      "source": "PubMed",
+      "title": "Functional effect predictions for ion channel missense variants using a protein language model",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42332060/"
     },
     "doi:10.1038/s41467-026-73885-5": {
       "date": "2026-05-30",
@@ -503,6 +527,14 @@
       "source": "biorxiv",
       "title": "Protein large language model assisted one-to-one gene homology mapping in cross-species single-cell transcriptome integration",
       "url": "https://doi.org/10.1101/2025.10.17.683009"
+    },
+    "doi:10.1101/2025.10.22.681631": {
+      "date": "2026-06-16",
+      "score": 11,
+      "sent_at": "2026-06-23T08:55:43.481503+00:00",
+      "source": "biorxiv",
+      "title": "Sparse Autoencoders Reveal Interpretable Features in Single-Cell Foundation Models",
+      "url": "https://doi.org/10.1101/2025.10.22.681631"
     },
     "doi:10.1126/sciadv.aed3077": {
       "date": "2026 May 8",
@@ -1048,6 +1080,30 @@
       "title": "The Homology Cliff in Frozen Protein Language Models: Research Compendium",
       "url": "https://doi.org/10.5281/zenodo.20724055"
     },
+    "doi:10.5281/zenodo.20749255": {
+      "date": "2026-06-18",
+      "score": 10,
+      "sent_at": "2026-06-23T08:55:43.481503+00:00",
+      "source": "OpenAlex",
+      "title": "A deep learning framework for antigen-agnostic identification and early detection of tumor-reactive T cell receptors",
+      "url": "https://doi.org/10.5281/zenodo.20749255"
+    },
+    "doi:10.5281/zenodo.20786163": {
+      "date": "2026-06-21",
+      "score": 24,
+      "sent_at": "2026-06-23T08:55:43.481503+00:00",
+      "source": "OpenAlex",
+      "title": "AMYLOPRED-DL: A HYBRID CNN-BILSTM-ATTENTION DEEP LEARNING FRAMEWORK INTEGRATING ESM-2 PROTEIN LANGUAGE MODEL EMBEDDINGS FOR IMPROVED PREDICTION OF AMYLOID PROTEINS",
+      "url": "https://doi.org/10.5281/zenodo.20786163"
+    },
+    "doi:10.5281/zenodo.20786164": {
+      "date": "2026-06-21",
+      "score": 24,
+      "sent_at": "2026-06-23T08:55:43.481503+00:00",
+      "source": "OpenAlex",
+      "title": "AMYLOPRED-DL: A HYBRID CNN-BILSTM-ATTENTION DEEP LEARNING FRAMEWORK INTEGRATING ESM-2 PROTEIN LANGUAGE MODEL EMBEDDINGS FOR IMPROVED PREDICTION OF AMYLOID PROTEINS",
+      "url": "https://doi.org/10.5281/zenodo.20786164"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -1384,6 +1440,14 @@
       "title": "ProtAff: Protein Binding Affinity Prediction via LoRA-Finetuned ESM-2",
       "url": "https://doi.org/10.64898/2026.06.13.732058"
     },
+    "doi:10.64898/2026.06.15.732214": {
+      "date": "2026-06-16",
+      "score": 6,
+      "sent_at": "2026-06-23T08:55:43.481503+00:00",
+      "source": "biorxiv",
+      "title": "Multiple motor proteins regulate ALS-linked TDP-43 anterograde axonal transport",
+      "url": "https://doi.org/10.64898/2026.06.15.732214"
+    },
     "doi:10.64898/2026.06.15.732269": {
       "date": "2026-06-18",
       "score": 9,
@@ -1391,6 +1455,14 @@
       "source": "OpenAlex",
       "title": "Predicting optimal growth temperatures of bacteria using learned structural information from a single protein",
       "url": "https://doi.org/10.64898/2026.06.15.732269"
+    },
+    "doi:10.64898/2026.06.19.733375": {
+      "date": "2026-06-21",
+      "score": 19,
+      "sent_at": "2026-06-23T08:55:43.481503+00:00",
+      "source": "OpenAlex",
+      "title": "Antibody-Antigen Affinity Prediction with Chain-Aware Protein Language Modeling",
+      "url": "https://doi.org/10.64898/2026.06.19.733375"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
