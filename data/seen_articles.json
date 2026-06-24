@@ -72,6 +72,14 @@
       "title": "Residue-Level Attributions in Protein Language Models Do Not Recover Allergen Epitopes",
       "url": "http://arxiv.org/abs/2606.22181v1"
     },
+    "arxiv:2606.23964v1": {
+      "date": "2026-06-22",
+      "score": 15,
+      "sent_at": "2026-06-24T08:51:15.100672+00:00",
+      "source": "arXiv",
+      "title": "3D Masked Autoencoders are Robust Learners of Volumetric and Multimodal Cellular Representations for Microscopy",
+      "url": "http://arxiv.org/abs/2606.23964v1"
+    },
     "doi:10.1007/s00497-026-00540-w": {
       "date": "2026-05-30",
       "score": 4,
@@ -87,6 +95,14 @@
       "source": "OpenAlex",
       "title": "RNA-binding proteins in aging and age-related diseases: roles, mechanisms, and a large language model analysis",
       "url": "https://doi.org/10.1007/s10522-026-10464-7"
+    },
+    "doi:10.1007/s10791-026-10240-8": {
+      "date": "2026-06-21",
+      "score": 4,
+      "sent_at": "2026-06-24T08:51:15.100672+00:00",
+      "source": "OpenAlex",
+      "title": "Quantum\u2013classical hybrid learning framework for molecular property prediction and molecule optimization in drug discovery",
+      "url": "https://doi.org/10.1007/s10791-026-10240-8"
     },
     "doi:10.1016/j.ab.2026.116092": {
       "date": "2026 Jun",
@@ -600,6 +616,22 @@
       "title": "ProtAttn-QuadNet: An attention-based deep learning framework for protein-protein interaction prediction using ProtBERT embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42228714/"
     },
+    "doi:10.17632/m9r9pb39jw": {
+      "date": "2026-06-22",
+      "score": 15,
+      "sent_at": "2026-06-24T08:51:15.100672+00:00",
+      "source": "OpenAlex",
+      "title": "CAZy-HABench30K: A Homology-Aware Benchmark Dataset for CAZy Enzyme Family Classification",
+      "url": "https://doi.org/10.17632/m9r9pb39jw"
+    },
+    "doi:10.17632/m9r9pb39jw.1": {
+      "date": "2026-06-22",
+      "score": 15,
+      "sent_at": "2026-06-24T08:51:15.100672+00:00",
+      "source": "OpenAlex",
+      "title": "CAZy-HABench30K: A Homology-Aware Benchmark Dataset for CAZy Enzyme Family Classification",
+      "url": "https://doi.org/10.17632/m9r9pb39jw.1"
+    },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
       "score": 18,
@@ -1104,6 +1136,22 @@
       "title": "AMYLOPRED-DL: A HYBRID CNN-BILSTM-ATTENTION DEEP LEARNING FRAMEWORK INTEGRATING ESM-2 PROTEIN LANGUAGE MODEL EMBEDDINGS FOR IMPROVED PREDICTION OF AMYLOID PROTEINS",
       "url": "https://doi.org/10.5281/zenodo.20786164"
     },
+    "doi:10.5281/zenodo.20797352": {
+      "date": "2026-06-22",
+      "score": 10,
+      "sent_at": "2026-06-24T08:51:15.100672+00:00",
+      "source": "OpenAlex",
+      "title": "BADDxmu/VITAL: VITAL",
+      "url": "https://doi.org/10.5281/zenodo.20797352"
+    },
+    "doi:10.5281/zenodo.20797353": {
+      "date": "2026-06-22",
+      "score": 10,
+      "sent_at": "2026-06-24T08:51:15.100672+00:00",
+      "source": "OpenAlex",
+      "title": "BADDxmu/VITAL: VITAL",
+      "url": "https://doi.org/10.5281/zenodo.20797353"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -1455,6 +1503,22 @@
       "source": "OpenAlex",
       "title": "Predicting optimal growth temperatures of bacteria using learned structural information from a single protein",
       "url": "https://doi.org/10.64898/2026.06.15.732269"
+    },
+    "doi:10.64898/2026.06.16.732620": {
+      "date": "2026-06-17",
+      "score": 13,
+      "sent_at": "2026-06-24T08:51:15.100672+00:00",
+      "source": "biorxiv",
+      "title": "SOLiD-MaP: A Photoproximity Labeling Platform for Small Molecule Binding Site Mapping on RNA",
+      "url": "https://doi.org/10.64898/2026.06.16.732620"
+    },
+    "doi:10.64898/2026.06.17.732633": {
+      "date": "2026-06-21",
+      "score": 16,
+      "sent_at": "2026-06-24T08:51:15.100672+00:00",
+      "source": "OpenAlex",
+      "title": "DeepCDS: Ab initio coding sequence prediction in prokaryotic short reads",
+      "url": "https://doi.org/10.64898/2026.06.17.732633"
     },
     "doi:10.64898/2026.06.19.733375": {
       "date": "2026-06-21",
