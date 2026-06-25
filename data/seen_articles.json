@@ -192,6 +192,14 @@
       "title": "SPLiNet: Lightweight prediction of protein-RNA interaction sites by integrating a structure-aware protein language model with a dual-branch network",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42190366/"
     },
+    "doi:10.1016/j.compbiomed.2026.111821": {
+      "date": "2026 Jun 23",
+      "score": 14,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "PubMed",
+      "title": "Sequence-structure cross-attention model integrating ESM-2 embeddings and AlphaFold cues for accurate prediction of Escherichia coli protein solubility",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42335477/"
+    },
     "doi:10.1016/j.ijbiomac.2026.152509": {
       "date": "2026 May 12",
       "score": 4,
@@ -199,6 +207,14 @@
       "source": "PubMed",
       "title": "RIMGOGraph: integrating AlphaFold-derived residue interaction graphs and protein language embeddings for structure-informed protein function prediction",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42119874/"
+    },
+    "doi:10.1016/j.ijbiomac.2026.153150": {
+      "date": "2026 Jun 21",
+      "score": 18,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "PubMed",
+      "title": "Accurate identification of cytochrome P450 proteins using multimodal integration of protein language models",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324002/"
     },
     "doi:10.1016/j.isci.2026.115795": {
       "date": "2026 May 15",
@@ -296,6 +312,14 @@
       "title": "Improving protein and protein interactions using pseudo-dimers derived from monomeric proteins",
       "url": "https://doi.org/10.1038/s41467-026-73885-5"
     },
+    "doi:10.1038/s41540-026-00713-3": {
+      "date": "2026-06-22",
+      "score": 6,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "Vitiligo Information Resource database v3",
+      "url": "https://doi.org/10.1038/s41540-026-00713-3"
+    },
     "doi:10.1038/s41540-026-00759-3": {
       "date": "2026-06-11",
       "score": 10,
@@ -352,6 +376,14 @@
       "title": "Analysis of phylogenetic signal in protein language model embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42310357/"
     },
+    "doi:10.1038/s41598-026-57915-2": {
+      "date": "2026-06-22",
+      "score": 6,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "Bidirectional cross-modal fusion with tensor interaction for drug-target binding prediction",
+      "url": "https://doi.org/10.1038/s41598-026-57915-2"
+    },
     "doi:10.1038/s41598-026-58022-y": {
       "date": "2026-06-15",
       "score": 5,
@@ -359,6 +391,14 @@
       "source": "OpenAlex",
       "title": "DRQuantum: a drug repurposing method by quantum walks on a multi-layered heterogeneous network",
       "url": "https://doi.org/10.1038/s41598-026-58022-y"
+    },
+    "doi:10.1038/s41598-026-58508-9": {
+      "date": "2026-06-22",
+      "score": 5,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "A multi-label cascade flexible neural forest model for predicting the subcellular location of multi-site bacterial proteins",
+      "url": "https://doi.org/10.1038/s41598-026-58508-9"
     },
     "doi:10.1038/s41746-026-02664-9": {
       "date": "2026-06-11",
@@ -368,6 +408,14 @@
       "title": "Embeddings of clinical codes enable knowledge-grounded AI in medicine",
       "url": "https://doi.org/10.1038/s41746-026-02664-9"
     },
+    "doi:10.1038/s42003-026-10509-0": {
+      "date": "2026 Jun 23",
+      "score": 8,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "PubMed",
+      "title": "FISH+ is a ready-to-use proximity labeling method for simultaneous RNA visualization and RNA-interacting protein identification",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42337049/"
+    },
     "doi:10.1038/s44431-026-00025-w": {
       "date": "2026-06-03",
       "score": 10,
@@ -375,6 +423,14 @@
       "source": "OpenAlex",
       "title": "Advancements in characterization of protein dynamics with machine learning",
       "url": "https://doi.org/10.1038/s44431-026-00025-w"
+    },
+    "doi:10.1073/pnas.2521555123": {
+      "date": "2026 Jun 30",
+      "score": 10,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "PubMed",
+      "title": "Nongenetic engineering nanozyme proximity labeling reveals subcellular in situ interactomes and trafficking pathways of nanoparticles",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42330271/"
     },
     "doi:10.1073/pnas.2524201123": {
       "date": "2026-05-20",
@@ -415,6 +471,14 @@
       "source": "PubMed",
       "title": "An integrated proximity labeling and vesicle reconstitution assay identifies novel regulators of Sonic hedgehog secretion",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42126957/"
+    },
+    "doi:10.1093/bioadv/vbag181": {
+      "date": "2026-06-22",
+      "score": 13,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "BioGraphX: Bridging the Sequence-Structure Gap via Physicochemical Graph Encoding for Interpretable Subcellular Localization Prediction",
+      "url": "https://doi.org/10.1093/bioadv/vbag181"
     },
     "doi:10.1093/bioinformatics/btag254": {
       "date": "2026 May 3",
@@ -608,6 +672,14 @@
       "title": "Deep learning\u2013driven decoding of ubiquitination: from regulatory mechanisms to targeted protein degradation",
       "url": "https://doi.org/10.1186/s13062-026-00848-7"
     },
+    "doi:10.1371/journal.pcbi.1014396": {
+      "date": "2026-06-22",
+      "score": 4,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "TCRBinder: Unified pre-trained language model with paired-chain synergy for predicting T-cell receptor binding specificity",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014396"
+    },
     "doi:10.1371/journal.pone.0349433": {
       "date": "2026",
       "score": 16,
@@ -631,6 +703,14 @@
       "source": "OpenAlex",
       "title": "CAZy-HABench30K: A Homology-Aware Benchmark Dataset for CAZy Enzyme Family Classification",
       "url": "https://doi.org/10.17632/m9r9pb39jw.1"
+    },
+    "doi:10.17632/m9r9pb39jw.2": {
+      "date": "2026-06-23",
+      "score": 15,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "CAZy-HABench30K: A Homology-Aware Benchmark Dataset for CAZy Enzyme Family Classification",
+      "url": "https://doi.org/10.17632/m9r9pb39jw.2"
     },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
@@ -863,6 +943,22 @@
       "source": "OpenAlex",
       "title": "Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment",
       "url": "https://doi.org/10.48550/arxiv.2606.18703"
+    },
+    "doi:10.48550/arxiv.2606.21876": {
+      "date": "2026-06-20",
+      "score": 7,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "Protein contacts are already in the attention: a single-forward-pass alternative to the Categorical Jacobian",
+      "url": "https://doi.org/10.48550/arxiv.2606.21876"
+    },
+    "doi:10.48550/arxiv.2606.22181": {
+      "date": "2026-06-20",
+      "score": 25,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "Residue-Level Attributions in Protein Language Models Do Not Recover Allergen Epitopes",
+      "url": "https://doi.org/10.48550/arxiv.2606.22181"
     },
     "doi:10.5281/zenodo.17488190": {
       "date": "2026-06-04",
@@ -1519,6 +1615,22 @@
       "source": "OpenAlex",
       "title": "DeepCDS: Ab initio coding sequence prediction in prokaryotic short reads",
       "url": "https://doi.org/10.64898/2026.06.17.732633"
+    },
+    "doi:10.64898/2026.06.19.26356060": {
+      "date": "2026-06-22",
+      "score": 4,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology",
+      "url": "https://doi.org/10.64898/2026.06.19.26356060"
+    },
+    "doi:10.64898/2026.06.19.732932": {
+      "date": "2026-06-22",
+      "score": 11,
+      "sent_at": "2026-06-25T08:45:26.839019+00:00",
+      "source": "OpenAlex",
+      "title": "Capturing early events in aryl hydrocarbon receptor activation using two complementary protein-protein interaction assays",
+      "url": "https://doi.org/10.64898/2026.06.19.732932"
     },
     "doi:10.64898/2026.06.19.733375": {
       "date": "2026-06-21",
