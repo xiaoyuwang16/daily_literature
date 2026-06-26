@@ -264,6 +264,14 @@
       "title": "Predicting Peptide Aggregation with Protein Language Model Embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42049499/"
     },
+    "doi:10.1021/acs.jcim.6c01246": {
+      "date": "2026 Jun 25",
+      "score": 12,
+      "sent_at": "2026-06-26T08:48:02.659057+00:00",
+      "source": "PubMed",
+      "title": "ESM2-BiMamba: A Length-Adaptive Hybrid Framework for Efficient Concurrent Prediction of DNA-Binding Proteins and DNA-Binding Residue Sites",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42348910/"
+    },
     "doi:10.1021/acs.jctc.6c00427": {
       "date": "2026 May 26",
       "score": 12,
@@ -391,6 +399,14 @@
       "source": "OpenAlex",
       "title": "DRQuantum: a drug repurposing method by quantum walks on a multi-layered heterogeneous network",
       "url": "https://doi.org/10.1038/s41598-026-58022-y"
+    },
+    "doi:10.1038/s41598-026-58062-4": {
+      "date": "2026-06-23",
+      "score": 7,
+      "sent_at": "2026-06-26T08:48:02.659057+00:00",
+      "source": "OpenAlex",
+      "title": "Graph informed biomarker discovery framework using transcriptomic machine learning for glioblastoma prognosis",
+      "url": "https://doi.org/10.1038/s41598-026-58062-4"
     },
     "doi:10.1038/s41598-026-58508-9": {
       "date": "2026-06-22",
@@ -1272,6 +1288,14 @@
       "title": "Read-Consistent Minimum Unique Substrings: A Parameter-Free, Linear-Time Framework for Genomic Sequence Representation",
       "url": "https://doi.org/10.64898/2026.02.28.708734"
     },
+    "doi:10.64898/2026.03.06.26347824": {
+      "date": "2026-06-22",
+      "score": 4,
+      "sent_at": "2026-06-26T08:48:02.659057+00:00",
+      "source": "medrxiv",
+      "title": "Extracting patient reported cannabis use and reasons for use from electronic health records: a benchmarking study of large language models",
+      "url": "https://doi.org/10.64898/2026.03.06.26347824"
+    },
     "doi:10.64898/2026.04.22.720175": {
       "date": "2026 May 29",
       "score": 4,
@@ -1551,6 +1575,14 @@
       "source": "OpenAlex",
       "title": "Folding the unfoldable 2: using AlphaFold and ESMFold to explore spurious proteins",
       "url": "https://doi.org/10.64898/2026.06.09.728211"
+    },
+    "doi:10.64898/2026.06.09.730151": {
+      "date": "2026-06-23",
+      "score": 12,
+      "sent_at": "2026-06-26T08:48:02.659057+00:00",
+      "source": "OpenAlex",
+      "title": "Multi-Scale Machine Learning for Antibody-Antigen Binding Affinity Prediction Using Deep Mutational Scanning and Structural Features",
+      "url": "https://doi.org/10.64898/2026.06.09.730151"
     },
     "doi:10.64898/2026.06.12.732009": {
       "date": "2026-06-13",
@@ -1863,6 +1895,22 @@
       "source": "OpenAlex",
       "title": "Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment",
       "url": "https://openalex.org/W7165219926"
+    },
+    "openalex:https://openalex.org/w7165816455": {
+      "date": "2026-06-20",
+      "score": 25,
+      "sent_at": "2026-06-26T08:48:02.659057+00:00",
+      "source": "OpenAlex",
+      "title": "Residue-Level Attributions in Protein Language Models Do Not Recover Allergen Epitopes",
+      "url": "https://openalex.org/W7165816455"
+    },
+    "openalex:https://openalex.org/w7165816499": {
+      "date": "2026-06-20",
+      "score": 7,
+      "sent_at": "2026-06-26T08:48:02.659057+00:00",
+      "source": "OpenAlex",
+      "title": "Protein contacts are already in the attention: a single-forward-pass alternative to the Categorical Jacobian",
+      "url": "https://openalex.org/W7165816499"
     }
   }
 }
