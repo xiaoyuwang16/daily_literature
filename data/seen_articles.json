@@ -480,6 +480,14 @@
       "title": "Prediction of antibody non-specificity using protein language models and biophysical parameters",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42200306/"
     },
+    "doi:10.1080/19420862.2026.2692763": {
+      "date": "2026-06-24",
+      "score": 8,
+      "sent_at": "2026-06-27T08:24:42.548400+00:00",
+      "source": "OpenAlex",
+      "title": "Efficient inference of non-polyreactive antibody variants dependent on local fine-tuning",
+      "url": "https://doi.org/10.1080/19420862.2026.2692763"
+    },
     "doi:10.1091/mbc.e25-12-0627": {
       "date": "2026 Jun",
       "score": 8,
@@ -895,6 +903,14 @@
       "source": "OpenAlex",
       "title": "Multimodal graph neural network with large language models for node and link prediction",
       "url": "https://doi.org/10.3389/frai.2026.1758852"
+    },
+    "doi:10.3389/frai.2026.1881082": {
+      "date": "2026-06-25",
+      "score": 4,
+      "sent_at": "2026-06-27T08:24:42.548400+00:00",
+      "source": "OpenAlex",
+      "title": "A reliable and explainable deep learning framework for clinical-grade endocrine disorder risk prediction and decision support",
+      "url": "https://doi.org/10.3389/frai.2026.1881082"
     },
     "doi:10.36306/konjes.1716813": {
       "date": "2026-06-04",
@@ -1904,6 +1920,14 @@
       "title": "Residue-Level Attributions in Protein Language Models Do Not Recover Allergen Epitopes",
       "url": "https://openalex.org/W7165816455"
     },
+    "openalex:https://openalex.org/w7165816490": {
+      "date": "2026-06-22",
+      "score": 10,
+      "sent_at": "2026-06-27T08:24:42.548400+00:00",
+      "source": "OpenAlex",
+      "title": "Bridge the Gaps: Heterogeneous Attributed Graph Clustering via Quaternion Representation Learning",
+      "url": "https://openalex.org/W7165816490"
+    },
     "openalex:https://openalex.org/w7165816499": {
       "date": "2026-06-20",
       "score": 7,
@@ -1911,6 +1935,14 @@
       "source": "OpenAlex",
       "title": "Protein contacts are already in the attention: a single-forward-pass alternative to the Categorical Jacobian",
       "url": "https://openalex.org/W7165816499"
+    },
+    "openalex:https://openalex.org/w7165817557": {
+      "date": "2026-06-22",
+      "score": 8,
+      "sent_at": "2026-06-27T08:24:42.548400+00:00",
+      "source": "OpenAlex",
+      "title": "What Does a Chemical Language Model Know About Molecules?",
+      "url": "https://openalex.org/W7165817557"
     }
   }
 }
