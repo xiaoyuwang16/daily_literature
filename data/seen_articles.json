@@ -264,6 +264,14 @@
       "title": "Predicting Peptide Aggregation with Protein Language Model Embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42049499/"
     },
+    "doi:10.1021/acs.jcim.6c01199": {
+      "date": "2026-06-26",
+      "score": 10,
+      "sent_at": "2026-06-28T08:38:57.409382+00:00",
+      "source": "OpenAlex",
+      "title": "ZHMolTopoRPI: A Commutative Algebra-Driven Deep Learning Framework for Robust RNA-Protein Interaction Prediction",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01199"
+    },
     "doi:10.1021/acs.jcim.6c01246": {
       "date": "2026 Jun 25",
       "score": 12,
@@ -1216,6 +1224,22 @@
       "title": "Foundation model representation-geometry analysis on a genomic testbed: 10-condition factorial dataset, 4-metric robustness analysis, and trained checkpoints",
       "url": "https://doi.org/10.5281/zenodo.20711861"
     },
+    "doi:10.5281/zenodo.20717117": {
+      "date": "2026-06-26",
+      "score": 12,
+      "sent_at": "2026-06-28T08:38:57.409382+00:00",
+      "source": "OpenAlex",
+      "title": "SCARSE: Small-sample Classification And Regression Solution for low-resource peptide Engineering",
+      "url": "https://doi.org/10.5281/zenodo.20717117"
+    },
+    "doi:10.5281/zenodo.20717118": {
+      "date": "2026-06-26",
+      "score": 12,
+      "sent_at": "2026-06-28T08:38:57.409382+00:00",
+      "source": "OpenAlex",
+      "title": "SCARSE: Small-sample Classification And Regression Solution for low-resource peptide Engineering",
+      "url": "https://doi.org/10.5281/zenodo.20717118"
+    },
     "doi:10.5281/zenodo.20719001": {
       "date": "2026-06-16",
       "score": 23,
@@ -1280,6 +1304,14 @@
       "title": "BADDxmu/VITAL: VITAL",
       "url": "https://doi.org/10.5281/zenodo.20797353"
     },
+    "doi:10.5281/zenodo.20935067": {
+      "date": "2026-06-26",
+      "score": 21,
+      "sent_at": "2026-06-28T08:38:57.409382+00:00",
+      "source": "OpenAlex",
+      "title": "ESM-2 MLP Classifier for Ocean Phage Dark Matter Functional Annotation \u2014 Ibdaa 2027",
+      "url": "https://doi.org/10.5281/zenodo.20935067"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -1295,6 +1327,14 @@
       "source": "medrxiv",
       "title": "The Association Between Oral Microbiota and Chronic Obstructive Pulmonary Disease: An Integrated Study of Genetic Causal Inference and Bioinformatics Analysis",
       "url": "https://doi.org/10.64898/2025.12.01.25341371"
+    },
+    "doi:10.64898/2026.02.09.704949": {
+      "date": "2026-06-21",
+      "score": 4,
+      "sent_at": "2026-06-28T08:38:57.409382+00:00",
+      "source": "biorxiv",
+      "title": "\u03c0DIA-CLIP: efficient identification of highly heterogeneous proteomics data via a generalized zero-shot framework",
+      "url": "https://doi.org/10.64898/2026.02.09.704949"
     },
     "doi:10.64898/2026.02.28.708734": {
       "date": "2026-05-25",
@@ -1664,6 +1704,14 @@
       "title": "DeepCDS: Ab initio coding sequence prediction in prokaryotic short reads",
       "url": "https://doi.org/10.64898/2026.06.17.732633"
     },
+    "doi:10.64898/2026.06.17.732686": {
+      "date": "2026-06-21",
+      "score": 4,
+      "sent_at": "2026-06-28T08:38:57.409382+00:00",
+      "source": "biorxiv",
+      "title": "GENATATORs: ab initio Gene Annotation With DNA Language Models",
+      "url": "https://doi.org/10.64898/2026.06.17.732686"
+    },
     "doi:10.64898/2026.06.19.26356060": {
       "date": "2026-06-22",
       "score": 4,
@@ -1943,6 +1991,14 @@
       "source": "OpenAlex",
       "title": "What Does a Chemical Language Model Know About Molecules?",
       "url": "https://openalex.org/W7165817557"
+    },
+    "openalex:https://openalex.org/w7165972713": {
+      "date": "2026-06-22",
+      "score": 5,
+      "sent_at": "2026-06-28T08:38:57.409382+00:00",
+      "source": "OpenAlex",
+      "title": "Deciphering Fingerprints of 3D Molecular Surfaces for Accurate Epitope Prediction",
+      "url": "https://openalex.org/W7165972713"
     }
   }
 }
