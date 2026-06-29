@@ -384,6 +384,14 @@
       "title": "Learning continuous activation fields from microscopic SEM images of lycoperdioid fungi via CNN-guided neural operator modeling",
       "url": "https://doi.org/10.1038/s41598-026-56178-1"
     },
+    "doi:10.1038/s41598-026-56450-4": {
+      "date": "2026-06-27",
+      "score": 7,
+      "sent_at": "2026-06-29T10:18:41.548824+00:00",
+      "source": "OpenAlex",
+      "title": "Structural feature-based machine learning benchmarking for protein interface prediction",
+      "url": "https://doi.org/10.1038/s41598-026-56450-4"
+    },
     "doi:10.1038/s41598-026-57699-5": {
       "date": "2026 Jun 17",
       "score": 14,
@@ -743,6 +751,14 @@
       "source": "OpenAlex",
       "title": "CAZy-HABench30K: A Homology-Aware Benchmark Dataset for CAZy Enzyme Family Classification",
       "url": "https://doi.org/10.17632/m9r9pb39jw.2"
+    },
+    "doi:10.20944/preprints202606.1966.v1": {
+      "date": "2026-06-26",
+      "score": 29,
+      "sent_at": "2026-06-29T10:18:41.548824+00:00",
+      "source": "OpenAlex",
+      "title": "Protein Language Model Embeddings Reveal Proteome-Scale Ortholog Divergence Relevant to Cross-Species Pharmacology",
+      "url": "https://doi.org/10.20944/preprints202606.1966.v1"
     },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
@@ -1336,6 +1352,14 @@
       "title": "\u03c0DIA-CLIP: efficient identification of highly heterogeneous proteomics data via a generalized zero-shot framework",
       "url": "https://doi.org/10.64898/2026.02.09.704949"
     },
+    "doi:10.64898/2026.02.17.706304": {
+      "date": "2026-06-22",
+      "score": 18,
+      "sent_at": "2026-06-29T10:18:41.548824+00:00",
+      "source": "biorxiv",
+      "title": "WITHDRAWN: Distilling Protein Language Models with Complementary Regularizers",
+      "url": "https://doi.org/10.64898/2026.02.17.706304"
+    },
     "doi:10.64898/2026.02.28.708734": {
       "date": "2026-05-25",
       "score": 4,
@@ -1712,6 +1736,14 @@
       "title": "GENATATORs: ab initio Gene Annotation With DNA Language Models",
       "url": "https://doi.org/10.64898/2026.06.17.732686"
     },
+    "doi:10.64898/2026.06.17.732986": {
+      "date": "2026-06-22",
+      "score": 4,
+      "sent_at": "2026-06-29T10:18:41.548824+00:00",
+      "source": "biorxiv",
+      "title": "Mechanical tension expands the microtubule lattice stepwise and modulates kinesin-1 binding in an isoform-dependent manner",
+      "url": "https://doi.org/10.64898/2026.06.17.732986"
+    },
     "doi:10.64898/2026.06.19.26356060": {
       "date": "2026-06-22",
       "score": 4,
@@ -1735,6 +1767,14 @@
       "source": "OpenAlex",
       "title": "Antibody-Antigen Affinity Prediction with Chain-Aware Protein Language Modeling",
       "url": "https://doi.org/10.64898/2026.06.19.733375"
+    },
+    "doi:10.64898/2026.06.22.733745": {
+      "date": "2026-06-26",
+      "score": 14,
+      "sent_at": "2026-06-29T10:18:41.548824+00:00",
+      "source": "OpenAlex",
+      "title": "EpiESM-GA: Resource-Efficient Protein Foundation Model Features for Equitable B-Cell Epitope Prediction",
+      "url": "https://doi.org/10.64898/2026.06.22.733745"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
