@@ -1344,6 +1344,14 @@
       "title": "The Association Between Oral Microbiota and Chronic Obstructive Pulmonary Disease: An Integrated Study of Genetic Causal Inference and Bioinformatics Analysis",
       "url": "https://doi.org/10.64898/2025.12.01.25341371"
     },
+    "doi:10.64898/2025.12.26.25343061": {
+      "date": "2026-06-23",
+      "score": 5,
+      "sent_at": "2026-06-30T08:53:43.301595+00:00",
+      "source": "medrxiv",
+      "title": "Causally-anchored multi-omic deep learning recovers exercise-responsive and ageing-causal genes from human physical activity",
+      "url": "https://doi.org/10.64898/2025.12.26.25343061"
+    },
     "doi:10.64898/2026.02.09.704949": {
       "date": "2026-06-21",
       "score": 4,
@@ -1648,6 +1656,14 @@
       "title": "Sequence-Based Therapeutic Peptide Classification with Augmented Negative Sampling",
       "url": "https://doi.org/10.64898/2026.06.07.730473"
     },
+    "doi:10.64898/2026.06.07.730684": {
+      "date": "2026-06-23",
+      "score": 5,
+      "sent_at": "2026-06-30T08:53:43.301595+00:00",
+      "source": "biorxiv",
+      "title": "HoloCell: A Generative Foundation Model for Holistic Cellular Modeling",
+      "url": "https://doi.org/10.64898/2026.06.07.730684"
+    },
     "doi:10.64898/2026.06.09.728211": {
       "date": "2026-06-10",
       "score": 11,
@@ -1719,6 +1735,14 @@
       "source": "biorxiv",
       "title": "SOLiD-MaP: A Photoproximity Labeling Platform for Small Molecule Binding Site Mapping on RNA",
       "url": "https://doi.org/10.64898/2026.06.16.732620"
+    },
+    "doi:10.64898/2026.06.17.26355907": {
+      "date": "2026-06-23",
+      "score": 8,
+      "sent_at": "2026-06-30T08:53:43.301595+00:00",
+      "source": "medrxiv",
+      "title": "AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity",
+      "url": "https://doi.org/10.64898/2026.06.17.26355907"
     },
     "doi:10.64898/2026.06.17.732633": {
       "date": "2026-06-21",
