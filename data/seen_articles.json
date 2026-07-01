@@ -80,6 +80,14 @@
       "title": "3D Masked Autoencoders are Robust Learners of Volumetric and Multimodal Cellular Representations for Microscopy",
       "url": "http://arxiv.org/abs/2606.23964v1"
     },
+    "doi:10.1002/pro.70667": {
+      "date": "2026 Jul",
+      "score": 12,
+      "sent_at": "2026-07-01T09:26:07.009785+00:00",
+      "source": "PubMed",
+      "title": "DeepSSInter: Protein-protein contact prediction with a structure-aware protein language model",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42316773/"
+    },
     "doi:10.1007/s00497-026-00540-w": {
       "date": "2026-05-30",
       "score": 4,
