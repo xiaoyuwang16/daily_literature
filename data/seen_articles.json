@@ -88,6 +88,14 @@
       "title": "DeepSSInter: Protein-protein contact prediction with a structure-aware protein language model",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42316773/"
     },
+    "doi:10.1002/pro.70689": {
+      "date": "2026 Jul",
+      "score": 4,
+      "sent_at": "2026-07-02T08:39:36.744927+00:00",
+      "source": "PubMed",
+      "title": "A PLM-based method for predicting protein ion channel modulators for drug discovery and safety evaluation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42321971/"
+    },
     "doi:10.1007/s00497-026-00540-w": {
       "date": "2026-05-30",
       "score": 4,
@@ -119,6 +127,14 @@
       "source": "PubMed",
       "title": "msCNN-PLM-FAD: Enhanced predicting FAD binding sites by using protein language representation combined with multiple separable windows convolutional neural networks",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41763284/"
+    },
+    "doi:10.1016/j.ab.2026.116116": {
+      "date": "2026 Jul",
+      "score": 18,
+      "sent_at": "2026-07-02T08:39:36.744927+00:00",
+      "source": "PubMed",
+      "title": "Prediction of cyclin-dependent proteins using pre-trained protein language models and effective neural network architectures",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41865419/"
     },
     "doi:10.1016/j.ab.2026.116154": {
       "date": "2026 May 21",
@@ -231,6 +247,22 @@
       "source": "PubMed",
       "title": "Predicting protein-nucleic acid interactions via protein language models with biophysical and evolutionary priors",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42100742/"
+    },
+    "doi:10.1016/j.jmgm.2026.109383": {
+      "date": "2026 Jul",
+      "score": 14,
+      "sent_at": "2026-07-02T08:39:36.744927+00:00",
+      "source": "PubMed",
+      "title": "PCTPS: Accurate prediction of phase-separated proteins using protein language model embeddings and a CTN-KAN framework",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41905267/"
+    },
+    "doi:10.1016/j.jmgm.2026.109401": {
+      "date": "2026 Jul",
+      "score": 10,
+      "sent_at": "2026-07-02T08:39:36.744927+00:00",
+      "source": "PubMed",
+      "title": "CFlowAMP: Property controllable De Novo AMP design via integrating ESM-2 with conditional flow matching",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41941849/"
     },
     "doi:10.1016/j.tig.2026.05.014": {
       "date": "2026 Jun 15",
@@ -584,6 +616,14 @@
       "title": "Protein-Nucleic Acid Binding Site Prediction Using Interpretable Kolmogorov-Arnold Networks with Hypergraph Representation Learning",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42323855/"
     },
+    "doi:10.1093/bioinformatics/btag476": {
+      "date": "2026 Jun 30",
+      "score": 14,
+      "sent_at": "2026-07-02T08:39:36.744927+00:00",
+      "source": "PubMed",
+      "title": "OTalign: Optimal Transport Alignment for Remote Protein Homologs Using Protein Language Model Embeddings",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42378434/"
+    },
     "doi:10.1093/jxb/erag288": {
       "date": "2026 Jun 11",
       "score": 4,
@@ -687,6 +727,14 @@
       "source": "OpenAlex",
       "title": "Topological Data Analysis Applications in Natural Language Processing: A Survey",
       "url": "https://doi.org/10.1145/3820356.3820362"
+    },
+    "doi:10.1177/15578666261443336": {
+      "date": "2026 Jul",
+      "score": 14,
+      "sent_at": "2026-07-02T08:39:36.744927+00:00",
+      "source": "PubMed",
+      "title": "Evaluating Protein Language Model Embeddings for Viral Clade Assignment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42011844/"
     },
     "doi:10.1186/s12859-026-06491-3": {
       "date": "2026 Jun 12",
@@ -1720,6 +1768,14 @@
       "title": "ProtAff: Protein Binding Affinity Prediction via LoRA-Finetuned ESM-2",
       "url": "https://doi.org/10.64898/2026.06.13.732058"
     },
+    "doi:10.64898/2026.06.15.26355689": {
+      "date": "2026-06-25",
+      "score": 6,
+      "sent_at": "2026-07-02T08:39:36.744927+00:00",
+      "source": "medrxiv",
+      "title": "Presurgical immune biomarkers associated with pain intensity and pain interference recovery after total knee arthroplasty: findings from the PRIME-KNEE study",
+      "url": "https://doi.org/10.64898/2026.06.15.26355689"
+    },
     "doi:10.64898/2026.06.15.732214": {
       "date": "2026-06-16",
       "score": 6,
@@ -1807,6 +1863,22 @@
       "source": "OpenAlex",
       "title": "EpiESM-GA: Resource-Efficient Protein Foundation Model Features for Equitable B-Cell Epitope Prediction",
       "url": "https://doi.org/10.64898/2026.06.22.733745"
+    },
+    "doi:10.64898/2026.06.23.26356236": {
+      "date": "2026-06-25",
+      "score": 9,
+      "sent_at": "2026-07-02T08:39:36.744927+00:00",
+      "source": "medrxiv",
+      "title": "Time-Aware Contrastive Transformer for Longitudinal Patient Representation Learning",
+      "url": "https://doi.org/10.64898/2026.06.23.26356236"
+    },
+    "doi:10.64898/2026.06.23.26356240": {
+      "date": "2026-06-25",
+      "score": 4,
+      "sent_at": "2026-07-02T08:39:36.744927+00:00",
+      "source": "medrxiv",
+      "title": "Psychosocial Factors Outweigh Short-Term Environmental Exposures in Subjective Cognitive Difficulties: A Causal AI Study",
+      "url": "https://doi.org/10.64898/2026.06.23.26356240"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
