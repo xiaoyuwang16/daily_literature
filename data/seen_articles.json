@@ -816,6 +816,14 @@
       "title": "Protein Language Model Embeddings Reveal Proteome-Scale Ortholog Divergence Relevant to Cross-Species Pharmacology",
       "url": "https://doi.org/10.20944/preprints202606.1966.v1"
     },
+    "doi:10.21015/vtse.v14i2.2478": {
+      "date": "2026-06-28",
+      "score": 10,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "HomonymSenseNet: A Context-Aware Transformer Framework with Dynamic Sense Memory and Adaptive Negative Sampling for Semantic Representation Learning",
+      "url": "https://doi.org/10.21015/vtse.v14i2.2478"
+    },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
       "score": 18,
@@ -823,6 +831,14 @@
       "source": "OpenAlex",
       "title": "Independent Structural Contribution to Mutation Sensitivity in Protein Language Models Revealed by Variance Decomposition Across Complete Missense Landscapes",
       "url": "https://doi.org/10.21203/rs.3.rs-9299039/v1"
+    },
+    "doi:10.2174/0115748855466511260613200829": {
+      "date": "2026-06-29",
+      "score": 17,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Enhancing Proinflammatory Peptide Prediction by Integrating a Transformer Encoder and a Protein Language Model Based on a Residual Module",
+      "url": "https://doi.org/10.2174/0115748855466511260613200829"
     },
     "doi:10.22541/authorea.15004784/v1": {
       "date": "2026-06-16",
@@ -968,6 +984,14 @@
       "title": "Expression of the quinoa TCP gene family and analysis of CqTCP11 involvement in seed germination stress response",
       "url": "https://doi.org/10.3389/fpls.2026.1860606"
     },
+    "doi:10.3389/fpls.2026.1887090": {
+      "date": "2026-06-30",
+      "score": 7,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Genomic and functional characterization of the cinnamic acid 4-hydroxylase gene family reveals candidate genes involved in rind texture modulation in watermelon",
+      "url": "https://doi.org/10.3389/fpls.2026.1887090"
+    },
     "doi:10.3389/fpsyt.2026.1814473": {
       "date": "2026-06-19",
       "score": 4,
@@ -991,6 +1015,30 @@
       "source": "OpenAlex",
       "title": "A reliable and explainable deep learning framework for clinical-grade endocrine disorder risk prediction and decision support",
       "url": "https://doi.org/10.3389/frai.2026.1881082"
+    },
+    "doi:10.3390/ijms27135848": {
+      "date": "2026-06-29",
+      "score": 11,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "MD-Transformer: Multimodal Integration of ProtBERT Embeddings and Physicochemical Descriptors for Protein\u2013Protein Interface Residue Prediction",
+      "url": "https://doi.org/10.3390/ijms27135848"
+    },
+    "doi:10.3390/ijms27135925": {
+      "date": "2026-06-30",
+      "score": 20,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Hybrid Approach to Protein\u2013Protein Complex Affinity Prediction Based on Language Models and Molecular Dynamics",
+      "url": "https://doi.org/10.3390/ijms27135925"
+    },
+    "doi:10.3390/plants15132022": {
+      "date": "2026-06-30",
+      "score": 5,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "A Splice-Variant Imbalance of Reticulon-like Protein 16 (RTNLB16) Disrupts Growth and Decreases Sensitivity to ABA and Dark-Induced Senescence in Arabidopsis",
+      "url": "https://doi.org/10.3390/plants15132022"
     },
     "doi:10.36306/konjes.1716813": {
       "date": "2026-06-04",
@@ -1376,6 +1424,22 @@
       "title": "BADDxmu/VITAL: VITAL",
       "url": "https://doi.org/10.5281/zenodo.20797353"
     },
+    "doi:10.5281/zenodo.20814104": {
+      "date": "2026-07-01",
+      "score": 22,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "TEDlm: domain-centric protein language models with optional structural pre-training",
+      "url": "https://doi.org/10.5281/zenodo.20814104"
+    },
+    "doi:10.5281/zenodo.20814105": {
+      "date": "2026-07-01",
+      "score": 22,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "TEDlm: domain-centric protein language models with optional structural pre-training",
+      "url": "https://doi.org/10.5281/zenodo.20814105"
+    },
     "doi:10.5281/zenodo.20935067": {
       "date": "2026-06-26",
       "score": 21,
@@ -1383,6 +1447,70 @@
       "source": "OpenAlex",
       "title": "ESM-2 MLP Classifier for Ocean Phage Dark Matter Functional Annotation \u2014 Ibdaa 2027",
       "url": "https://doi.org/10.5281/zenodo.20935067"
+    },
+    "doi:10.5281/zenodo.21044162": {
+      "date": "2026-06-29",
+      "score": 15,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Cellula-VCC v1.0.0: An AI-Powered Whole-Cell Virtual Cell Simulator, Multi-Modal Perturbation Prediction Engine, and Generative Pharmacology Suite",
+      "url": "https://doi.org/10.5281/zenodo.21044162"
+    },
+    "doi:10.5281/zenodo.21049788": {
+      "date": "2026-06-29",
+      "score": 15,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Cellula-VCC v1.0.0: An AI-Powered Whole-Cell Virtual Cell Simulator, Multi-Modal Perturbation Prediction Engine, and Generative Pharmacology Suite",
+      "url": "https://doi.org/10.5281/zenodo.21049788"
+    },
+    "doi:10.5281/zenodo.21064578": {
+      "date": "2026-06-30",
+      "score": 16,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Code and reproduction artifact for \"Reassessing Sequence-Based Cold-Start Protein\u2013Protein Interaction Prediction: A Leakage-Controlled Benchmark, an Audit-Driven Reproducibility Study, and Calibrated Selective Prediction over Frozen PLM Embeddings\"",
+      "url": "https://doi.org/10.5281/zenodo.21064578"
+    },
+    "doi:10.5281/zenodo.21064579": {
+      "date": "2026-06-30",
+      "score": 16,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Code and reproduction artifact for \"Reassessing Sequence-Based Cold-Start Protein\u2013Protein Interaction Prediction: A Leakage-Controlled Benchmark, an Audit-Driven Reproducibility Study, and Calibrated Selective Prediction over Frozen PLM Embeddings\"",
+      "url": "https://doi.org/10.5281/zenodo.21064579"
+    },
+    "doi:10.5281/zenodo.21072518": {
+      "date": "2026-06-30",
+      "score": 16,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Code and reproduction artifact for \"Reassessing Sequence-Based Cold-Start Protein\u2013Protein Interaction Prediction: A Leakage-Controlled Benchmark, an Audit-Driven Reproducibility Study, and Calibrated Selective Prediction over Frozen PLM Embeddings\"",
+      "url": "https://doi.org/10.5281/zenodo.21072518"
+    },
+    "doi:10.5281/zenodo.21073429": {
+      "date": "2026-06-30",
+      "score": 16,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "AMR Novel Gene Discovery \u2014 Reproducibility Pipeline",
+      "url": "https://doi.org/10.5281/zenodo.21073429"
+    },
+    "doi:10.5281/zenodo.21073430": {
+      "date": "2026-06-30",
+      "score": 16,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "AMR Novel Gene Discovery \u2014 Reproducibility Pipeline",
+      "url": "https://doi.org/10.5281/zenodo.21073430"
+    },
+    "doi:10.5281/zenodo.21081669": {
+      "date": "2026-06-30",
+      "score": 16,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Code and reproduction artifact for \"Reassessing Sequence-Based Cold-Start Protein\u2013Protein Interaction Prediction: A Leakage-Controlled Benchmark, an Audit-Driven Reproducibility Study, and Calibrated Selective Prediction over Frozen PLM Embeddings\"",
+      "url": "https://doi.org/10.5281/zenodo.21081669"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
@@ -1879,6 +2007,38 @@
       "source": "medrxiv",
       "title": "Psychosocial Factors Outweigh Short-Term Environmental Exposures in Subjective Cognitive Difficulties: A Causal AI Study",
       "url": "https://doi.org/10.64898/2026.06.23.26356240"
+    },
+    "doi:10.64898/2026.06.23.734004": {
+      "date": "2026-06-29",
+      "score": 19,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "EnzyKAN: Protein Language Model Embeddings and Kolmogorov\u2013Arnold Network Variants for Enzyme Commission Classification with a Proposed Electron-Transfer Physics Feature Framework",
+      "url": "https://doi.org/10.64898/2026.06.23.734004"
+    },
+    "doi:10.64898/2026.06.25.734678": {
+      "date": "2026-07-01",
+      "score": 20,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "AI-guided discovery for low-resource peptide engineering using evolutionary scale modeling",
+      "url": "https://doi.org/10.64898/2026.06.25.734678"
+    },
+    "doi:10.64898/2026.06.28.735009": {
+      "date": "2026-06-29",
+      "score": 9,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Prot2Prop: Structure-informed multitask protein property prediction",
+      "url": "https://doi.org/10.64898/2026.06.28.735009"
+    },
+    "doi:10.64898/2026.06.28.735023": {
+      "date": "2026-06-29",
+      "score": 25,
+      "sent_at": "2026-07-03T08:45:38.484087+00:00",
+      "source": "OpenAlex",
+      "title": "Peptide:MHC Binding Stability Prediction Using Protein Language Models",
+      "url": "https://doi.org/10.64898/2026.06.28.735023"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
