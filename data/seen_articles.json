@@ -80,6 +80,14 @@
       "title": "3D Masked Autoencoders are Robust Learners of Volumetric and Multimodal Cellular Representations for Microscopy",
       "url": "http://arxiv.org/abs/2606.23964v1"
     },
+    "doi:10.1002/mas.21926": {
+      "date": "2026 Jul-Aug",
+      "score": 10,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "PubMed",
+      "title": "Mass Spectrometry-Based Proteomics Technologies to Define Endogenous Protein-Protein Interactions and Their Applications to Cancer and Viral Infectious Diseases",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39924651/"
+    },
     "doi:10.1002/pro.70667": {
       "date": "2026 Jul",
       "score": 12,
@@ -264,6 +272,14 @@
       "title": "CFlowAMP: Property controllable De Novo AMP design via integrating ESM-2 with conditional flow matching",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41941849/"
     },
+    "doi:10.1016/j.neures.2026.105070": {
+      "date": "2026 Jul",
+      "score": 8,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "PubMed",
+      "title": "In situ proximity labeling reveals the proteome and signaling landscape of presynaptic boutons",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42134552/"
+    },
     "doi:10.1016/j.tig.2026.05.014": {
       "date": "2026 Jun 15",
       "score": 14,
@@ -279,6 +295,14 @@
       "source": "PubMed",
       "title": "Organelle-Specific Interactome Mapping via Enzyme-Responsive Cross-Linking and Proximity Labeling",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42269087/"
+    },
+    "doi:10.1021/acs.jcim.5c02072": {
+      "date": "2026-07-01",
+      "score": 4,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "OpenAlex",
+      "title": "DeepKbhb: Context-Aware Prediction of Human Lysine \u03b2-Hydroxybutyrylation Sites",
+      "url": "https://doi.org/10.1021/acs.jcim.5c02072"
     },
     "doi:10.1021/acs.jcim.5c02744": {
       "date": "2026 May 25",
@@ -351,6 +375,14 @@
       "source": "PubMed",
       "title": "RPI-PLMGNN: Enhancing RNA-Protein Interaction Prediction with the Pretrained Large Language Models and Graph Neural Networks",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42288985/"
+    },
+    "doi:10.1021/jacs.6c08969": {
+      "date": "2026 Jul 1",
+      "score": 4,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "PubMed",
+      "title": "High-Precision Intrinsic Interactome Elucidation of Chimeric Antigen Receptors via Photocatalytic Micromapping (\u03bcMap-CAR)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42387256/"
     },
     "doi:10.1038/s10038-026-01484-9": {
       "date": "2026 Jun 22",
@@ -680,6 +712,22 @@
       "title": "TurboID-Based Proximity Labeling Map Reveals the Protein Interaction Network and Anti-Viral Mechanism Against Influenza A H1N1",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42247242/"
     },
+    "doi:10.1101/2024.03.09.583681": {
+      "date": "2026-06-27",
+      "score": 13,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "biorxiv",
+      "title": "Effective structure-aware protein alignment via residue-level contrastive learning",
+      "url": "https://doi.org/10.1101/2024.03.09.583681"
+    },
+    "doi:10.1101/2024.10.02.616302": {
+      "date": "2026-06-27",
+      "score": 8,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "biorxiv",
+      "title": "EvoSeq-ML: Advancing Data-Centric Machine Learning with Evolutionary-Informed Protein Sequence Representation and Generation",
+      "url": "https://doi.org/10.1101/2024.10.02.616302"
+    },
     "doi:10.1101/2024.12.04.626803": {
       "date": "2026-05-28",
       "score": 5,
@@ -703,6 +751,14 @@
       "source": "biorxiv",
       "title": "Sparse Autoencoders Reveal Interpretable Features in Single-Cell Foundation Models",
       "url": "https://doi.org/10.1101/2025.10.22.681631"
+    },
+    "doi:10.1109/jbhi.2026.3709844": {
+      "date": "2026 Jul 2",
+      "score": 10,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "PubMed",
+      "title": "Integrating Multi-View Residue Graph and Protein Language Model for Cell-Penetrating Peptide Prediction via Global-Local Graph Aggregation and Cross-Attentive Fusion",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391080/"
     },
     "doi:10.1126/sciadv.aed3077": {
       "date": "2026 May 8",
@@ -936,6 +992,14 @@
       "title": "First draft genome and genomic analysis of Neofusicoccum parvum isolated from mango (Mangifera indica L.) in Paraguay",
       "url": "https://doi.org/10.3389/ffunb.2026.1813584"
     },
+    "doi:10.3389/fmicb.2026.1842380": {
+      "date": "2026-07-02",
+      "score": 7,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "OpenAlex",
+      "title": "tsAMP: a strain-level antimicrobial peptide identification framework based on large language models and pathogen genomic variation",
+      "url": "https://doi.org/10.3389/fmicb.2026.1842380"
+    },
     "doi:10.3389/fmolb.2026.1814859": {
       "date": "2026-06-16",
       "score": 7,
@@ -1007,6 +1071,14 @@
       "source": "OpenAlex",
       "title": "Multimodal graph neural network with large language models for node and link prediction",
       "url": "https://doi.org/10.3389/frai.2026.1758852"
+    },
+    "doi:10.3389/frai.2026.1807340": {
+      "date": "2026-07-01",
+      "score": 10,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "OpenAlex",
+      "title": "AI-driven drug discovery using transformer-based molecular representation learning",
+      "url": "https://doi.org/10.3389/frai.2026.1807340"
     },
     "doi:10.3389/frai.2026.1881082": {
       "date": "2026-06-25",
@@ -1511,6 +1583,22 @@
       "source": "OpenAlex",
       "title": "Code and reproduction artifact for \"Reassessing Sequence-Based Cold-Start Protein\u2013Protein Interaction Prediction: A Leakage-Controlled Benchmark, an Audit-Driven Reproducibility Study, and Calibrated Selective Prediction over Frozen PLM Embeddings\"",
       "url": "https://doi.org/10.5281/zenodo.21081669"
+    },
+    "doi:10.5281/zenodo.21128050": {
+      "date": "2026-07-02",
+      "score": 10,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "OpenAlex",
+      "title": "Alpha Science Skills: A Comprehensive Overview of Autonomous AI Capabilities in Bioinformatics",
+      "url": "https://doi.org/10.5281/zenodo.21128050"
+    },
+    "doi:10.5281/zenodo.21128051": {
+      "date": "2026-07-02",
+      "score": 10,
+      "sent_at": "2026-07-04T08:20:17.039425+00:00",
+      "source": "OpenAlex",
+      "title": "Alpha Science Skills: A Comprehensive Overview of Autonomous AI Capabilities in Bioinformatics",
+      "url": "https://doi.org/10.5281/zenodo.21128051"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
