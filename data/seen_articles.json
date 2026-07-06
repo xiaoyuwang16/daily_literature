@@ -104,6 +104,14 @@
       "title": "A PLM-based method for predicting protein ion channel modulators for drug discovery and safety evaluation",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42321971/"
     },
+    "doi:10.1007/s00425-026-05048-1": {
+      "date": "2026-07-04",
+      "score": 4,
+      "sent_at": "2026-07-06T09:52:22.048334+00:00",
+      "source": "OpenAlex",
+      "title": "Regulatory roles of R2R3-MYB genes in plant growth, development and stress adaptation: insights into seed dormancy and germination",
+      "url": "https://doi.org/10.1007/s00425-026-05048-1"
+    },
     "doi:10.1007/s00497-026-00540-w": {
       "date": "2026-05-30",
       "score": 4,
@@ -327,6 +335,14 @@
       "source": "PubMed",
       "title": "Predicting Peptide Aggregation with Protein Language Model Embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42049499/"
+    },
+    "doi:10.1021/acs.jcim.6c00806": {
+      "date": "2026-07-05",
+      "score": 17,
+      "sent_at": "2026-07-06T09:52:22.048334+00:00",
+      "source": "OpenAlex",
+      "title": "A Unified Molecular Graph and Protein Language Model Framework for Predicting Human Drug\u2013Hormone Receptor Interactions with Structure-Aware Validation",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00806"
     },
     "doi:10.1021/acs.jcim.6c01199": {
       "date": "2026-06-26",
@@ -1608,6 +1624,22 @@
       "title": "Alpha Science Skills: A Comprehensive Overview of Autonomous AI Capabilities in Bioinformatics",
       "url": "https://doi.org/10.5281/zenodo.21128051"
     },
+    "doi:10.5281/zenodo.21182529": {
+      "date": "2026-07-04",
+      "score": 8,
+      "sent_at": "2026-07-06T09:52:22.048334+00:00",
+      "source": "OpenAlex",
+      "title": "ECHO: A multimodal deep learning framework for enzyme kcat prediction with pocket-aware and EC-weighted training",
+      "url": "https://doi.org/10.5281/zenodo.21182529"
+    },
+    "doi:10.5281/zenodo.21182530": {
+      "date": "2026-07-04",
+      "score": 8,
+      "sent_at": "2026-07-06T09:52:22.048334+00:00",
+      "source": "OpenAlex",
+      "title": "ECHO: A multimodal deep learning framework for enzyme kcat prediction with pocket-aware and EC-weighted training",
+      "url": "https://doi.org/10.5281/zenodo.21182530"
+    },
     "doi:10.5281/zenodo.21197686": {
       "date": "2026-07-04",
       "score": 4,
@@ -2431,6 +2463,22 @@
       "source": "OpenAlex",
       "title": "Deciphering Fingerprints of 3D Molecular Surfaces for Accurate Epitope Prediction",
       "url": "https://openalex.org/W7165972713"
+    },
+    "openalex:https://openalex.org/w7167380381": {
+      "date": "2026-07-02",
+      "score": 24,
+      "sent_at": "2026-07-06T09:52:22.048334+00:00",
+      "source": "OpenAlex",
+      "title": "MKGR: Multimodal Knowledge-Graph Representation Learning for Cold-Start Protein-Protein Interaction Prediction",
+      "url": "https://openalex.org/W7167380381"
+    },
+    "openalex:https://openalex.org/w7167380578": {
+      "date": "2026-07-01",
+      "score": 10,
+      "sent_at": "2026-07-06T09:52:22.048334+00:00",
+      "source": "OpenAlex",
+      "title": "Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders",
+      "url": "https://openalex.org/W7167380578"
     }
   }
 }
