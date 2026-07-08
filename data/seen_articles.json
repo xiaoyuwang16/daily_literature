@@ -80,6 +80,14 @@
       "title": "3D Masked Autoencoders are Robust Learners of Volumetric and Multimodal Cellular Representations for Microscopy",
       "url": "http://arxiv.org/abs/2606.23964v1"
     },
+    "arxiv:2607.06224v1": {
+      "date": "2026-07-07",
+      "score": 7,
+      "sent_at": "2026-07-08T08:05:13.694726+00:00",
+      "source": "arXiv",
+      "title": "Canopy: A Heterograph Foundation Model for Metabolic Engineering",
+      "url": "http://arxiv.org/abs/2607.06224v1"
+    },
     "doi:10.1002/mas.21926": {
       "date": "2026 Jul-Aug",
       "score": 10,
@@ -448,6 +456,14 @@
       "title": "Author Correction: In situ proximity labeling of proteins associated with circRNA and RNA G-quadruplexes",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40855111/"
     },
+    "doi:10.1038/s41592-026-03142-6": {
+      "date": "2026-07-06",
+      "score": 9,
+      "sent_at": "2026-07-08T08:05:13.694726+00:00",
+      "source": "OpenAlex",
+      "title": "A comprehensive benchmark of sequence-based subcellular localization predictors for human proteins",
+      "url": "https://doi.org/10.1038/s41592-026-03142-6"
+    },
     "doi:10.1038/s41598-026-54567-0": {
       "date": "2026-06-04",
       "score": 9,
@@ -719,6 +735,14 @@
       "source": "PubMed",
       "title": "Combining bacterial display and protein language models to engineer a CD69-binding affibody for molecular imaging of immune activation",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42275072/"
+    },
+    "doi:10.1093/protein/gzag016": {
+      "date": "2026-07-06",
+      "score": 16,
+      "sent_at": "2026-07-08T08:05:13.694726+00:00",
+      "source": "OpenAlex",
+      "title": "Prioritizing Stability-enhancing Mutations using the ESM Protein Language Model in conjunction with Physics-based MM/GBSA Predictions",
+      "url": "https://doi.org/10.1093/protein/gzag016"
     },
     "doi:10.1096/fj.202600391r": {
       "date": "2026 Jun 15",
@@ -2207,6 +2231,14 @@
       "source": "OpenAlex",
       "title": "CodonBERT and ESM-2 Embedding Spaces Share an Evolutionarily Conserved Paired Geometry Encoding Synonymous Codon Information",
       "url": "https://doi.org/10.64898/2026.06.30.735115"
+    },
+    "doi:10.64898/2026.07.01.735807": {
+      "date": "2026-07-06",
+      "score": 5,
+      "sent_at": "2026-07-08T08:05:13.694726+00:00",
+      "source": "OpenAlex",
+      "title": "A control-validated pan-proteome deep-learning pipeline nominates GPR35 as a candidate target of the orphan bacterial metabolite ligiamycin A",
+      "url": "https://doi.org/10.64898/2026.07.01.735807"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
