@@ -144,6 +144,14 @@
       "title": "Quantum\u2013classical hybrid learning framework for molecular property prediction and molecule optimization in drug discovery",
       "url": "https://doi.org/10.1007/s10791-026-10240-8"
     },
+    "doi:10.1007/s10791-026-10335-2": {
+      "date": "2026-07-06",
+      "score": 4,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "A hybrid attention-guided ELCDA framework for music emotion recognition using multi-feature acoustic learning",
+      "url": "https://doi.org/10.1007/s10791-026-10335-2"
+    },
     "doi:10.1016/j.ab.2026.116092": {
       "date": "2026 Jun",
       "score": 4,
@@ -551,6 +559,14 @@
       "source": "PubMed",
       "title": "FISH+ is a ready-to-use proximity labeling method for simultaneous RNA visualization and RNA-interacting protein identification",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42337049/"
+    },
+    "doi:10.1038/s44341-026-00040-y": {
+      "date": "2026-07-06",
+      "score": 6,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "Density-driven support fields for topological stability in protein structures",
+      "url": "https://doi.org/10.1038/s44341-026-00040-y"
     },
     "doi:10.1038/s44431-026-00025-w": {
       "date": "2026-06-03",
@@ -1024,6 +1040,14 @@
       "title": "ZDHHC5 interacts physically and functionally with DLG1 at primary cilia and regulates ciliary length and kidney morphology",
       "url": "https://doi.org/10.3389/fcell.2026.1805468"
     },
+    "doi:10.3389/fddsv.2026.1834905": {
+      "date": "2026-07-07",
+      "score": 4,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "Mapping the otoactive landscape: an LLM-aided extraction of compounds and their targets",
+      "url": "https://doi.org/10.3389/fddsv.2026.1834905"
+    },
     "doi:10.3389/fendo.2026.1798210": {
       "date": "2026-06-09",
       "score": 5,
@@ -1096,6 +1120,14 @@
       "title": "Expression of the quinoa TCP gene family and analysis of CqTCP11 involvement in seed germination stress response",
       "url": "https://doi.org/10.3389/fpls.2026.1860606"
     },
+    "doi:10.3389/fpls.2026.1873223": {
+      "date": "2026-07-07",
+      "score": 5,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "Genome-wide identification of the SnRK2 gene family and its response to drought stress in Bombax ceiba",
+      "url": "https://doi.org/10.3389/fpls.2026.1873223"
+    },
     "doi:10.3389/fpls.2026.1887090": {
       "date": "2026-06-30",
       "score": 7,
@@ -1151,6 +1183,22 @@
       "source": "OpenAlex",
       "title": "Hybrid Approach to Protein\u2013Protein Complex Affinity Prediction Based on Language Models and Molecular Dynamics",
       "url": "https://doi.org/10.3390/ijms27135925"
+    },
+    "doi:10.3390/ijms27136034": {
+      "date": "2026-07-05",
+      "score": 4,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "Machine Learning and Deep Learning Frameworks for Human\u2013Virus Protein\u2013Protein Interaction Prediction: Emerging Architectures, Methods, Benchmarks, and Challenges",
+      "url": "https://doi.org/10.3390/ijms27136034"
+    },
+    "doi:10.3390/ijms27136067": {
+      "date": "2026-07-06",
+      "score": 5,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "Cyclic Peptides as Modulators of Protein\u2013Protein Interactions: A Survival Guide from Discovery Platforms to AI-Driven Design",
+      "url": "https://doi.org/10.3390/ijms27136067"
     },
     "doi:10.3390/plants15132022": {
       "date": "2026-06-30",
@@ -1271,6 +1319,14 @@
       "source": "OpenAlex",
       "title": "The Homology Cliff in Frozen Protein Language Models: Research Compendium",
       "url": "https://doi.org/10.5281/zenodo.20143142"
+    },
+    "doi:10.5281/zenodo.20154728": {
+      "date": "2026-07-07",
+      "score": 15,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "pipi0616/OtoVCE: OtoVCE v1.1 \u2014 open-source HL-PLM + revision analyses",
+      "url": "https://doi.org/10.5281/zenodo.20154728"
     },
     "doi:10.5281/zenodo.20434891": {
       "date": "2026-05-28",
@@ -1680,6 +1736,14 @@
       "title": "A Gauge-Theoretic and Cohomological Framework for Macromolecular Conformational Spaces Resolving Protein Folding via Semantic Pixel Mapping",
       "url": "https://doi.org/10.5281/zenodo.21197687"
     },
+    "doi:10.5281/zenodo.21245197": {
+      "date": "2026-07-07",
+      "score": 15,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "pipi0616/OtoVCE: OtoVCE v1.1 \u2014 open-source HL-PLM + revision analyses",
+      "url": "https://doi.org/10.5281/zenodo.21245197"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -1696,6 +1760,14 @@
       "title": "The Association Between Oral Microbiota and Chronic Obstructive Pulmonary Disease: An Integrated Study of Genetic Causal Inference and Bioinformatics Analysis",
       "url": "https://doi.org/10.64898/2025.12.01.25341371"
     },
+    "doi:10.64898/2025.12.04.691871": {
+      "date": "2026-07-02",
+      "score": 9,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "biorxiv",
+      "title": "Acute in vivo proximity labeling for membrane targeted proteomics in neuronal circuits",
+      "url": "https://doi.org/10.64898/2025.12.04.691871"
+    },
     "doi:10.64898/2025.12.26.25343061": {
       "date": "2026-06-23",
       "score": 5,
@@ -1703,6 +1775,14 @@
       "source": "medrxiv",
       "title": "Causally-anchored multi-omic deep learning recovers exercise-responsive and ageing-causal genes from human physical activity",
       "url": "https://doi.org/10.64898/2025.12.26.25343061"
+    },
+    "doi:10.64898/2026.02.05.703842": {
+      "date": "2026-07-02",
+      "score": 7,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "biorxiv",
+      "title": "Positional grammar of transcription factor binding partitions developmental and stress-response regulation in plants",
+      "url": "https://doi.org/10.64898/2026.02.05.703842"
     },
     "doi:10.64898/2026.02.09.704949": {
       "date": "2026-06-21",
@@ -2152,6 +2232,14 @@
       "title": "Antibody-Antigen Affinity Prediction with Chain-Aware Protein Language Modeling",
       "url": "https://doi.org/10.64898/2026.06.19.733375"
     },
+    "doi:10.64898/2026.06.22.733733": {
+      "date": "2026-07-06",
+      "score": 8,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "PEPstrMOD2: Next-generation tertiary structure prediction of chemically modified and non-natural peptides",
+      "url": "https://doi.org/10.64898/2026.06.22.733733"
+    },
     "doi:10.64898/2026.06.22.733745": {
       "date": "2026-06-26",
       "score": 14,
@@ -2239,6 +2327,14 @@
       "source": "OpenAlex",
       "title": "A control-validated pan-proteome deep-learning pipeline nominates GPR35 as a candidate target of the orphan bacterial metabolite ligiamycin A",
       "url": "https://doi.org/10.64898/2026.07.01.735807"
+    },
+    "doi:10.64898/2026.07.03.736448": {
+      "date": "2026-07-06",
+      "score": 7,
+      "sent_at": "2026-07-09T09:01:52.470553+00:00",
+      "source": "OpenAlex",
+      "title": "RulePep: Interpretable ESM-Guided Neural-Symbolic Peptide Classification",
+      "url": "https://doi.org/10.64898/2026.07.03.736448"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
