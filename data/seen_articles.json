@@ -544,6 +544,14 @@
       "title": "A multi-label cascade flexible neural forest model for predicting the subcellular location of multi-site bacterial proteins",
       "url": "https://doi.org/10.1038/s41598-026-58508-9"
     },
+    "doi:10.1038/s41598-026-59935-4": {
+      "date": "2026-07-07",
+      "score": 9,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "Pangenome-guided immunoinformatics design and in silico characterization of a multi-epitope vaccine candidate against Acinetobacter baumannii with nanoparticle assembly potential",
+      "url": "https://doi.org/10.1038/s41598-026-59935-4"
+    },
     "doi:10.1038/s41746-026-02664-9": {
       "date": "2026-06-11",
       "score": 5,
@@ -608,6 +616,14 @@
       "title": "Linear-time prediction of proteome-scale microbial protein interactions",
       "url": "https://doi.org/10.1073/pnas.2610619123"
     },
+    "doi:10.1080/01621459.2026.2698136": {
+      "date": "2026-07-08",
+      "score": 5,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "Contrastive Learning on Multimodal Analysis of Electronic Health Records",
+      "url": "https://doi.org/10.1080/01621459.2026.2698136"
+    },
     "doi:10.1080/19420862.2026.2678000": {
       "date": "2026 Dec 31",
       "score": 10,
@@ -623,6 +639,14 @@
       "source": "OpenAlex",
       "title": "Efficient inference of non-polyreactive antibody variants dependent on local fine-tuning",
       "url": "https://doi.org/10.1080/19420862.2026.2692763"
+    },
+    "doi:10.1080/19420862.2026.2694124": {
+      "date": "2026-07-08",
+      "score": 12,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "Predicting antibody self-association with sequence\u2013structure fusion models: the central role of CSI-BLI in early developability screening",
+      "url": "https://doi.org/10.1080/19420862.2026.2694124"
     },
     "doi:10.1091/mbc.e25-12-0627": {
       "date": "2026 Jun",
@@ -703,6 +727,14 @@
       "source": "PubMed",
       "title": "OTalign: Optimal Transport Alignment for Remote Protein Homologs Using Protein Language Model Embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42378434/"
+    },
+    "doi:10.1093/bioinformatics/btag509": {
+      "date": "2026-07-08",
+      "score": 7,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "LoMuS: Low-Rank Adaptation with Sequence Multi-representation Improves Protein Stability Prediction",
+      "url": "https://doi.org/10.1093/bioinformatics/btag509"
     },
     "doi:10.1093/jxb/erag288": {
       "date": "2026 Jun 11",
@@ -1064,6 +1096,14 @@
       "title": "First draft genome and genomic analysis of Neofusicoccum parvum isolated from mango (Mangifera indica L.) in Paraguay",
       "url": "https://doi.org/10.3389/ffunb.2026.1813584"
     },
+    "doi:10.3389/fgene.2026.1880976": {
+      "date": "2026-07-08",
+      "score": 8,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "S2DA-GO: enhancing protein function prediction via gradient-decoupled cross-attention and semantic priors",
+      "url": "https://doi.org/10.3389/fgene.2026.1880976"
+    },
     "doi:10.3389/fmicb.2026.1842380": {
       "date": "2026-07-02",
       "score": 7,
@@ -1167,6 +1207,14 @@
       "source": "OpenAlex",
       "title": "A reliable and explainable deep learning framework for clinical-grade endocrine disorder risk prediction and decision support",
       "url": "https://doi.org/10.3389/frai.2026.1881082"
+    },
+    "doi:10.3389/frbis.2026.1880887": {
+      "date": "2026-07-09",
+      "score": 5,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "Intrinsically disordered regions as drivers of protein aggregation: mechanisms, phase separation, and emerging predictive frameworks",
+      "url": "https://doi.org/10.3389/frbis.2026.1880887"
     },
     "doi:10.3390/ijms27135848": {
       "date": "2026-06-29",
@@ -1744,6 +1792,22 @@
       "title": "pipi0616/OtoVCE: OtoVCE v1.1 \u2014 open-source HL-PLM + revision analyses",
       "url": "https://doi.org/10.5281/zenodo.21245197"
     },
+    "doi:10.5281/zenodo.21275650": {
+      "date": "2026-07-09",
+      "score": 5,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "PrimeVarClass: domain-aware, externally validated classification of BRCA1/BRCA2 missense variants of uncertain significance",
+      "url": "https://doi.org/10.5281/zenodo.21275650"
+    },
+    "doi:10.5281/zenodo.21275651": {
+      "date": "2026-07-09",
+      "score": 5,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "PrimeVarClass: domain-aware, externally validated classification of BRCA1/BRCA2 missense variants of uncertain significance",
+      "url": "https://doi.org/10.5281/zenodo.21275651"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -1751,6 +1815,14 @@
       "source": "OpenAlex",
       "title": "Probing Adversarial Robustness of Protein Language Models: A Reproducible Case Study of ESM-2 Under Substitution-Based Attacks",
       "url": "https://doi.org/10.53799/gteskx50"
+    },
+    "doi:10.5772/intechopen.1015985": {
+      "date": "2026-07-08",
+      "score": 4,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "Detection and Predicting Plant Stress Using Remote Sensing and AI",
+      "url": "https://doi.org/10.5772/intechopen.1015985"
     },
     "doi:10.64898/2025.12.01.25341371": {
       "date": "2026-05-30",
@@ -2312,6 +2384,14 @@
       "title": "StructureSAFE: A structure-aware chemical language model for unified hit identification and lead optimization",
       "url": "https://doi.org/10.64898/2026.06.28.735128"
     },
+    "doi:10.64898/2026.06.29.734828": {
+      "date": "2026-07-03",
+      "score": 10,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "biorxiv",
+      "title": "Multi-modality Graph Representation Learning for Malignant Cell Identification from scRNA-seq using DeepMalignant",
+      "url": "https://doi.org/10.64898/2026.06.29.734828"
+    },
     "doi:10.64898/2026.06.30.735115": {
       "date": "2026-07-03",
       "score": 17,
@@ -2328,6 +2408,22 @@
       "title": "A control-validated pan-proteome deep-learning pipeline nominates GPR35 as a candidate target of the orphan bacterial metabolite ligiamycin A",
       "url": "https://doi.org/10.64898/2026.07.01.735807"
     },
+    "doi:10.64898/2026.07.02.26357115": {
+      "date": "2026-07-04",
+      "score": 6,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "medrxiv",
+      "title": "Supervised Contrastive Learning-based Digital Biomarker Discovery for Wearable IMU Gait Signals",
+      "url": "https://doi.org/10.64898/2026.07.02.26357115"
+    },
+    "doi:10.64898/2026.07.02.736009": {
+      "date": "2026-07-03",
+      "score": 5,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "biorxiv",
+      "title": "Protocol for studying membrane protein dynamics and associated synaptic vesicle recruitment on native membrane sheets",
+      "url": "https://doi.org/10.64898/2026.07.02.736009"
+    },
     "doi:10.64898/2026.07.03.736448": {
       "date": "2026-07-06",
       "score": 7,
@@ -2335,6 +2431,22 @@
       "source": "OpenAlex",
       "title": "RulePep: Interpretable ESM-Guided Neural-Symbolic Peptide Classification",
       "url": "https://doi.org/10.64898/2026.07.03.736448"
+    },
+    "doi:10.64898/2026.07.05.736646": {
+      "date": "2026-07-08",
+      "score": 28,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "PINPOINT: Protease INhibitor PredictiOn at the plant\u2013pathogen INTerface using protein language models and structural modeling",
+      "url": "https://doi.org/10.64898/2026.07.05.736646"
+    },
+    "doi:10.64898/2026.07.07.736810": {
+      "date": "2026-07-08",
+      "score": 10,
+      "sent_at": "2026-07-10T08:58:07.918379+00:00",
+      "source": "OpenAlex",
+      "title": "Machine learning guided cell-free expression maps the biochemical landscape of carbonic anhydrase",
+      "url": "https://doi.org/10.64898/2026.07.07.736810"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
