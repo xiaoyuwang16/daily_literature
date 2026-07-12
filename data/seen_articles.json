@@ -152,6 +152,22 @@
       "title": "A hybrid attention-guided ELCDA framework for music emotion recognition using multi-feature acoustic learning",
       "url": "https://doi.org/10.1007/s10791-026-10335-2"
     },
+    "doi:10.1007/s11033-026-12354-0": {
+      "date": "2026-07-10",
+      "score": 6,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "How WRKY transcription factors fine-tune specificity in plant stress responses: from W-box to regulatory code",
+      "url": "https://doi.org/10.1007/s11033-026-12354-0"
+    },
+    "doi:10.1007/s44371-026-00860-w": {
+      "date": "2026-07-09",
+      "score": 5,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "Future perspectives for potential therapeutic targeting of liquid liquid phase separation in pathological immunologic condensate signalling ensembles",
+      "url": "https://doi.org/10.1007/s44371-026-00860-w"
+    },
     "doi:10.1016/j.ab.2026.116092": {
       "date": "2026 Jun",
       "score": 4,
@@ -207,6 +223,14 @@
       "source": "PubMed",
       "title": "Controlling distance, time and reactivity: Chemical principles of proximity labeling",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42284692/"
+    },
+    "doi:10.1016/j.cbpa.2026.102724": {
+      "date": "2026-07-10",
+      "score": 6,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "Resolving cellular signaling in space and time: From organelle proteomics to spatial phosphoproteomics",
+      "url": "https://doi.org/10.1016/j.cbpa.2026.102724"
     },
     "doi:10.1016/j.cell.2026.05.009": {
       "date": "2026 Jun 2",
@@ -303,6 +327,14 @@
       "source": "PubMed",
       "title": "In situ proximity labeling reveals the proteome and signaling landscape of presynaptic boutons",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42134552/"
+    },
+    "doi:10.1016/j.sbi.2026.103326": {
+      "date": "2026-07-10",
+      "score": 4,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "Progress in structure prediction and design of adaptive immune receptors",
+      "url": "https://doi.org/10.1016/j.sbi.2026.103326"
     },
     "doi:10.1016/j.tig.2026.05.014": {
       "date": "2026 Jun 15",
@@ -432,6 +464,14 @@
       "title": "Improving protein and protein interactions using pseudo-dimers derived from monomeric proteins",
       "url": "https://doi.org/10.1038/s41467-026-73885-5"
     },
+    "doi:10.1038/s41467-026-74411-3": {
+      "date": "2026-07-09",
+      "score": 4,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "Decoding cancer circulating transcriptomic signatures with language models",
+      "url": "https://doi.org/10.1038/s41467-026-74411-3"
+    },
     "doi:10.1038/s41540-026-00713-3": {
       "date": "2026-06-22",
       "score": 6,
@@ -543,6 +583,14 @@
       "source": "OpenAlex",
       "title": "A multi-label cascade flexible neural forest model for predicting the subcellular location of multi-site bacterial proteins",
       "url": "https://doi.org/10.1038/s41598-026-58508-9"
+    },
+    "doi:10.1038/s41598-026-59572-x": {
+      "date": "2026-07-10",
+      "score": 15,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "Selaginella sellowii gene regulatory networks reveal distinct transcriptional strategies for dehydration stress and recovery",
+      "url": "https://doi.org/10.1038/s41598-026-59572-x"
     },
     "doi:10.1038/s41598-026-59935-4": {
       "date": "2026-07-07",
@@ -912,6 +960,14 @@
       "title": "Deep learning\u2013driven decoding of ubiquitination: from regulatory mechanisms to targeted protein degradation",
       "url": "https://doi.org/10.1186/s13062-026-00848-7"
     },
+    "doi:10.1186/s40643-026-01096-3": {
+      "date": "2026-07-10",
+      "score": 10,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "Artificial intelligence and automation in enzyme engineering: evolution, advances, and future perspectives",
+      "url": "https://doi.org/10.1186/s40643-026-01096-3"
+    },
     "doi:10.1371/journal.pcbi.1014396": {
       "date": "2026-06-22",
       "score": 4,
@@ -919,6 +975,14 @@
       "source": "OpenAlex",
       "title": "TCRBinder: Unified pre-trained language model with paired-chain synergy for predicting T-cell receptor binding specificity",
       "url": "https://doi.org/10.1371/journal.pcbi.1014396"
+    },
+    "doi:10.1371/journal.pcbi.1014433": {
+      "date": "2026-07-09",
+      "score": 9,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "Mind the gap: An embedding guide to safely travel in sequence space",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014433"
     },
     "doi:10.1371/journal.pone.0349433": {
       "date": "2026",
@@ -1031,6 +1095,14 @@
       "source": "OpenAlex",
       "title": "DNA Foundation Models for Molecular Biology: From Genomic Sequence Understanding to Function Prediction and Biological Design",
       "url": "https://doi.org/10.26434/chemrxiv.15004978/v1"
+    },
+    "doi:10.33540/3760": {
+      "date": "2026-07-10",
+      "score": 14,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "A Hitchhiker\u2019s Journey through Machine Learning for Structural Biology of Antibodies",
+      "url": "https://doi.org/10.33540/3760"
     },
     "doi:10.3389/fbael.2026.1849012": {
       "date": "2026-06-08",
@@ -1199,6 +1271,14 @@
       "source": "OpenAlex",
       "title": "AI-driven drug discovery using transformer-based molecular representation learning",
       "url": "https://doi.org/10.3389/frai.2026.1807340"
+    },
+    "doi:10.3389/frai.2026.1851917": {
+      "date": "2026-07-10",
+      "score": 6,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "RAG-GNN: retrieval-augmented graph neural networks for protein interaction network embeddings",
+      "url": "https://doi.org/10.3389/frai.2026.1851917"
     },
     "doi:10.3389/frai.2026.1881082": {
       "date": "2026-06-25",
@@ -2432,6 +2512,14 @@
       "title": "A High Throughput SPR-Based Array for Quantitative Profiling of Glycosaminoglycan Protein Interactions",
       "url": "https://doi.org/10.64898/2026.07.02.736113"
     },
+    "doi:10.64898/2026.07.03.26357228": {
+      "date": "2026-07-06",
+      "score": 4,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "medrxiv",
+      "title": "Generative embedding of sparse data with a tabular foundation model for dengue anticipatory action: a machine learning approach",
+      "url": "https://doi.org/10.64898/2026.07.03.26357228"
+    },
     "doi:10.64898/2026.07.03.736301": {
       "date": "2026-07-04",
       "score": 5,
@@ -2448,6 +2536,14 @@
       "title": "RulePep: Interpretable ESM-Guided Neural-Symbolic Peptide Classification",
       "url": "https://doi.org/10.64898/2026.07.03.736448"
     },
+    "doi:10.64898/2026.07.05.736582": {
+      "date": "2026-07-09",
+      "score": 5,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "Learning the spatial cell-cell communication network to decode multi-channel signaling and predict network-hub vulnerabilities with MOSANIC",
+      "url": "https://doi.org/10.64898/2026.07.05.736582"
+    },
     "doi:10.64898/2026.07.05.736646": {
       "date": "2026-07-08",
       "score": 28,
@@ -2455,6 +2551,14 @@
       "source": "OpenAlex",
       "title": "PINPOINT: Protease INhibitor PredictiOn at the plant\u2013pathogen INTerface using protein language models and structural modeling",
       "url": "https://doi.org/10.64898/2026.07.05.736646"
+    },
+    "doi:10.64898/2026.07.06.736753": {
+      "date": "2026-07-09",
+      "score": 27,
+      "sent_at": "2026-07-12T07:56:19.849814+00:00",
+      "source": "OpenAlex",
+      "title": "Protein language models learn underlying mutation biases alongside fitness landscapes",
+      "url": "https://doi.org/10.64898/2026.07.06.736753"
     },
     "doi:10.64898/2026.07.07.736810": {
       "date": "2026-07-08",
