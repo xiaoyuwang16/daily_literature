@@ -112,6 +112,22 @@
       "title": "A PLM-based method for predicting protein ion channel modulators for drug discovery and safety evaluation",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42321971/"
     },
+    "doi:10.1002/pro.70695": {
+      "date": "2026-07-09",
+      "score": 8,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "OpenAlex",
+      "title": "<scp>MIF</scp> \u2010 <scp>MAPMS</scp> : Enhancing identification of myelin autoantigenic peptides in multiple sclerosis through multimodal information fusion",
+      "url": "https://doi.org/10.1002/pro.70695"
+    },
+    "doi:10.1002/pro.70714": {
+      "date": "2026-07-09",
+      "score": 22,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "OpenAlex",
+      "title": "Decoding the allosteric grammar of protein kinases: A dual\u2010stream framework integrating protein language models and energy landscape frustration analysis",
+      "url": "https://doi.org/10.1002/pro.70714"
+    },
     "doi:10.1007/s00425-026-05048-1": {
       "date": "2026-07-04",
       "score": 4,
@@ -952,6 +968,14 @@
       "title": "KmalPred: a deep learning framework for lysine malonylation site prediction using protein language model representations",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42157243/"
     },
+    "doi:10.1186/s13007-026-01571-0": {
+      "date": "2026 Jul 12",
+      "score": 6,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "PubMed",
+      "title": "Mapping the dynamic plant interactome: from in vitro assays to in vivo quantitative approaches",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42437933/"
+    },
     "doi:10.1186/s13062-026-00848-7": {
       "date": "2026-06-01",
       "score": 14,
@@ -1327,6 +1351,14 @@
       "source": "OpenAlex",
       "title": "Cyclic Peptides as Modulators of Protein\u2013Protein Interactions: A Survival Guide from Discovery Platforms to AI-Driven Design",
       "url": "https://doi.org/10.3390/ijms27136067"
+    },
+    "doi:10.3390/math14142489": {
+      "date": "2026-07-10",
+      "score": 5,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "OpenAlex",
+      "title": "Robust Transcription Factor Binding Site Prediction and Explainability Using a Heterogeneous Mixture of Experts Architecture",
+      "url": "https://doi.org/10.3390/math14142489"
     },
     "doi:10.3390/plants15132022": {
       "date": "2026-06-30",
@@ -2520,6 +2552,14 @@
       "title": "Generative embedding of sparse data with a tabular foundation model for dengue anticipatory action: a machine learning approach",
       "url": "https://doi.org/10.64898/2026.07.03.26357228"
     },
+    "doi:10.64898/2026.07.03.735260": {
+      "date": "2026-07-06",
+      "score": 12,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "biorxiv",
+      "title": "An Atlas of Short Linear Motif-Mediated Human Protein-Protein Interactions",
+      "url": "https://doi.org/10.64898/2026.07.03.735260"
+    },
     "doi:10.64898/2026.07.03.736301": {
       "date": "2026-07-04",
       "score": 5,
@@ -2535,6 +2575,14 @@
       "source": "OpenAlex",
       "title": "RulePep: Interpretable ESM-Guided Neural-Symbolic Peptide Classification",
       "url": "https://doi.org/10.64898/2026.07.03.736448"
+    },
+    "doi:10.64898/2026.07.04.736506": {
+      "date": "2026-07-06",
+      "score": 11,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "biorxiv",
+      "title": "CatESO: Differentiable Enzyme Sequence Optimization Guided by Substrate-Aware kcat Prediction",
+      "url": "https://doi.org/10.64898/2026.07.04.736506"
     },
     "doi:10.64898/2026.07.05.736582": {
       "date": "2026-07-09",
@@ -2567,6 +2615,30 @@
       "source": "OpenAlex",
       "title": "Machine learning guided cell-free expression maps the biochemical landscape of carbonic anhydrase",
       "url": "https://doi.org/10.64898/2026.07.07.736810"
+    },
+    "doi:10.64898/2026.07.08.737319": {
+      "date": "2026-07-12",
+      "score": 14,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "OpenAlex",
+      "title": "A geometric atlas of how ESM3 organizes modalities across depth",
+      "url": "https://doi.org/10.64898/2026.07.08.737319"
+    },
+    "doi:10.64898/2026.07.10.737545": {
+      "date": "2026-07-11",
+      "score": 18,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "OpenAlex",
+      "title": "ProtAug: An Empirical Investigation of pLM-Guided Data Augmentation for Protein Sequence Prediction Tasks",
+      "url": "https://doi.org/10.64898/2026.07.10.737545"
+    },
+    "doi:10.64898/2026.07.10.737551": {
+      "date": "2026-07-12",
+      "score": 9,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "OpenAlex",
+      "title": "ProtBLIP2-SST: Protein Function Prediction via BLIP2 with Sequence, Structure, and Text",
+      "url": "https://doi.org/10.64898/2026.07.10.737551"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
@@ -2847,6 +2919,14 @@
       "source": "OpenAlex",
       "title": "Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders",
       "url": "https://openalex.org/W7167380578"
+    },
+    "openalex:https://openalex.org/w7167981085": {
+      "date": "2026-07-08",
+      "score": 8,
+      "sent_at": "2026-07-13T08:43:44.821404+00:00",
+      "source": "OpenAlex",
+      "title": "Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning",
+      "url": "https://openalex.org/W7167981085"
     }
   }
 }
