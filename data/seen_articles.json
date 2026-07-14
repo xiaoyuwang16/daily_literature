@@ -400,6 +400,14 @@
       "title": "Predicting Peptide Aggregation with Protein Language Model Embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42049499/"
     },
+    "doi:10.1021/acs.jcim.6c00768": {
+      "date": "2026 Jul 13",
+      "score": 10,
+      "sent_at": "2026-07-14T07:44:09.461509+00:00",
+      "source": "PubMed",
+      "title": "Protein Language Model-Based Fitness Estimates Facilitate Resistance Mutation Identification",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42439482/"
+    },
     "doi:10.1021/acs.jcim.6c00806": {
       "date": "2026-07-05",
       "score": 17,
@@ -991,6 +999,14 @@
       "source": "OpenAlex",
       "title": "Artificial intelligence and automation in enzyme engineering: evolution, advances, and future perspectives",
       "url": "https://doi.org/10.1186/s40643-026-01096-3"
+    },
+    "doi:10.1371/journal.pcbi.1014118": {
+      "date": "2026 Jul 13",
+      "score": 8,
+      "sent_at": "2026-07-14T07:44:09.461509+00:00",
+      "source": "PubMed",
+      "title": "CPP2Vec: A representation learning approach for cell-penetrating peptides prediction",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42441732/"
     },
     "doi:10.1371/journal.pcbi.1014396": {
       "date": "2026-06-22",
@@ -2607,6 +2623,14 @@
       "source": "OpenAlex",
       "title": "Protein language models learn underlying mutation biases alongside fitness landscapes",
       "url": "https://doi.org/10.64898/2026.07.06.736753"
+    },
+    "doi:10.64898/2026.07.06.736826": {
+      "date": "2026-07-07",
+      "score": 9,
+      "sent_at": "2026-07-14T07:44:09.461509+00:00",
+      "source": "biorxiv",
+      "title": "Integration of SYT1 Interactomics and Dual-Localization Proteomics Links ER-PM Contacts to Lignin Deposition",
+      "url": "https://doi.org/10.64898/2026.07.06.736826"
     },
     "doi:10.64898/2026.07.07.736810": {
       "date": "2026-07-08",
