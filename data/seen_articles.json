@@ -88,6 +88,14 @@
       "title": "Canopy: A Heterograph Foundation Model for Metabolic Engineering",
       "url": "http://arxiv.org/abs/2607.06224v1"
     },
+    "doi:10.1002/cbic.70451": {
+      "date": "2026 Jul 14",
+      "score": 8,
+      "sent_at": "2026-07-15T07:47:47.013702+00:00",
+      "source": "PubMed",
+      "title": "Kinetic and Spatial Resolution by dSTORM of miniSOG-Mediated Proximity Labeling in Mammalian Cells",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42415692/"
+    },
     "doi:10.1002/mas.21926": {
       "date": "2026 Jul-Aug",
       "score": 10,
@@ -1936,6 +1944,22 @@
       "title": "PrimeVarClass: domain-aware, externally validated classification of BRCA1/BRCA2 missense variants of uncertain significance",
       "url": "https://doi.org/10.5281/zenodo.21275651"
     },
+    "doi:10.5281/zenodo.21328816": {
+      "date": "2026-07-13",
+      "score": 7,
+      "sent_at": "2026-07-15T07:47:47.013702+00:00",
+      "source": "OpenAlex",
+      "title": "Quantum Computing Solves Drug Discovery Dilemmas: A New Framework for 'Multi-Stage Drug Design'",
+      "url": "https://doi.org/10.5281/zenodo.21328816"
+    },
+    "doi:10.5281/zenodo.21328817": {
+      "date": "2026-07-13",
+      "score": 7,
+      "sent_at": "2026-07-15T07:47:47.013702+00:00",
+      "source": "OpenAlex",
+      "title": "Quantum Computing Solves Drug Discovery Dilemmas: A New Framework for 'Multi-Stage Drug Design'",
+      "url": "https://doi.org/10.5281/zenodo.21328817"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -2639,6 +2663,14 @@
       "source": "OpenAlex",
       "title": "Machine learning guided cell-free expression maps the biochemical landscape of carbonic anhydrase",
       "url": "https://doi.org/10.64898/2026.07.07.736810"
+    },
+    "doi:10.64898/2026.07.08.737248": {
+      "date": "2026-07-12",
+      "score": 4,
+      "sent_at": "2026-07-15T07:47:47.013702+00:00",
+      "source": "OpenAlex",
+      "title": "OCellus: A Language-Model Framework for Single-Cell, Spatial, and Perturbation Biology with Natural-Language Reasoning",
+      "url": "https://doi.org/10.64898/2026.07.08.737248"
     },
     "doi:10.64898/2026.07.08.737319": {
       "date": "2026-07-12",
