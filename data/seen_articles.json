@@ -216,6 +216,14 @@
       "title": "Enhancing Protein Subcellular Localization Prediction through Language Model-Based Knowledge Embeddings and Machine Learning Techniques",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42173334/"
     },
+    "doi:10.1016/j.bbrc.2026.153918": {
+      "date": "2026 Jul 16",
+      "score": 8,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "PubMed",
+      "title": "A click-compatible BmTyr platform for biotin-free proximity labeling and subcellular proteome profiling in primary T cells",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42119177/"
+    },
     "doi:10.1016/j.biotechadv.2026.108945": {
       "date": "2026 Jun 6",
       "score": 22,
@@ -223,6 +231,14 @@
       "source": "PubMed",
       "title": "Interpreting embeddings from genome and protein language models",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42252067/"
+    },
+    "doi:10.1016/j.biotechadv.2026.108977": {
+      "date": "2026-07-09",
+      "score": 9,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "OpenAlex",
+      "title": "AlphaFold-based peptide structure prediction: Opportunities, limitations, and future directions",
+      "url": "https://doi.org/10.1016/j.biotechadv.2026.108977"
     },
     "doi:10.1016/j.cbpa.2026.102678": {
       "date": "2026 Jun",
@@ -255,6 +271,14 @@
       "source": "OpenAlex",
       "title": "Resolving cellular signaling in space and time: From organelle proteomics to spatial phosphoproteomics",
       "url": "https://doi.org/10.1016/j.cbpa.2026.102724"
+    },
+    "doi:10.1016/j.cbpa.2026.102729": {
+      "date": "2026 Jul 15",
+      "score": 8,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "PubMed",
+      "title": "Recent advances in proximity labeling: New chemistries, optical control and programmable reaction boundaries",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456332/"
     },
     "doi:10.1016/j.cell.2026.05.009": {
       "date": "2026 Jun 2",
@@ -824,6 +848,14 @@
       "title": "Biomolecular Condensates in Plant Stress and Development: Recent Advances and Emerging Concepts",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42276972/"
     },
+    "doi:10.1093/jxb/erag348": {
+      "date": "2026 Jul 15",
+      "score": 6,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "PubMed",
+      "title": "Mapping of the local proteome of the Arabidopsis chloroplast intermembrane space by proximity labelling",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455050/"
+    },
     "doi:10.1093/nar/gkag425": {
       "date": "2026 May 5",
       "score": 4,
@@ -919,6 +951,14 @@
       "source": "biorxiv",
       "title": "Sparse Autoencoders Reveal Interpretable Features in Single-Cell Foundation Models",
       "url": "https://doi.org/10.1101/2025.10.22.681631"
+    },
+    "doi:10.1101/2025.11.18.689162": {
+      "date": "2026-07-09",
+      "score": 6,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "biorxiv",
+      "title": "Precision Targeting of Troponin I Phosphorylation Prevents Diastolic Dysfunction while Preserving Systolic Performance",
+      "url": "https://doi.org/10.1101/2025.11.18.689162"
     },
     "doi:10.1109/jbhi.2026.3709844": {
       "date": "2026 Jul 2",
@@ -1039,6 +1079,14 @@
       "source": "PubMed",
       "title": "ProtAttn-QuadNet: An attention-based deep learning framework for protein-protein interaction prediction using ProtBERT embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42228714/"
+    },
+    "doi:10.14719/pst.13808": {
+      "date": "2026-07-14",
+      "score": 4,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "OpenAlex",
+      "title": "Mechanism of biofilm formation and development on plant roots under environmental stress condition",
+      "url": "https://doi.org/10.14719/pst.13808"
     },
     "doi:10.17632/m9r9pb39jw": {
       "date": "2026-06-22",
@@ -1968,6 +2016,14 @@
       "title": "Probing Adversarial Robustness of Protein Language Models: A Reproducible Case Study of ESM-2 Under Substitution-Based Attacks",
       "url": "https://doi.org/10.53799/gteskx50"
     },
+    "doi:10.53941/ti.2026.100013": {
+      "date": "2026-07-14",
+      "score": 4,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "OpenAlex",
+      "title": "Efficient Adaptation of Chemical Language Models for Molecular Property Prediction",
+      "url": "https://doi.org/10.53941/ti.2026.100013"
+    },
     "doi:10.5772/intechopen.1015985": {
       "date": "2026-07-08",
       "score": 4,
@@ -1999,6 +2055,14 @@
       "source": "medrxiv",
       "title": "Causally-anchored multi-omic deep learning recovers exercise-responsive and ageing-causal genes from human physical activity",
       "url": "https://doi.org/10.64898/2025.12.26.25343061"
+    },
+    "doi:10.64898/2026.01.08.698416": {
+      "date": "2026-07-09",
+      "score": 4,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "biorxiv",
+      "title": "CircDiscoverer: A multispecies comprehensive resource for circRNA-protein interactions and RNA modification landscapes",
+      "url": "https://doi.org/10.64898/2026.01.08.698416"
     },
     "doi:10.64898/2026.02.05.703842": {
       "date": "2026-07-02",
@@ -2223,6 +2287,14 @@
       "source": "OpenAlex",
       "title": "Decoding the Grammar of Protein-Protein Interaction Interfaces with Multimodal Representations",
       "url": "https://doi.org/10.64898/2026.05.29.728739"
+    },
+    "doi:10.64898/2026.05.31.727005": {
+      "date": "2026-07-09",
+      "score": 5,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "biorxiv",
+      "title": "A tonoplast cytokinin riboside transporter gates intracellular hormone availability at the root-microbe interface",
+      "url": "https://doi.org/10.64898/2026.05.31.727005"
     },
     "doi:10.64898/2026.06.01.729118": {
       "date": "2026-06-04",
@@ -2656,6 +2728,14 @@
       "title": "Integration of SYT1 Interactomics and Dual-Localization Proteomics Links ER-PM Contacts to Lignin Deposition",
       "url": "https://doi.org/10.64898/2026.07.06.736826"
     },
+    "doi:10.64898/2026.07.07.735316": {
+      "date": "2026-07-13",
+      "score": 14,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "OpenAlex",
+      "title": "Language Model Embedding Classifiers Enable Identification of Multiple Sclerosis-Associated BCRs and Repertoires",
+      "url": "https://doi.org/10.64898/2026.07.07.735316"
+    },
     "doi:10.64898/2026.07.07.736810": {
       "date": "2026-07-08",
       "score": 10,
@@ -2679,6 +2759,14 @@
       "source": "OpenAlex",
       "title": "A geometric atlas of how ESM3 organizes modalities across depth",
       "url": "https://doi.org/10.64898/2026.07.08.737319"
+    },
+    "doi:10.64898/2026.07.09.737502": {
+      "date": "2026-07-13",
+      "score": 7,
+      "sent_at": "2026-07-16T07:52:59.563519+00:00",
+      "source": "OpenAlex",
+      "title": "Asymmetric Structural Transfer Between Natural Language and Biological Foundation Models",
+      "url": "https://doi.org/10.64898/2026.07.09.737502"
     },
     "doi:10.64898/2026.07.10.737545": {
       "date": "2026-07-11",
