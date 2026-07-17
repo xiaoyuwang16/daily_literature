@@ -152,6 +152,14 @@
       "title": "Basis of apomixis in flowering plants \u2013 state of the art and research perspectives",
       "url": "https://doi.org/10.1007/s00497-026-00540-w"
     },
+    "doi:10.1007/s10115-026-02842-x": {
+      "date": "2026-07-14",
+      "score": 8,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "Signgt: signed attention-based graph transformer for graph representation learning",
+      "url": "https://doi.org/10.1007/s10115-026-02842-x"
+    },
     "doi:10.1007/s10522-026-10464-7": {
       "date": "2026-06-20",
       "score": 4,
@@ -311,6 +319,14 @@
       "source": "PubMed",
       "title": "Protein language model-guided generative design of affinity peptides for chromatographic purification of lentiviral vectors",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41833101/"
+    },
+    "doi:10.1016/j.chroma.2026.467271": {
+      "date": "2026 Jul 16",
+      "score": 10,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "PubMed",
+      "title": "Leveraging protein language model for maturation of high-affinity peptide ligand in the purification of an adeno\u2012associated virus vector",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462410/"
     },
     "doi:10.1016/j.compbiolchem.2026.109130": {
       "date": "2026 May 19",
@@ -567,6 +583,14 @@
       "source": "OpenAlex",
       "title": "A comprehensive benchmark of sequence-based subcellular localization predictors for human proteins",
       "url": "https://doi.org/10.1038/s41592-026-03142-6"
+    },
+    "doi:10.1038/s41597-026-07498-4": {
+      "date": "2026-07-14",
+      "score": 7,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "VitaGraph: building a knowledge graph for biologically relevant learning tasks",
+      "url": "https://doi.org/10.1038/s41597-026-07498-4"
     },
     "doi:10.1038/s41598-026-54567-0": {
       "date": "2026-06-04",
@@ -1056,6 +1080,22 @@
       "title": "CPP2Vec: A representation learning approach for cell-penetrating peptides prediction",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42441732/"
     },
+    "doi:10.1371/journal.pcbi.1014118.t007": {
+      "date": "2026-07-13",
+      "score": 14,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "<p>Proposed ML models per task of CPP2Vec.</p>",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014118.t007"
+    },
+    "doi:10.1371/journal.pcbi.1014118.t008": {
+      "date": "2026-07-13",
+      "score": 14,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "<p>Proposed LLM and ML models per task of CPP2LLM.</p>",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014118.t008"
+    },
     "doi:10.1371/journal.pcbi.1014396": {
       "date": "2026-06-22",
       "score": 4,
@@ -1176,6 +1216,22 @@
       "title": "Multi-Target Therapeutic Potential of Vacha (Acorus calamus) in Dementia: \"A Network Pharmacology and Molecular Docking Study\"",
       "url": "https://doi.org/10.25258/ijddt.16.54s.12"
     },
+    "doi:10.25258/ijddt.16.64s.41": {
+      "date": "2026-07-14",
+      "score": 8,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "Network Pharmacology and Molecular Dynamics reveal FXR and OATP1B1 mediated Anti-Cholestatic Potential of Hesperidin",
+      "url": "https://doi.org/10.25258/ijddt.16.64s.41"
+    },
+    "doi:10.25417/uic.32991884.v1": {
+      "date": "2026-07-15",
+      "score": 5,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "From Protein Folds to Chromatin: Topological Data Analysis and Deep Learning at Multiple Scales",
+      "url": "https://doi.org/10.25417/uic.32991884.v1"
+    },
     "doi:10.26434/chemrxiv.15004221/v1": {
       "date": "2026-06-02",
       "score": 26,
@@ -1239,6 +1295,14 @@
       "source": "OpenAlex",
       "title": "ZDHHC5 interacts physically and functionally with DLG1 at primary cilia and regulates ciliary length and kidney morphology",
       "url": "https://doi.org/10.3389/fcell.2026.1805468"
+    },
+    "doi:10.3389/fcell.2026.1808059": {
+      "date": "2026-07-15",
+      "score": 4,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "The embedding of stress: mitophagy as a mechanism for the central nervous system (CNS) programming and lifelong disease vulnerability",
+      "url": "https://doi.org/10.3389/fcell.2026.1808059"
     },
     "doi:10.3389/fddsv.2026.1834905": {
       "date": "2026-07-07",
@@ -2008,6 +2072,22 @@
       "title": "Quantum Computing Solves Drug Discovery Dilemmas: A New Framework for 'Multi-Stage Drug Design'",
       "url": "https://doi.org/10.5281/zenodo.21328817"
     },
+    "doi:10.5281/zenodo.21381358": {
+      "date": "2026-07-15",
+      "score": 15,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "Lineage-Independent Structural Risk Detection in SARS- CoV-2 Spike Protein via Zero-Shot Protein Language Modeling",
+      "url": "https://doi.org/10.5281/zenodo.21381358"
+    },
+    "doi:10.5281/zenodo.21381359": {
+      "date": "2026-07-15",
+      "score": 15,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "Lineage-Independent Structural Risk Detection in SARS- CoV-2 Spike Protein via Zero-Shot Protein Language Modeling",
+      "url": "https://doi.org/10.5281/zenodo.21381359"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -2712,6 +2792,14 @@
       "title": "PINPOINT: Protease INhibitor PredictiOn at the plant\u2013pathogen INTerface using protein language models and structural modeling",
       "url": "https://doi.org/10.64898/2026.07.05.736646"
     },
+    "doi:10.64898/2026.07.06.26357359": {
+      "date": "2026-07-10",
+      "score": 5,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "medrxiv",
+      "title": "OmicFormer: a statistical priors-informed transformer for accurate and generalizable omics prediction of diseases and complex traits",
+      "url": "https://doi.org/10.64898/2026.07.06.26357359"
+    },
     "doi:10.64898/2026.07.06.736753": {
       "date": "2026-07-09",
       "score": 27,
@@ -2783,6 +2871,14 @@
       "source": "OpenAlex",
       "title": "ProtBLIP2-SST: Protein Function Prediction via BLIP2 with Sequence, Structure, and Text",
       "url": "https://doi.org/10.64898/2026.07.10.737551"
+    },
+    "doi:10.64898/2026.07.13.738250": {
+      "date": "2026-07-14",
+      "score": 5,
+      "sent_at": "2026-07-17T07:50:13.063243+00:00",
+      "source": "OpenAlex",
+      "title": "Frozen Protein Foundation-Model Embeddings Improve Antibody-Antigen \u0394\u0394G Ranking",
+      "url": "https://doi.org/10.64898/2026.07.13.738250"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
