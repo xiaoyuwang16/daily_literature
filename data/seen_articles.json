@@ -224,6 +224,14 @@
       "title": "Enhancing Protein Subcellular Localization Prediction through Language Model-Based Knowledge Embeddings and Machine Learning Techniques",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42173334/"
     },
+    "doi:10.1016/j.aqrep.2026.103738": {
+      "date": "2026-07-16",
+      "score": 4,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "OpenAlex",
+      "title": "Respiratory frequency, antioxidant enzyme activities and histological observation in a backcross progeny between Acanthopagrus schlegelii and Pagrus major subjected to thermal stress",
+      "url": "https://doi.org/10.1016/j.aqrep.2026.103738"
+    },
     "doi:10.1016/j.bbrc.2026.153918": {
       "date": "2026 Jul 16",
       "score": 8,
@@ -960,6 +968,14 @@
       "title": "Uncovering the domain language of protein function and proteinnetworks using DANSy",
       "url": "https://doi.org/10.1101/2024.12.04.626803"
     },
+    "doi:10.1101/2025.08.12.25333460": {
+      "date": "2026-07-11",
+      "score": 6,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "medrxiv",
+      "title": "PABformer: Multi-Channel Transformer-Based Physical Activity Representation Learning from Wearable Accelerometry for Prediction of Parkinson Disease",
+      "url": "https://doi.org/10.1101/2025.08.12.25333460"
+    },
     "doi:10.1101/2025.10.17.683009": {
       "date": "2026-06-08",
       "score": 4,
@@ -1112,6 +1128,14 @@
       "title": "Mind the gap: An embedding guide to safely travel in sequence space",
       "url": "https://doi.org/10.1371/journal.pcbi.1014433"
     },
+    "doi:10.1371/journal.pcbi.1014492": {
+      "date": "2026-07-15",
+      "score": 4,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "OpenAlex",
+      "title": "Popformer: Learning general signatures of positive selection with a self-supervised transformer",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014492"
+    },
     "doi:10.1371/journal.pone.0349433": {
       "date": "2026",
       "score": 16,
@@ -1183,6 +1207,14 @@
       "source": "OpenAlex",
       "title": "Enhancing Proinflammatory Peptide Prediction by Integrating a Transformer Encoder and a Protein Language Model Based on a Residual Module",
       "url": "https://doi.org/10.2174/0115748855466511260613200829"
+    },
+    "doi:10.21926/obm.genet.2603348": {
+      "date": "2026-07-15",
+      "score": 6,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "OpenAlex",
+      "title": "Novel &lt;i&gt;SLITRK6&lt;/i&gt; Nonsense Mutation in an Iranian Family with Autosomal Recessive Syndromic Hearing Loss",
+      "url": "https://doi.org/10.21926/obm.genet.2603348"
     },
     "doi:10.22541/authorea.15004784/v1": {
       "date": "2026-06-16",
@@ -1399,6 +1431,14 @@
       "source": "OpenAlex",
       "title": "Genome-wide identification of the SnRK2 gene family and its response to drought stress in Bombax ceiba",
       "url": "https://doi.org/10.3389/fpls.2026.1873223"
+    },
+    "doi:10.3389/fpls.2026.1874835": {
+      "date": "2026-07-16",
+      "score": 4,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "OpenAlex",
+      "title": "Synergy between silicon and beneficial microorganisms enhances plant abiotic stress tolerance through rhizosphere restructuring and coordinated defense",
+      "url": "https://doi.org/10.3389/fpls.2026.1874835"
     },
     "doi:10.3389/fpls.2026.1887090": {
       "date": "2026-06-30",
@@ -2088,6 +2128,22 @@
       "title": "Lineage-Independent Structural Risk Detection in SARS- CoV-2 Spike Protein via Zero-Shot Protein Language Modeling",
       "url": "https://doi.org/10.5281/zenodo.21381359"
     },
+    "doi:10.5281/zenodo.21396514": {
+      "date": "2026-07-16",
+      "score": 13,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "OpenAlex",
+      "title": "A Read-Position-Independent Signal for Ancient-DNA Variant Authenticity: Protein-Language-Model Plausibility Discriminates Deamination Artifacts from True Variants, Validated on the Natural Damage of a Million-Year-Old Mammoth",
+      "url": "https://doi.org/10.5281/zenodo.21396514"
+    },
+    "doi:10.5281/zenodo.21396515": {
+      "date": "2026-07-16",
+      "score": 13,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "OpenAlex",
+      "title": "A Read-Position-Independent Signal for Ancient-DNA Variant Authenticity: Protein-Language-Model Plausibility Discriminates Deamination Artifacts from True Variants, Validated on the Natural Damage of a Million-Year-Old Mammoth",
+      "url": "https://doi.org/10.5281/zenodo.21396515"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -2103,6 +2159,14 @@
       "source": "OpenAlex",
       "title": "Efficient Adaptation of Chemical Language Models for Molecular Property Prediction",
       "url": "https://doi.org/10.53941/ti.2026.100013"
+    },
+    "doi:10.5524/102826": {
+      "date": "2026-07-16",
+      "score": 29,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "OpenAlex",
+      "title": "Supporting data for \"Extending Protein Language Models to a Viral Genomic Scale Using Biologically Induced Sparse Attention\"",
+      "url": "https://doi.org/10.5524/102826"
     },
     "doi:10.5772/intechopen.1015985": {
       "date": "2026-07-08",
@@ -2183,6 +2247,14 @@
       "source": "medrxiv",
       "title": "Extracting patient reported cannabis use and reasons for use from electronic health records: a benchmarking study of large language models",
       "url": "https://doi.org/10.64898/2026.03.06.26347824"
+    },
+    "doi:10.64898/2026.04.10.717844": {
+      "date": "2026-07-11",
+      "score": 5,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "biorxiv",
+      "title": "Interpretable variant effect prediction from genomic foundation model embeddings",
+      "url": "https://doi.org/10.64898/2026.04.10.717844"
     },
     "doi:10.64898/2026.04.22.720175": {
       "date": "2026 May 29",
@@ -2879,6 +2951,14 @@
       "source": "OpenAlex",
       "title": "Frozen Protein Foundation-Model Embeddings Improve Antibody-Antigen \u0394\u0394G Ranking",
       "url": "https://doi.org/10.64898/2026.07.13.738250"
+    },
+    "doi:10.66835/psh.2026.e0008": {
+      "date": "2026-07-16",
+      "score": 4,
+      "sent_at": "2026-07-18T07:24:56.707972+00:00",
+      "source": "OpenAlex",
+      "title": "&lt;b&gt;ECAP coordinates upstream and downstream ABA signaling during seed germination in &lt;i&gt;Arabidopsis&lt;/i&gt;&lt;/b&gt;",
+      "url": "https://doi.org/10.66835/psh.2026.e0008"
     },
     "doi:10.67231/kytb0e28": {
       "date": "2026-06-13",
