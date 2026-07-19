@@ -2208,6 +2208,14 @@
       "title": "CircDiscoverer: A multispecies comprehensive resource for circRNA-protein interactions and RNA modification landscapes",
       "url": "https://doi.org/10.64898/2026.01.08.698416"
     },
+    "doi:10.64898/2026.02.05.703637": {
+      "date": "2026-07-12",
+      "score": 4,
+      "sent_at": "2026-07-19T07:55:49.796130+00:00",
+      "source": "biorxiv",
+      "title": "ARSENAL: Learning Transferable Regulatory DNA Representations with Targeted Short-Context Language Models",
+      "url": "https://doi.org/10.64898/2026.02.05.703637"
+    },
     "doi:10.64898/2026.02.05.703842": {
       "date": "2026-07-02",
       "score": 7,
@@ -2952,6 +2960,14 @@
       "title": "Frozen Protein Foundation-Model Embeddings Improve Antibody-Antigen \u0394\u0394G Ranking",
       "url": "https://doi.org/10.64898/2026.07.13.738250"
     },
+    "doi:10.64898/2026.07.14.738542": {
+      "date": "2026-07-16",
+      "score": 4,
+      "sent_at": "2026-07-19T07:55:49.796130+00:00",
+      "source": "OpenAlex",
+      "title": "Genomic foundation model embeddings encode higher-order viral genome architecture beyond sequence composition: a benchmark of Evo 2",
+      "url": "https://doi.org/10.64898/2026.07.14.738542"
+    },
     "doi:10.66835/psh.2026.e0008": {
       "date": "2026-07-16",
       "score": 4,
@@ -2983,6 +2999,14 @@
       "source": "OpenAlex",
       "title": "Bioinformatics Meets Biosemiotics and Signal Peptides Emerge as Dicisigns",
       "url": "https://doi.org/10.7551/mitpress/16007.003.0020"
+    },
+    "doi:10.7717/peerj.21276": {
+      "date": "2026-07-16",
+      "score": 5,
+      "sent_at": "2026-07-19T07:55:49.796130+00:00",
+      "source": "OpenAlex",
+      "title": "Genome-wide identification and abiotic stress response analysis of the <i>SUMO</i> family in alfalfa ( <i>Medicago sativa</i> L.)",
+      "url": "https://doi.org/10.7717/peerj.21276"
     },
     "openalex:https://openalex.org/w7161090705": {
       "date": "2026-05-09",
