@@ -136,6 +136,14 @@
       "title": "Decoding the allosteric grammar of protein kinases: A dual\u2010stream framework integrating protein language models and energy landscape frustration analysis",
       "url": "https://doi.org/10.1002/pro.70714"
     },
+    "doi:10.1007/978-981-92-3520-9_32": {
+      "date": "2026-07-18",
+      "score": 8,
+      "sent_at": "2026-07-20T08:35:41.903415+00:00",
+      "source": "OpenAlex",
+      "title": "Heterogeneous Property-Cross-Aware Relation Networks for Molecular Representation Learning",
+      "url": "https://doi.org/10.1007/978-981-92-3520-9_32"
+    },
     "doi:10.1007/s00425-026-05048-1": {
       "date": "2026-07-04",
       "score": 4,
@@ -199,6 +207,14 @@
       "source": "OpenAlex",
       "title": "Future perspectives for potential therapeutic targeting of liquid liquid phase separation in pathological immunologic condensate signalling ensembles",
       "url": "https://doi.org/10.1007/s44371-026-00860-w"
+    },
+    "doi:10.1007/s44372-026-00770-2": {
+      "date": "2026-07-19",
+      "score": 4,
+      "sent_at": "2026-07-20T08:35:41.903415+00:00",
+      "source": "OpenAlex",
+      "title": "Adaptive roles of plant secondary metabolites under drought stress conditions",
+      "url": "https://doi.org/10.1007/s44372-026-00770-2"
     },
     "doi:10.1016/j.ab.2026.116092": {
       "date": "2026 Jun",
@@ -688,6 +704,14 @@
       "title": "Pangenome-guided immunoinformatics design and in silico characterization of a multi-epitope vaccine candidate against Acinetobacter baumannii with nanoparticle assembly potential",
       "url": "https://doi.org/10.1038/s41598-026-59935-4"
     },
+    "doi:10.1038/s41598-026-61237-8": {
+      "date": "2026-07-18",
+      "score": 6,
+      "sent_at": "2026-07-20T08:35:41.903415+00:00",
+      "source": "OpenAlex",
+      "title": "A lightweight, integrated generative AI assistant for accelerated early-stage drug discovery on constrained-resource hardware",
+      "url": "https://doi.org/10.1038/s41598-026-61237-8"
+    },
     "doi:10.1038/s41746-026-02664-9": {
       "date": "2026-06-11",
       "score": 5,
@@ -1144,6 +1168,14 @@
       "title": "ProtAttn-QuadNet: An attention-based deep learning framework for protein-protein interaction prediction using ProtBERT embeddings",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42228714/"
     },
+    "doi:10.1371/journal.pone.0353199": {
+      "date": "2026-07-17",
+      "score": 12,
+      "sent_at": "2026-07-20T08:35:41.903415+00:00",
+      "source": "OpenAlex",
+      "title": "SPPIPred: Stacking-based ensemble learning model for identification of protein-protein interaction",
+      "url": "https://doi.org/10.1371/journal.pone.0353199"
+    },
     "doi:10.14719/pst.13808": {
       "date": "2026-07-14",
       "score": 4,
@@ -1359,6 +1391,14 @@
       "source": "OpenAlex",
       "title": "First draft genome and genomic analysis of Neofusicoccum parvum isolated from mango (Mangifera indica L.) in Paraguay",
       "url": "https://doi.org/10.3389/ffunb.2026.1813584"
+    },
+    "doi:10.3389/fgene.2026.1874451": {
+      "date": "2026-07-19",
+      "score": 18,
+      "sent_at": "2026-07-20T08:35:41.903415+00:00",
+      "source": "OpenAlex",
+      "title": "Improved prediction of microbial optimal growth temperatures with neural networks and protein language models",
+      "url": "https://doi.org/10.3389/fgene.2026.1874451"
     },
     "doi:10.3389/fgene.2026.1880976": {
       "date": "2026-07-08",
@@ -3271,6 +3311,14 @@
       "source": "OpenAlex",
       "title": "Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning",
       "url": "https://openalex.org/W7167981085"
+    },
+    "openalex:https://openalex.org/w7169633357": {
+      "date": "2026-07-14",
+      "score": 6,
+      "sent_at": "2026-07-20T08:35:41.903415+00:00",
+      "source": "OpenAlex",
+      "title": "From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery",
+      "url": "https://openalex.org/W7169633357"
     }
   }
 }
