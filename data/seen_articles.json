@@ -88,6 +88,14 @@
       "title": "Canopy: A Heterograph Foundation Model for Metabolic Engineering",
       "url": "http://arxiv.org/abs/2607.06224v1"
     },
+    "arxiv:2607.16553v1": {
+      "date": "2026-07-17",
+      "score": 12,
+      "sent_at": "2026-07-21T08:04:55.430071+00:00",
+      "source": "arXiv",
+      "title": "Discrete Ricci Curvature on Protein Contact Graphs for Lightweight Fold Classification",
+      "url": "http://arxiv.org/abs/2607.16553v1"
+    },
     "doi:10.1002/cbic.70451": {
       "date": "2026 Jul 14",
       "score": 8,
@@ -2352,6 +2360,14 @@
       "title": "The astrocyte-enriched gene <i>Tmem44</i> regulates circadian protein translation in mouse astrocytes",
       "url": "https://doi.org/10.64898/2026.05.07.723448"
     },
+    "doi:10.64898/2026.05.07.723606": {
+      "date": "2026-07-14",
+      "score": 11,
+      "sent_at": "2026-07-21T08:04:55.430071+00:00",
+      "source": "biorxiv",
+      "title": "Advancing Knotted Protein Design with ESM3: Guided Generation and Topological Insights",
+      "url": "https://doi.org/10.64898/2026.05.07.723606"
+    },
     "doi:10.64898/2026.05.14.725271": {
       "date": "2026-06-06",
       "score": 5,
@@ -2991,6 +3007,14 @@
       "source": "OpenAlex",
       "title": "ProtBLIP2-SST: Protein Function Prediction via BLIP2 with Sequence, Structure, and Text",
       "url": "https://doi.org/10.64898/2026.07.10.737551"
+    },
+    "doi:10.64898/2026.07.11.737987": {
+      "date": "2026-07-14",
+      "score": 11,
+      "sent_at": "2026-07-21T08:04:55.430071+00:00",
+      "source": "biorxiv",
+      "title": "MolMAE: A Surface-Centric Multimodal Masked Autoencoder for Molecular Representation Learning",
+      "url": "https://doi.org/10.64898/2026.07.11.737987"
     },
     "doi:10.64898/2026.07.13.738250": {
       "date": "2026-07-14",
