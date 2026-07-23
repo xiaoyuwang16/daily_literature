@@ -336,6 +336,14 @@
       "title": "Plant cell wall-plasma membrane attachments mediate stress resilience through cellulose synthase complexes and remorins",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42229423/"
     },
+    "doi:10.1016/j.cell.2026.06.029": {
+      "date": "2026 Jul 21",
+      "score": 20,
+      "sent_at": "2026-07-23T08:08:28.961789+00:00",
+      "source": "PubMed",
+      "title": "Expanding the scope of protein language modeling to protein-protein interactions with MSA Pairformer",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42480528/"
+    },
     "doi:10.1016/j.celrep.2026.117355": {
       "date": "2026 May 26",
       "score": 8,
@@ -1072,6 +1080,14 @@
       "title": "Topological Data Analysis Applications in Natural Language Processing: A Survey",
       "url": "https://doi.org/10.1145/3820356.3820362"
     },
+    "doi:10.1158/1557-3265.d32026-b088": {
+      "date": "2026-07-21",
+      "score": 11,
+      "sent_at": "2026-07-23T08:08:28.961789+00:00",
+      "source": "OpenAlex",
+      "title": "Abstract B088: A cryptic alternative bound state of HDAC6 drives mutation- and ligand-dependent remodeling of inhibitor interaction",
+      "url": "https://doi.org/10.1158/1557-3265.d32026-b088"
+    },
     "doi:10.1177/15578666261443336": {
       "date": "2026 Jul",
       "score": 14,
@@ -1680,6 +1696,14 @@
       "title": "Residue-Level Attributions in Protein Language Models Do Not Recover Allergen Epitopes",
       "url": "https://doi.org/10.48550/arxiv.2606.22181"
     },
+    "doi:10.48550/arxiv.2607.16553": {
+      "date": "2026-07-17",
+      "score": 12,
+      "sent_at": "2026-07-23T08:08:28.961789+00:00",
+      "source": "OpenAlex",
+      "title": "Discrete Ricci Curvature on Protein Contact Graphs for Lightweight Fold Classification",
+      "url": "https://doi.org/10.48550/arxiv.2607.16553"
+    },
     "doi:10.5281/zenodo.17488190": {
       "date": "2026-06-04",
       "score": 26,
@@ -2199,6 +2223,14 @@
       "source": "OpenAlex",
       "title": "A Read-Position-Independent Signal for Ancient-DNA Variant Authenticity: Protein-Language-Model Plausibility Discriminates Deamination Artifacts from True Variants, Validated on the Natural Damage of a Million-Year-Old Mammoth",
       "url": "https://doi.org/10.5281/zenodo.21396515"
+    },
+    "doi:10.5281/zenodo.21480844": {
+      "date": "2026-07-21",
+      "score": 27,
+      "sent_at": "2026-07-23T08:08:28.961789+00:00",
+      "source": "OpenAlex",
+      "title": "The Cross-Channel Generalisation Gap (CCGG) Benchmark for Protein Language Models",
+      "url": "https://doi.org/10.5281/zenodo.21480844"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
@@ -2960,6 +2992,14 @@
       "title": "Integration of SYT1 Interactomics and Dual-Localization Proteomics Links ER-PM Contacts to Lignin Deposition",
       "url": "https://doi.org/10.64898/2026.07.06.736826"
     },
+    "doi:10.64898/2026.07.07.26357427": {
+      "date": "2026-07-16",
+      "score": 4,
+      "sent_at": "2026-07-23T08:08:28.961789+00:00",
+      "source": "medrxiv",
+      "title": "Mapping Topic Change in Influential Hepatocellular Carcinoma Research: A Two-Cohort Bibliometric Analysis",
+      "url": "https://doi.org/10.64898/2026.07.07.26357427"
+    },
     "doi:10.64898/2026.07.07.735316": {
       "date": "2026-07-13",
       "score": 14,
@@ -3032,6 +3072,14 @@
       "title": "Frozen Protein Foundation-Model Embeddings Improve Antibody-Antigen \u0394\u0394G Ranking",
       "url": "https://doi.org/10.64898/2026.07.13.738250"
     },
+    "doi:10.64898/2026.07.14.736885": {
+      "date": "2026-07-20",
+      "score": 7,
+      "sent_at": "2026-07-23T08:08:28.961789+00:00",
+      "source": "OpenAlex",
+      "title": "Interpretable Prediction of Phase Separation and Disease Variant Effects in Intrinsically Disordered Regions",
+      "url": "https://doi.org/10.64898/2026.07.14.736885"
+    },
     "doi:10.64898/2026.07.14.738542": {
       "date": "2026-07-16",
       "score": 4,
@@ -3039,6 +3087,22 @@
       "source": "OpenAlex",
       "title": "Genomic foundation model embeddings encode higher-order viral genome architecture beyond sequence composition: a benchmark of Evo 2",
       "url": "https://doi.org/10.64898/2026.07.14.738542"
+    },
+    "doi:10.64898/2026.07.15.738706": {
+      "date": "2026-07-16",
+      "score": 4,
+      "sent_at": "2026-07-23T08:08:28.961789+00:00",
+      "source": "biorxiv",
+      "title": "The plant specific VPS2.2/HYADE of the ESCRT-III protein sorting machinery localizes to a secretory compartment and is required for cell division plane determination in Arabidopsis",
+      "url": "https://doi.org/10.64898/2026.07.15.738706"
+    },
+    "doi:10.64898/2026.07.17.739234": {
+      "date": "2026-07-20",
+      "score": 4,
+      "sent_at": "2026-07-23T08:08:28.961789+00:00",
+      "source": "OpenAlex",
+      "title": "Cilevirus and dichorhavirus glycoproteins target overlapping host proteins in the Brevipalpus yothersi vector",
+      "url": "https://doi.org/10.64898/2026.07.17.739234"
     },
     "doi:10.66835/psh.2026.e0008": {
       "date": "2026-07-16",
