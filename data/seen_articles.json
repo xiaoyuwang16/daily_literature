@@ -1256,6 +1256,22 @@
       "title": "HomonymSenseNet: A Context-Aware Transformer Framework with Dynamic Sense Memory and Adaptive Negative Sampling for Semantic Representation Learning",
       "url": "https://doi.org/10.21015/vtse.v14i2.2478"
     },
+    "doi:10.21203/rs.3.rs-10433997/v1": {
+      "date": "2026-07-22",
+      "score": 18,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "OpenAlex",
+      "title": "In Search of Manifolds Inside Protein Language Models: A Largely Negative Report",
+      "url": "https://doi.org/10.21203/rs.3.rs-10433997/v1"
+    },
+    "doi:10.21203/rs.3.rs-10434163/v1": {
+      "date": "2026-07-22",
+      "score": 8,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "OpenAlex",
+      "title": "Findings from Sparse Autoencoders for DNA Sequence Models: Motif Detectors, Reading-Frame Features, and the Scarcity of Regulatory Logic",
+      "url": "https://doi.org/10.21203/rs.3.rs-10434163/v1"
+    },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
       "score": 18,
@@ -1447,6 +1463,14 @@
       "source": "OpenAlex",
       "title": "tsAMP: a strain-level antimicrobial peptide identification framework based on large language models and pathogen genomic variation",
       "url": "https://doi.org/10.3389/fmicb.2026.1842380"
+    },
+    "doi:10.3389/fmicb.2026.1870115": {
+      "date": "2026-07-22",
+      "score": 16,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "OpenAlex",
+      "title": "AI-driven discovery of probiotic gene modules and their functional impact in food and health",
+      "url": "https://doi.org/10.3389/fmicb.2026.1870115"
     },
     "doi:10.3389/fmolb.2026.1814859": {
       "date": "2026-06-16",
@@ -1727,6 +1751,14 @@
       "source": "OpenAlex",
       "title": "HIV Drug Resistance Prediction with ESM-2 Protein Language Model",
       "url": "https://doi.org/10.5281/zenodo.19466629"
+    },
+    "doi:10.5281/zenodo.19742925": {
+      "date": "2026-07-22",
+      "score": 15,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "OpenAlex",
+      "title": "FANTASIA Lite V1 Lookup Bundle for Protein Function Annotation",
+      "url": "https://doi.org/10.5281/zenodo.19742925"
     },
     "doi:10.5281/zenodo.20143142": {
       "date": "2026-06-17",
@@ -2232,6 +2264,14 @@
       "title": "The Cross-Channel Generalisation Gap (CCGG) Benchmark for Protein Language Models",
       "url": "https://doi.org/10.5281/zenodo.21480844"
     },
+    "doi:10.5281/zenodo.21485626": {
+      "date": "2026-07-22",
+      "score": 15,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "OpenAlex",
+      "title": "FANTASIA Lite V1 Lookup Bundle for Protein Function Annotation",
+      "url": "https://doi.org/10.5281/zenodo.21485626"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -2423,6 +2463,14 @@
       "source": "biorxiv",
       "title": "Relational biological structure improves fine-mapping of causal GWAS variants under weak signal",
       "url": "https://doi.org/10.64898/2026.05.15.725513"
+    },
+    "doi:10.64898/2026.05.17.725770": {
+      "date": "2026-07-17",
+      "score": 4,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "biorxiv",
+      "title": "Mapping Tumor-Microenvironment dependencies with TMEformer: A spatial foundation framework enabling in silico perturbation",
+      "url": "https://doi.org/10.64898/2026.05.17.725770"
     },
     "doi:10.64898/2026.05.22.727045": {
       "date": "2026-05-26",
@@ -3064,6 +3112,14 @@
       "title": "MolMAE: A Surface-Centric Multimodal Masked Autoencoder for Molecular Representation Learning",
       "url": "https://doi.org/10.64898/2026.07.11.737987"
     },
+    "doi:10.64898/2026.07.12.738095": {
+      "date": "2026-07-17",
+      "score": 6,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "biorxiv",
+      "title": "Transcriptomic signature of Human Cardiac Fibroblast in Hypertrophic Obstructive Cardiomyopathy",
+      "url": "https://doi.org/10.64898/2026.07.12.738095"
+    },
     "doi:10.64898/2026.07.13.738250": {
       "date": "2026-07-14",
       "score": 5,
@@ -3088,6 +3144,14 @@
       "title": "Genomic foundation model embeddings encode higher-order viral genome architecture beyond sequence composition: a benchmark of Evo 2",
       "url": "https://doi.org/10.64898/2026.07.14.738542"
     },
+    "doi:10.64898/2026.07.15.26357094": {
+      "date": "2026-07-17",
+      "score": 7,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "medrxiv",
+      "title": "Alcohol consumption during pregnancy dysregulates maternofetal angiogenic and inflammatory factors with sex specificities",
+      "url": "https://doi.org/10.64898/2026.07.15.26357094"
+    },
     "doi:10.64898/2026.07.15.738706": {
       "date": "2026-07-16",
       "score": 4,
@@ -3103,6 +3167,14 @@
       "source": "OpenAlex",
       "title": "Cilevirus and dichorhavirus glycoproteins target overlapping host proteins in the Brevipalpus yothersi vector",
       "url": "https://doi.org/10.64898/2026.07.17.739234"
+    },
+    "doi:10.64898/2026.07.18.739331": {
+      "date": "2026-07-21",
+      "score": 6,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "OpenAlex",
+      "title": "ProtSyntax: a protein large language model for decoding post-translational modification syntax and function",
+      "url": "https://doi.org/10.64898/2026.07.18.739331"
     },
     "doi:10.66835/psh.2026.e0008": {
       "date": "2026-07-16",
@@ -3415,6 +3487,14 @@
       "source": "OpenAlex",
       "title": "From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery",
       "url": "https://openalex.org/W7169633357"
+    },
+    "openalex:https://openalex.org/w7170111551": {
+      "date": "2026-07-17",
+      "score": 12,
+      "sent_at": "2026-07-24T08:04:42.402211+00:00",
+      "source": "OpenAlex",
+      "title": "Discrete Ricci Curvature on Protein Contact Graphs for Lightweight Fold Classification",
+      "url": "https://openalex.org/W7170111551"
     }
   }
 }
