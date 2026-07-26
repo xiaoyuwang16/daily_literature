@@ -216,6 +216,14 @@
       "title": "How WRKY transcription factors fine-tune specificity in plant stress responses: from W-box to regulatory code",
       "url": "https://doi.org/10.1007/s11033-026-12354-0"
     },
+    "doi:10.1007/s12298-026-01798-0": {
+      "date": "2026-07-24",
+      "score": 4,
+      "sent_at": "2026-07-26T08:05:13.964873+00:00",
+      "source": "OpenAlex",
+      "title": "MYB transcription factors in plant cold stress adaptation: integrating phylogeny, signaling networks, and metabolic regulation",
+      "url": "https://doi.org/10.1007/s12298-026-01798-0"
+    },
     "doi:10.1007/s44371-026-00860-w": {
       "date": "2026-07-09",
       "score": 5,
@@ -920,6 +928,14 @@
       "title": "LoMuS: Low-Rank Adaptation with Sequence Multi-representation Improves Protein Stability Prediction",
       "url": "https://doi.org/10.1093/bioinformatics/btag509"
     },
+    "doi:10.1093/bioinformatics/btag548": {
+      "date": "2026-07-24",
+      "score": 18,
+      "sent_at": "2026-07-26T08:05:13.964873+00:00",
+      "source": "OpenAlex",
+      "title": "SimBinder-IF: Structure-Aware Antibody Affinity Optimization via Efficient Preference Learning",
+      "url": "https://doi.org/10.1093/bioinformatics/btag548"
+    },
     "doi:10.1093/jxb/erag288": {
       "date": "2026 Jun 11",
       "score": 4,
@@ -1271,6 +1287,22 @@
       "source": "OpenAlex",
       "title": "Findings from Sparse Autoencoders for DNA Sequence Models: Motif Detectors, Reading-Frame Features, and the Scarcity of Regulatory Logic",
       "url": "https://doi.org/10.21203/rs.3.rs-10434163/v1"
+    },
+    "doi:10.21203/rs.3.rs-10461095/v1": {
+      "date": "2026-07-24",
+      "score": 4,
+      "sent_at": "2026-07-26T08:05:13.964873+00:00",
+      "source": "OpenAlex",
+      "title": "Do Single-Cell Models Learn Real Biology? An Empirical Analysis of Physical Interaction Signal in Pretrained scGPT Gene Embeddings",
+      "url": "https://doi.org/10.21203/rs.3.rs-10461095/v1"
+    },
+    "doi:10.21203/rs.3.rs-10461111/v1": {
+      "date": "2026-07-24",
+      "score": 4,
+      "sent_at": "2026-07-26T08:05:13.964873+00:00",
+      "source": "OpenAlex",
+      "title": "Mechanistic Interpretability of Biological Foundation Models: An Empirical Analysis of scGPT Gene-Embedding Geometry",
+      "url": "https://doi.org/10.21203/rs.3.rs-10461111/v1"
     },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
@@ -1639,6 +1671,14 @@
       "source": "OpenAlex",
       "title": "A Splice-Variant Imbalance of Reticulon-like Protein 16 (RTNLB16) Disrupts Growth and Decreases Sensitivity to ABA and Dark-Induced Senescence in Arabidopsis",
       "url": "https://doi.org/10.3390/plants15132022"
+    },
+    "doi:10.3390/proteomes14030036": {
+      "date": "2026-07-23",
+      "score": 29,
+      "sent_at": "2026-07-26T08:05:13.964873+00:00",
+      "source": "OpenAlex",
+      "title": "Protein Language Model Embeddings Reveal Proteome-Scale Ortholog Divergence Relevant to Cross-Species Pharmacology",
+      "url": "https://doi.org/10.3390/proteomes14030036"
     },
     "doi:10.36306/konjes.1716813": {
       "date": "2026-06-04",
@@ -3183,6 +3223,30 @@
       "source": "OpenAlex",
       "title": "ProtSyntax: a protein large language model for decoding post-translational modification syntax and function",
       "url": "https://doi.org/10.64898/2026.07.18.739331"
+    },
+    "doi:10.64898/2026.07.20.737354": {
+      "date": "2026-07-22",
+      "score": 4,
+      "sent_at": "2026-07-26T08:05:13.964873+00:00",
+      "source": "OpenAlex",
+      "title": "Rational Redesign of an Fc-Binding Peptide for Multivalent Antibody Assembly",
+      "url": "https://doi.org/10.64898/2026.07.20.737354"
+    },
+    "doi:10.64898/2026.07.20.739063": {
+      "date": "2026-07-22",
+      "score": 7,
+      "sent_at": "2026-07-26T08:05:13.964873+00:00",
+      "source": "OpenAlex",
+      "title": "MGM2 as a Unified Foundation Model for Microbiome World Exploration",
+      "url": "https://doi.org/10.64898/2026.07.20.739063"
+    },
+    "doi:10.64898/2026.07.21.739963": {
+      "date": "2026-07-23",
+      "score": 24,
+      "sent_at": "2026-07-26T08:05:13.964873+00:00",
+      "source": "OpenAlex",
+      "title": "A germline shortcut in protein language model retrieval of adaptive immune receptors",
+      "url": "https://doi.org/10.64898/2026.07.21.739963"
     },
     "doi:10.66835/psh.2026.e0008": {
       "date": "2026-07-16",
