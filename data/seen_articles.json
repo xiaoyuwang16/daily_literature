@@ -96,6 +96,14 @@
       "title": "Discrete Ricci Curvature on Protein Contact Graphs for Lightweight Fold Classification",
       "url": "http://arxiv.org/abs/2607.16553v1"
     },
+    "arxiv:2607.22777v1": {
+      "date": "2026-07-24",
+      "score": 35,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "arXiv",
+      "title": "LC-SEPLM: long-range contact-supervised adaptation for sequence-only protein representation learning",
+      "url": "http://arxiv.org/abs/2607.22777v1"
+    },
     "doi:10.1002/anie.3832427": {
       "date": "2026 Jul 21",
       "score": 4,
@@ -439,6 +447,14 @@
       "source": "PubMed",
       "title": "CFlowAMP: Property controllable De Novo AMP design via integrating ESM-2 with conditional flow matching",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41941849/"
+    },
+    "doi:10.1016/j.jocs.2026.102978": {
+      "date": "2026-07-24",
+      "score": 24,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "Integrating ESM-2 protein language model embeddings with physicochemical descriptors in a stacking ensemble for antimicrobial peptide prediction",
+      "url": "https://doi.org/10.1016/j.jocs.2026.102978"
     },
     "doi:10.1016/j.neures.2026.105070": {
       "date": "2026 Jul",
@@ -952,6 +968,14 @@
       "title": "Mapping of the local proteome of the Arabidopsis chloroplast intermembrane space by proximity labelling",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42455050/"
     },
+    "doi:10.1093/jxb/erag376": {
+      "date": "2026-07-24",
+      "score": 5,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "High-throughput screening and structure-guided design of small molecules enable modulation of SAL-PAP stress signaling",
+      "url": "https://doi.org/10.1093/jxb/erag376"
+    },
     "doi:10.1093/nar/gkag425": {
       "date": "2026 May 5",
       "score": 4,
@@ -1391,6 +1415,14 @@
       "source": "OpenAlex",
       "title": "DNA Foundation Models for Molecular Biology: From Genomic Sequence Understanding to Function Prediction and Biological Design",
       "url": "https://doi.org/10.26434/chemrxiv.15004978/v1"
+    },
+    "doi:10.29328/journal.jairi.1001022": {
+      "date": "2026-07-24",
+      "score": 14,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "Deep Learning and Artificial Intelligence in the Design of Angiotensin-Converting Enzyme (ACE) Inhibitory Peptides",
+      "url": "https://doi.org/10.29328/journal.jairi.1001022"
     },
     "doi:10.33540/3760": {
       "date": "2026-07-10",
@@ -2264,6 +2296,14 @@
       "title": "Quantum Computing Solves Drug Discovery Dilemmas: A New Framework for 'Multi-Stage Drug Design'",
       "url": "https://doi.org/10.5281/zenodo.21328817"
     },
+    "doi:10.5281/zenodo.21380915": {
+      "date": "2026-07-26",
+      "score": 10,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "Telos-S Backend: Core Analysis Pipeline for Zero-Shot Structural Risk Quantification in SARS-CoV-2 Spike Protein",
+      "url": "https://doi.org/10.5281/zenodo.21380915"
+    },
     "doi:10.5281/zenodo.21381358": {
       "date": "2026-07-15",
       "score": 15,
@@ -2311,6 +2351,30 @@
       "source": "OpenAlex",
       "title": "FANTASIA Lite V1 Lookup Bundle for Protein Function Annotation",
       "url": "https://doi.org/10.5281/zenodo.21485626"
+    },
+    "doi:10.5281/zenodo.21605745": {
+      "date": "2026-07-26",
+      "score": 10,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "Telos-S Backend: Core Analysis Pipeline for Zero-Shot Structural Risk Quantification in SARS-CoV-2 Spike Protein",
+      "url": "https://doi.org/10.5281/zenodo.21605745"
+    },
+    "doi:10.5281/zenodo.21609760": {
+      "date": "2026-07-26",
+      "score": 9,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "Analysis code, figures, and manuscripts for the conservation-divergence spectrum companion series (P1-P3)",
+      "url": "https://doi.org/10.5281/zenodo.21609760"
+    },
+    "doi:10.5281/zenodo.21609932": {
+      "date": "2026-07-26",
+      "score": 9,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "Analysis code, figures, and manuscripts for the conservation-divergence spectrum companion series (P1-P3)",
+      "url": "https://doi.org/10.5281/zenodo.21609932"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
@@ -2583,6 +2647,14 @@
       "source": "OpenAlex",
       "title": "Multiple versus pairwise sequence alignments for protein phylogenetics using foundation models",
       "url": "https://doi.org/10.64898/2026.05.26.727927"
+    },
+    "doi:10.64898/2026.05.27.727676": {
+      "date": "2026-07-21",
+      "score": 15,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "biorxiv",
+      "title": "Pathogenic MYBPC3 missense variants alter protein-protein interactions within the sarcomere",
+      "url": "https://doi.org/10.64898/2026.05.27.727676"
     },
     "doi:10.64898/2026.05.27.728120": {
       "date": "2026-05-29",
@@ -3240,6 +3312,14 @@
       "title": "MGM2 as a Unified Foundation Model for Microbiome World Exploration",
       "url": "https://doi.org/10.64898/2026.07.20.739063"
     },
+    "doi:10.64898/2026.07.20.739599": {
+      "date": "2026-07-23",
+      "score": 27,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "High-resolution dissection of concept acquisition in different families of protein language models",
+      "url": "https://doi.org/10.64898/2026.07.20.739599"
+    },
     "doi:10.64898/2026.07.21.739963": {
       "date": "2026-07-23",
       "score": 24,
@@ -3567,6 +3647,30 @@
       "source": "OpenAlex",
       "title": "Discrete Ricci Curvature on Protein Contact Graphs for Lightweight Fold Classification",
       "url": "https://openalex.org/W7170111551"
+    },
+    "openalex:https://openalex.org/w7170989045": {
+      "date": "2026-07-21",
+      "score": 9,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "Causal dictionary learning reveals and validates transcription-factor binding features in genomic language models",
+      "url": "https://openalex.org/W7170989045"
+    },
+    "openalex:https://openalex.org/w7170989689": {
+      "date": "2026-07-22",
+      "score": 11,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design",
+      "url": "https://openalex.org/W7170989689"
+    },
+    "openalex:https://openalex.org/w7171268633": {
+      "date": "2026-07-23",
+      "score": 6,
+      "sent_at": "2026-07-28T08:11:40.477125+00:00",
+      "source": "OpenAlex",
+      "title": "HierarchicalDAEW: Domain-Aware Edge-Weighted Graph Convolution with Evidential Uncertainty for Multi-Section Spatial Gene Expression Prediction from H&E Histology",
+      "url": "https://openalex.org/W7171268633"
     }
   }
 }
