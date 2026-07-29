@@ -664,6 +664,14 @@
       "title": "VitaGraph: building a knowledge graph for biologically relevant learning tasks",
       "url": "https://doi.org/10.1038/s41597-026-07498-4"
     },
+    "doi:10.1038/s41597-026-07962-1": {
+      "date": "2026-07-27",
+      "score": 6,
+      "sent_at": "2026-07-29T08:16:21.800702+00:00",
+      "source": "OpenAlex",
+      "title": "A data resource of peptide\u2013protein interaction structures and binding affinities for peptide drug discovery",
+      "url": "https://doi.org/10.1038/s41597-026-07962-1"
+    },
     "doi:10.1038/s41598-026-54567-0": {
       "date": "2026-06-04",
       "score": 9,
@@ -855,6 +863,14 @@
       "source": "OpenAlex",
       "title": "Predicting antibody self-association with sequence\u2013structure fusion models: the central role of CSI-BLI in early developability screening",
       "url": "https://doi.org/10.1080/19420862.2026.2694124"
+    },
+    "doi:10.1088/2632-2153/ae911d": {
+      "date": "2026-07-27",
+      "score": 8,
+      "sent_at": "2026-07-29T08:16:21.800702+00:00",
+      "source": "OpenAlex",
+      "title": "FragBERTa: A fragment-aware molecular representation model with sequential attachment-based fragment embeddings",
+      "url": "https://doi.org/10.1088/2632-2153/ae911d"
     },
     "doi:10.1091/mbc.e25-12-0627": {
       "date": "2026 Jun",
@@ -1328,6 +1344,14 @@
       "title": "Mechanistic Interpretability of Biological Foundation Models: An Empirical Analysis of scGPT Gene-Embedding Geometry",
       "url": "https://doi.org/10.21203/rs.3.rs-10461111/v1"
     },
+    "doi:10.21203/rs.3.rs-10462221/v1": {
+      "date": "2026-07-27",
+      "score": 4,
+      "sent_at": "2026-07-29T08:16:21.800702+00:00",
+      "source": "OpenAlex",
+      "title": "Reading Mechanism off Biological Foundation Models: An Empirical Analysis of Genomic Neighborhood Structure in scGPT Gene Embeddings",
+      "url": "https://doi.org/10.21203/rs.3.rs-10462221/v1"
+    },
     "doi:10.21203/rs.3.rs-9299039/v1": {
       "date": "2026-05-26",
       "score": 18,
@@ -1455,6 +1479,14 @@
       "source": "OpenAlex",
       "title": "NbBayesLM: bayesian prediction of nanobody thermostability using protein language model",
       "url": "https://doi.org/10.3389/fbinf.2026.1832968"
+    },
+    "doi:10.3389/fbinf.2026.1851023": {
+      "date": "2026-07-27",
+      "score": 5,
+      "sent_at": "2026-07-29T08:16:21.800702+00:00",
+      "source": "OpenAlex",
+      "title": "Instability of LLM text embeddings for unsupervised dimension reduction of tabular data",
+      "url": "https://doi.org/10.3389/fbinf.2026.1851023"
     },
     "doi:10.3389/fbinf.2026.1861685": {
       "date": "2026-06-11",
@@ -1599,6 +1631,14 @@
       "source": "OpenAlex",
       "title": "Synergy between silicon and beneficial microorganisms enhances plant abiotic stress tolerance through rhizosphere restructuring and coordinated defense",
       "url": "https://doi.org/10.3389/fpls.2026.1874835"
+    },
+    "doi:10.3389/fpls.2026.1877141": {
+      "date": "2026-07-27",
+      "score": 5,
+      "sent_at": "2026-07-29T08:16:21.800702+00:00",
+      "source": "OpenAlex",
+      "title": "Plant stress physiology under environmental emerging contaminant exposure: from molecular responses to phytoremediation applications",
+      "url": "https://doi.org/10.3389/fpls.2026.1877141"
     },
     "doi:10.3389/fpls.2026.1887090": {
       "date": "2026-06-30",
@@ -2336,6 +2376,14 @@
       "title": "A Read-Position-Independent Signal for Ancient-DNA Variant Authenticity: Protein-Language-Model Plausibility Discriminates Deamination Artifacts from True Variants, Validated on the Natural Damage of a Million-Year-Old Mammoth",
       "url": "https://doi.org/10.5281/zenodo.21396515"
     },
+    "doi:10.5281/zenodo.21449958": {
+      "date": "2026-07-27",
+      "score": 9,
+      "sent_at": "2026-07-29T08:16:21.800702+00:00",
+      "source": "OpenAlex",
+      "title": "Analysis code, figures, and manuscripts for the conservation-divergence spectrum companion series (P1-P3)",
+      "url": "https://doi.org/10.5281/zenodo.21449958"
+    },
     "doi:10.5281/zenodo.21480844": {
       "date": "2026-07-21",
       "score": 27,
@@ -2375,6 +2423,14 @@
       "source": "OpenAlex",
       "title": "Analysis code, figures, and manuscripts for the conservation-divergence spectrum companion series (P1-P3)",
       "url": "https://doi.org/10.5281/zenodo.21609932"
+    },
+    "doi:10.5281/zenodo.21613516": {
+      "date": "2026-07-27",
+      "score": 9,
+      "sent_at": "2026-07-29T08:16:21.800702+00:00",
+      "source": "OpenAlex",
+      "title": "Analysis code, figures, and manuscripts for the conservation-divergence spectrum companion series (P1-P3)",
+      "url": "https://doi.org/10.5281/zenodo.21613516"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
@@ -2479,6 +2535,14 @@
       "source": "biorxiv",
       "title": "Read-Consistent Minimum Unique Substrings: A Parameter-Free, Linear-Time Framework for Genomic Sequence Representation",
       "url": "https://doi.org/10.64898/2026.02.28.708734"
+    },
+    "doi:10.64898/2026.03.03.26347354": {
+      "date": "2026-07-22",
+      "score": 4,
+      "sent_at": "2026-07-29T08:16:21.800702+00:00",
+      "source": "medrxiv",
+      "title": "Semaglutide alters the human embryo-endometrium interface",
+      "url": "https://doi.org/10.64898/2026.03.03.26347354"
     },
     "doi:10.64898/2026.03.06.26347824": {
       "date": "2026-06-22",
@@ -3319,6 +3383,14 @@
       "source": "OpenAlex",
       "title": "High-resolution dissection of concept acquisition in different families of protein language models",
       "url": "https://doi.org/10.64898/2026.07.20.739599"
+    },
+    "doi:10.64898/2026.07.21.739810": {
+      "date": "2026-07-22",
+      "score": 6,
+      "sent_at": "2026-07-29T08:16:21.800702+00:00",
+      "source": "biorxiv",
+      "title": "SpatialJEPA: JEPA-inspired graph-context distillation for spatially aware multiomics integration",
+      "url": "https://doi.org/10.64898/2026.07.21.739810"
     },
     "doi:10.64898/2026.07.21.739963": {
       "date": "2026-07-23",
