@@ -104,6 +104,14 @@
       "title": "LC-SEPLM: long-range contact-supervised adaptation for sequence-only protein representation learning",
       "url": "http://arxiv.org/abs/2607.22777v1"
     },
+    "arxiv:2607.22777v2": {
+      "date": "2026-07-24",
+      "score": 35,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "arXiv",
+      "title": "LC-SEPLM: long-range contact-supervised adaptation for sequence-only protein representation learning",
+      "url": "http://arxiv.org/abs/2607.22777v2"
+    },
     "doi:10.1002/anie.3832427": {
       "date": "2026 Jul 21",
       "score": 4,
@@ -303,6 +311,14 @@
       "source": "OpenAlex",
       "title": "AlphaFold-based peptide structure prediction: Opportunities, limitations, and future directions",
       "url": "https://doi.org/10.1016/j.biotechadv.2026.108977"
+    },
+    "doi:10.1016/j.biotechadv.2026.108991": {
+      "date": "2026-07-26",
+      "score": 4,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "Tandem kinase proteins and kinase-fusion architectures in plant immune system",
+      "url": "https://doi.org/10.1016/j.biotechadv.2026.108991"
     },
     "doi:10.1016/j.cbpa.2026.102678": {
       "date": "2026 Jun",
@@ -800,6 +816,14 @@
       "title": "Advancements in characterization of protein dynamics with machine learning",
       "url": "https://doi.org/10.1038/s44431-026-00025-w"
     },
+    "doi:10.1051/itmconf/20268801020/pdf": {
+      "date": "2026-07-27",
+      "score": 14,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "Deep Learning-Based Prediction of Antimicrobial Resistance",
+      "url": "https://doi.org/10.1051/itmconf/20268801020/pdf"
+    },
     "doi:10.1073/pnas.2521555123": {
       "date": "2026 Jun 30",
       "score": 10,
@@ -968,6 +992,14 @@
       "title": "SimBinder-IF: Structure-Aware Antibody Affinity Optimization via Efficient Preference Learning",
       "url": "https://doi.org/10.1093/bioinformatics/btag548"
     },
+    "doi:10.1093/jimmun/vkag141.1207": {
+      "date": "2026-07-28",
+      "score": 7,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "Negative charges in the surface of the SARS-CoV-2 spike protein promote autoantibody generation in hospitalized COVID-19 patients 2300244",
+      "url": "https://doi.org/10.1093/jimmun/vkag141.1207"
+    },
     "doi:10.1093/jxb/erag288": {
       "date": "2026 Jun 11",
       "score": 4,
@@ -1120,6 +1152,14 @@
       "title": "Protein language models accurately predict polymorphic peptide-modulated NK cell receptor-HLA class I interaction strengths",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42102196/"
     },
+    "doi:10.1128/jvi.00757-26": {
+      "date": "2026-07-28",
+      "score": 6,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "ViralMap: predicting features in viral proteins from primary sequence",
+      "url": "https://doi.org/10.1128/jvi.00757-26"
+    },
     "doi:10.1128/mbio.00878-26": {
       "date": "2026-06-15",
       "score": 6,
@@ -1167,6 +1207,14 @@
       "source": "OpenAlex",
       "title": "PRIME: An evaluation framework for protein representation inference and generalization in viral mutation space",
       "url": "https://doi.org/10.1186/s12864-026-12976-5"
+    },
+    "doi:10.1186/s12864-026-13227-3": {
+      "date": "2026-07-28",
+      "score": 23,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "DynML-Net: a porcine enteric virus identification network based on protein language models and a dynamic heterogeneous multi-branch architecture",
+      "url": "https://doi.org/10.1186/s12864-026-13227-3"
     },
     "doi:10.1186/s12915-026-02636-1": {
       "date": "2026 May 19",
@@ -1263,6 +1311,14 @@
       "source": "OpenAlex",
       "title": "SPPIPred: Stacking-based ensemble learning model for identification of protein-protein interaction",
       "url": "https://doi.org/10.1371/journal.pone.0353199"
+    },
+    "doi:10.1371/journal.pone.0354365": {
+      "date": "2026-07-27",
+      "score": 6,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "Enhancing missense variant classification in predicted intrinsically disordered regions",
+      "url": "https://doi.org/10.1371/journal.pone.0354365"
     },
     "doi:10.14719/pst.13808": {
       "date": "2026-07-14",
@@ -1496,6 +1552,14 @@
       "title": "CMA-DTI: a cross-modal fusion and attentive interaction network for interpretable drug-target interaction prediction",
       "url": "https://doi.org/10.3389/fbinf.2026.1861685"
     },
+    "doi:10.3389/fbioe.2026.1820001": {
+      "date": "2026-07-28",
+      "score": 9,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "Strengthening global biosecurity for synthetic nucleic acid technology: from sequence screening to risk-based governance in the AI era",
+      "url": "https://doi.org/10.3389/fbioe.2026.1820001"
+    },
     "doi:10.3389/fcell.2026.1805468": {
       "date": "2026-06-10",
       "score": 8,
@@ -1527,6 +1591,14 @@
       "source": "OpenAlex",
       "title": "Research trends and potential molecular intersections between diabetic kidney disease and sarcopenia: a 21-year bibliometric and bioinformatics analysis",
       "url": "https://doi.org/10.3389/fendo.2026.1798210"
+    },
+    "doi:10.3389/fendo.2026.1888104": {
+      "date": "2026-07-28",
+      "score": 4,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "Stigmasterol ameliorates obesity-associated insulin resistance by activating the PPAR\u03b3 pathway and alleviating oxidative stress",
+      "url": "https://doi.org/10.3389/fendo.2026.1888104"
     },
     "doi:10.3389/ffunb.2026.1813584": {
       "date": "2026-06-05",
@@ -1591,6 +1663,14 @@
       "source": "OpenAlex",
       "title": "Calcium signaling and postsynaptic density dynamics: the roles of calmodulin in synaptic protein regulation",
       "url": "https://doi.org/10.3389/fnmol.2026.1831452"
+    },
+    "doi:10.3389/fnut.2026.1904329": {
+      "date": "2026-07-28",
+      "score": 8,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "Mediterranean diet impact on plasma proteins: biomarker networks linking nutrition to the modulation of inflammation and oxidative stress",
+      "url": "https://doi.org/10.3389/fnut.2026.1904329"
     },
     "doi:10.3389/fphar.2026.1686243": {
       "date": "2026-06-11",
@@ -1839,6 +1919,14 @@
       "source": "OpenAlex",
       "title": "Discrete Ricci Curvature on Protein Contact Graphs for Lightweight Fold Classification",
       "url": "https://doi.org/10.48550/arxiv.2607.16553"
+    },
+    "doi:10.48550/arxiv.2607.22777": {
+      "date": "2026-07-24",
+      "score": 35,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "LC-SEPLM: long-range contact-supervised adaptation for sequence-only protein representation learning",
+      "url": "https://doi.org/10.48550/arxiv.2607.22777"
     },
     "doi:10.5281/zenodo.17488190": {
       "date": "2026-06-04",
@@ -2431,6 +2519,22 @@
       "source": "OpenAlex",
       "title": "Analysis code, figures, and manuscripts for the conservation-divergence spectrum companion series (P1-P3)",
       "url": "https://doi.org/10.5281/zenodo.21613516"
+    },
+    "doi:10.5281/zenodo.21617258": {
+      "date": "2026-07-27",
+      "score": 25,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "TDEP: Predicting Target Perturbation Response from Drug-Induced Transcriptomes",
+      "url": "https://doi.org/10.5281/zenodo.21617258"
+    },
+    "doi:10.5281/zenodo.21617259": {
+      "date": "2026-07-27",
+      "score": 25,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "OpenAlex",
+      "title": "TDEP: Predicting Target Perturbation Response from Drug-Induced Transcriptomes",
+      "url": "https://doi.org/10.5281/zenodo.21617259"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
@@ -3399,6 +3503,22 @@
       "source": "OpenAlex",
       "title": "A germline shortcut in protein language model retrieval of adaptive immune receptors",
       "url": "https://doi.org/10.64898/2026.07.21.739963"
+    },
+    "doi:10.64898/2026.07.22.739638": {
+      "date": "2026-07-23",
+      "score": 5,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "biorxiv",
+      "title": "Water stress adaptive responses in plants require movement of ABA and AB-aldehyde from vascular to target tissues",
+      "url": "https://doi.org/10.64898/2026.07.22.739638"
+    },
+    "doi:10.64898/2026.07.22.740030": {
+      "date": "2026-07-23",
+      "score": 4,
+      "sent_at": "2026-07-30T08:04:41.224946+00:00",
+      "source": "biorxiv",
+      "title": "Organ identity shapes autophagy dynamics and selectivity in plants",
+      "url": "https://doi.org/10.64898/2026.07.22.740030"
     },
     "doi:10.66835/psh.2026.e0008": {
       "date": "2026-07-16",
