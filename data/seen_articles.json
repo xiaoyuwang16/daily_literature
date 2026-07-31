@@ -896,6 +896,14 @@
       "title": "FragBERTa: A fragment-aware molecular representation model with sequential attachment-based fragment embeddings",
       "url": "https://doi.org/10.1088/2632-2153/ae911d"
     },
+    "doi:10.1088/2632-2153/ae923a": {
+      "date": "2026-07-29",
+      "score": 21,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "OpenAlex",
+      "title": "Steering sequence generation in protein language models through Iterative Lookback Monte Carlo sampling",
+      "url": "https://doi.org/10.1088/2632-2153/ae923a"
+    },
     "doi:10.1091/mbc.e25-12-0627": {
       "date": "2026 Jun",
       "score": 8,
@@ -1560,6 +1568,14 @@
       "title": "Strengthening global biosecurity for synthetic nucleic acid technology: from sequence screening to risk-based governance in the AI era",
       "url": "https://doi.org/10.3389/fbioe.2026.1820001"
     },
+    "doi:10.3389/fbioe.2026.1884032": {
+      "date": "2026-07-29",
+      "score": 13,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "OpenAlex",
+      "title": "Recent advances in multimodal foundation model-enabled peptide screening and optimization for smart biomaterials and functional tissue engineering",
+      "url": "https://doi.org/10.3389/fbioe.2026.1884032"
+    },
     "doi:10.3389/fcell.2026.1805468": {
       "date": "2026-06-10",
       "score": 8,
@@ -1640,6 +1656,14 @@
       "title": "AI-driven discovery of probiotic gene modules and their functional impact in food and health",
       "url": "https://doi.org/10.3389/fmicb.2026.1870115"
     },
+    "doi:10.3389/fmicb.2026.1885772": {
+      "date": "2026-07-29",
+      "score": 4,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "OpenAlex",
+      "title": "Decoding the gut interactome after severe trauma: from molecular dialogue to integrative treatment strategies",
+      "url": "https://doi.org/10.3389/fmicb.2026.1885772"
+    },
     "doi:10.3389/fmolb.2026.1814859": {
       "date": "2026-06-16",
       "score": 7,
@@ -1672,6 +1696,14 @@
       "title": "Mediterranean diet impact on plasma proteins: biomarker networks linking nutrition to the modulation of inflammation and oxidative stress",
       "url": "https://doi.org/10.3389/fnut.2026.1904329"
     },
+    "doi:10.3389/fonc.2026.1834175": {
+      "date": "2026-07-29",
+      "score": 4,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "OpenAlex",
+      "title": "Application of deep learning models integrating attention mechanisms in operating room nursing quality and postoperative risk assessment for tumors",
+      "url": "https://doi.org/10.3389/fonc.2026.1834175"
+    },
     "doi:10.3389/fphar.2026.1686243": {
       "date": "2026-06-11",
       "score": 5,
@@ -1695,6 +1727,14 @@
       "source": "OpenAlex",
       "title": "Expression of the quinoa TCP gene family and analysis of CqTCP11 involvement in seed germination stress response",
       "url": "https://doi.org/10.3389/fpls.2026.1860606"
+    },
+    "doi:10.3389/fpls.2026.1868651": {
+      "date": "2026-07-29",
+      "score": 4,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "OpenAlex",
+      "title": "Characterization of long non-coding RNAs during compatible and incompatible pollination in Arabidopsis thaliana",
+      "url": "https://doi.org/10.3389/fpls.2026.1868651"
     },
     "doi:10.3389/fpls.2026.1873223": {
       "date": "2026-07-07",
@@ -1807,6 +1847,14 @@
       "source": "OpenAlex",
       "title": "Cyclic Peptides as Modulators of Protein\u2013Protein Interactions: A Survival Guide from Discovery Platforms to AI-Driven Design",
       "url": "https://doi.org/10.3390/ijms27136067"
+    },
+    "doi:10.3390/ijms27156776": {
+      "date": "2026-07-29",
+      "score": 15,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "OpenAlex",
+      "title": "Protein Self-Interaction in Cellular Function and Network Evolution: Molecular Mechanisms, AI-Driven Insights, and Therapeutic Potentials",
+      "url": "https://doi.org/10.3390/ijms27156776"
     },
     "doi:10.3390/math14142489": {
       "date": "2026-07-10",
@@ -3504,6 +3552,14 @@
       "title": "A germline shortcut in protein language model retrieval of adaptive immune receptors",
       "url": "https://doi.org/10.64898/2026.07.21.739963"
     },
+    "doi:10.64898/2026.07.22.26358591": {
+      "date": "2026-07-24",
+      "score": 4,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "medrxiv",
+      "title": "A unified 12-lead ECG-language model for interpretation and clinical-endpoint prediction",
+      "url": "https://doi.org/10.64898/2026.07.22.26358591"
+    },
     "doi:10.64898/2026.07.22.739638": {
       "date": "2026-07-23",
       "score": 5,
@@ -3520,6 +3576,22 @@
       "title": "Organ identity shapes autophagy dynamics and selectivity in plants",
       "url": "https://doi.org/10.64898/2026.07.22.740030"
     },
+    "doi:10.64898/2026.07.23.740281": {
+      "date": "2026-07-24",
+      "score": 7,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "biorxiv",
+      "title": "Selective repurposing of the eukaryotic DNA replication machinery by a plant virus",
+      "url": "https://doi.org/10.64898/2026.07.23.740281"
+    },
+    "doi:10.64898/2026.07.27.741045": {
+      "date": "2026-07-28",
+      "score": 7,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "OpenAlex",
+      "title": "PG-LLM: Benchmarking General-Purpose Language Models for Protein Variant Ranking",
+      "url": "https://doi.org/10.64898/2026.07.27.741045"
+    },
     "doi:10.66835/psh.2026.e0008": {
       "date": "2026-07-16",
       "score": 4,
@@ -3535,6 +3607,14 @@
       "source": "OpenAlex",
       "title": "A Unified Multi-Modal Mixture-of-Experts Model for Integrated Representation Learning in Pharmaceutical Sciences",
       "url": "https://doi.org/10.67231/kytb0e28"
+    },
+    "doi:10.70917/ijcisim-2026-3793": {
+      "date": "2026-07-28",
+      "score": 10,
+      "sent_at": "2026-07-31T08:30:47.468836+00:00",
+      "source": "OpenAlex",
+      "title": "Transformer-based Discovery of Antimicrobial Peptides and Prediction of their Antibacterial Activity",
+      "url": "https://doi.org/10.70917/ijcisim-2026-3793"
     },
     "doi:10.71423/aimed.20260606": {
       "date": "2026-06-06",
