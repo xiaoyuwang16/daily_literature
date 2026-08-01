@@ -240,6 +240,14 @@
       "title": "MYB transcription factors in plant cold stress adaptation: integrating phylogeny, signaling networks, and metabolic regulation",
       "url": "https://doi.org/10.1007/s12298-026-01798-0"
     },
+    "doi:10.1007/s44281-026-00113-x": {
+      "date": "2026-07-29",
+      "score": 4,
+      "sent_at": "2026-08-01T07:59:53.508934+00:00",
+      "source": "OpenAlex",
+      "title": "Cold stress tolerance in pepper: role of transcription factors in molecular signaling and adaptive responses",
+      "url": "https://doi.org/10.1007/s44281-026-00113-x"
+    },
     "doi:10.1007/s44371-026-00860-w": {
       "date": "2026-07-09",
       "score": 5,
@@ -471,6 +479,14 @@
       "source": "OpenAlex",
       "title": "Integrating ESM-2 protein language model embeddings with physicochemical descriptors in a stacking ensemble for antimicrobial peptide prediction",
       "url": "https://doi.org/10.1016/j.jocs.2026.102978"
+    },
+    "doi:10.1016/j.jocs.2026.102992": {
+      "date": "2026-07-27",
+      "score": 10,
+      "sent_at": "2026-08-01T07:59:53.508934+00:00",
+      "source": "OpenAlex",
+      "title": "PCNN-GP: A deep learning approach for globular protein prediction by integrating pulse-coupled neural network with protein language model",
+      "url": "https://doi.org/10.1016/j.jocs.2026.102992"
     },
     "doi:10.1016/j.neures.2026.105070": {
       "date": "2026 Jul",
@@ -1640,6 +1656,14 @@
       "title": "S2DA-GO: enhancing protein function prediction via gradient-decoupled cross-attention and semantic priors",
       "url": "https://doi.org/10.3389/fgene.2026.1880976"
     },
+    "doi:10.3389/fimmu.2026.1844788": {
+      "date": "2026-07-30",
+      "score": 4,
+      "sent_at": "2026-08-01T07:59:53.508934+00:00",
+      "source": "OpenAlex",
+      "title": "LM-QASAS: reference-free identification of antigen-specific sequences from the BCR repertoire using antibody language models",
+      "url": "https://doi.org/10.3389/fimmu.2026.1844788"
+    },
     "doi:10.3389/fmicb.2026.1842380": {
       "date": "2026-07-02",
       "score": 7,
@@ -2784,6 +2808,14 @@
       "title": "Relational biological structure improves fine-mapping of causal GWAS variants under weak signal",
       "url": "https://doi.org/10.64898/2026.05.15.725513"
     },
+    "doi:10.64898/2026.05.17.725321": {
+      "date": "2026-07-25",
+      "score": 9,
+      "sent_at": "2026-08-01T07:59:53.508934+00:00",
+      "source": "biorxiv",
+      "title": "Unveiling Gloriosine as a Dual-Acting Regulator of Glutamine Metabolism and Ferroptosis in Triple-Negative Breast Cancer: Insights from Network Pharmacology and Experimental Validation",
+      "url": "https://doi.org/10.64898/2026.05.17.725321"
+    },
     "doi:10.64898/2026.05.17.725770": {
       "date": "2026-07-17",
       "score": 4,
@@ -3583,6 +3615,22 @@
       "source": "biorxiv",
       "title": "Selective repurposing of the eukaryotic DNA replication machinery by a plant virus",
       "url": "https://doi.org/10.64898/2026.07.23.740281"
+    },
+    "doi:10.64898/2026.07.24.740522": {
+      "date": "2026-07-25",
+      "score": 4,
+      "sent_at": "2026-08-01T07:59:53.508934+00:00",
+      "source": "biorxiv",
+      "title": "Deep Phenotyping with Global Brain Activity and Plasticity Mapping Identify the Dorsal Raphe-Basolateral Amygdala Circuit as a Mediator of Adaptive Stress Responses",
+      "url": "https://doi.org/10.64898/2026.07.24.740522"
+    },
+    "doi:10.64898/2026.07.26.740036": {
+      "date": "2026-07-29",
+      "score": 5,
+      "sent_at": "2026-08-01T07:59:53.508934+00:00",
+      "source": "OpenAlex",
+      "title": "UDIST: unsupervised disentanglement of shape and texture for multi-scale phenotypic profiling in 2D microscopy",
+      "url": "https://doi.org/10.64898/2026.07.26.740036"
     },
     "doi:10.64898/2026.07.27.741045": {
       "date": "2026-07-28",
