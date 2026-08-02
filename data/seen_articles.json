@@ -176,6 +176,14 @@
       "title": "Heterogeneous Property-Cross-Aware Relation Networks for Molecular Representation Learning",
       "url": "https://doi.org/10.1007/978-981-92-3520-9_32"
     },
+    "doi:10.1007/s00210-026-05732-9": {
+      "date": "2026 Aug 1",
+      "score": 20,
+      "sent_at": "2026-08-02T08:01:47.236538+00:00",
+      "source": "PubMed",
+      "title": "GraESM-FuseDTA: adaptive gated multimodal fusion of graph neural networks and protein language models for robust drug-target affinity prediction",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541540/"
+    },
     "doi:10.1007/s00425-026-05048-1": {
       "date": "2026-07-04",
       "score": 4,
@@ -335,6 +343,30 @@
       "source": "PubMed",
       "title": "Photocatalytic proximity labeling in primary samples",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41931858/"
+    },
+    "doi:10.1016/j.cbpa.2026.102684": {
+      "date": "2026 Aug",
+      "score": 12,
+      "sent_at": "2026-08-02T08:01:47.236538+00:00",
+      "source": "PubMed",
+      "title": "Advances in proximity labeling strategies for interactome mapping and functional interrogation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42034033/"
+    },
+    "doi:10.1016/j.cbpa.2026.102686": {
+      "date": "2026 Aug",
+      "score": 10,
+      "sent_at": "2026-08-02T08:01:47.236538+00:00",
+      "source": "PubMed",
+      "title": "Proximity labeling tools for studying chromatin interactomes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42001531/"
+    },
+    "doi:10.1016/j.cbpa.2026.102689": {
+      "date": "2026 Aug",
+      "score": 8,
+      "sent_at": "2026-08-02T08:01:47.236538+00:00",
+      "source": "PubMed",
+      "title": "Recent advances in spatial proteomics by super-resolution proximity labeling",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42066577/"
     },
     "doi:10.1016/j.cbpa.2026.102695": {
       "date": "2026 Jun",
@@ -647,6 +679,14 @@
       "source": "OpenAlex",
       "title": "Decoding cancer circulating transcriptomic signatures with language models",
       "url": "https://doi.org/10.1038/s41467-026-74411-3"
+    },
+    "doi:10.1038/s41467-026-76248-2": {
+      "date": "2026-07-31",
+      "score": 7,
+      "sent_at": "2026-08-02T08:01:47.236538+00:00",
+      "source": "OpenAlex",
+      "title": "A machine learning framework for predicting and modulating condition-dependent protein phase separation",
+      "url": "https://doi.org/10.1038/s41467-026-76248-2"
     },
     "doi:10.1038/s41540-026-00713-3": {
       "date": "2026-06-22",
@@ -2608,6 +2648,14 @@
       "title": "TDEP: Predicting Target Perturbation Response from Drug-Induced Transcriptomes",
       "url": "https://doi.org/10.5281/zenodo.21617259"
     },
+    "doi:10.5281/zenodo.21715257": {
+      "date": "2026-07-31",
+      "score": 10,
+      "sent_at": "2026-08-02T08:01:47.236538+00:00",
+      "source": "OpenAlex",
+      "title": "Supporting data for \"Protein language model-assisted enzyme mining and experimental characterization of bacterial GH28 polygalacturonases for pectin depolymerization\"",
+      "url": "https://doi.org/10.5281/zenodo.21715257"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -3640,6 +3688,14 @@
       "title": "PG-LLM: Benchmarking General-Purpose Language Models for Protein Variant Ranking",
       "url": "https://doi.org/10.64898/2026.07.27.741045"
     },
+    "doi:10.64898/2026.07.28.739874": {
+      "date": "2026-07-30",
+      "score": 15,
+      "sent_at": "2026-08-02T08:01:47.236538+00:00",
+      "source": "OpenAlex",
+      "title": "pLM representations unlock metagenomic space beyond homology",
+      "url": "https://doi.org/10.64898/2026.07.28.739874"
+    },
     "doi:10.66835/psh.2026.e0008": {
       "date": "2026-07-16",
       "score": 4,
@@ -3991,6 +4047,14 @@
       "source": "OpenAlex",
       "title": "HierarchicalDAEW: Domain-Aware Edge-Weighted Graph Convolution with Evidential Uncertainty for Multi-Section Spatial Gene Expression Prediction from H&E Histology",
       "url": "https://openalex.org/W7171268633"
+    },
+    "openalex:https://openalex.org/w7171902896": {
+      "date": "2026-07-28",
+      "score": 7,
+      "sent_at": "2026-08-02T08:01:47.236538+00:00",
+      "source": "OpenAlex",
+      "title": "CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models",
+      "url": "https://openalex.org/W7171902896"
     }
   }
 }
