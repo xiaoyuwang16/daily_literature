@@ -840,6 +840,14 @@
       "title": "A lightweight, integrated generative AI assistant for accelerated early-stage drug discovery on constrained-resource hardware",
       "url": "https://doi.org/10.1038/s41598-026-61237-8"
     },
+    "doi:10.1038/s41598-026-62637-6": {
+      "date": "2026-07-31",
+      "score": 6,
+      "sent_at": "2026-08-03T08:58:16.453411+00:00",
+      "source": "OpenAlex",
+      "title": "Hierarchical supergraph neural networks for link prediction",
+      "url": "https://doi.org/10.1038/s41598-026-62637-6"
+    },
     "doi:10.1038/s41746-026-02664-9": {
       "date": "2026-06-11",
       "score": 5,
@@ -2656,6 +2664,38 @@
       "title": "Supporting data for \"Protein language model-assisted enzyme mining and experimental characterization of bacterial GH28 polygalacturonases for pectin depolymerization\"",
       "url": "https://doi.org/10.5281/zenodo.21715257"
     },
+    "doi:10.5281/zenodo.21742182": {
+      "date": "2026-08-01",
+      "score": 18,
+      "sent_at": "2026-08-03T08:58:16.453411+00:00",
+      "source": "OpenAlex",
+      "title": "De Novo Computational Design of DARPin Binders Targeting Fc\u03b5RI Alpha Chain Domain 2 via Structure-Guided Sequence Optimisation, Multi-Seed Deep Learning Prediction and Interfacial Thermodynamic Validation",
+      "url": "https://doi.org/10.5281/zenodo.21742182"
+    },
+    "doi:10.5281/zenodo.21742183": {
+      "date": "2026-08-01",
+      "score": 18,
+      "sent_at": "2026-08-03T08:58:16.453411+00:00",
+      "source": "OpenAlex",
+      "title": "De Novo Computational Design of DARPin Binders Targeting Fc\u03b5RI Alpha Chain Domain 2 via Structure-Guided Sequence Optimisation, Multi-Seed Deep Learning Prediction and Interfacial Thermodynamic Validation",
+      "url": "https://doi.org/10.5281/zenodo.21742183"
+    },
+    "doi:10.5281/zenodo.21743292": {
+      "date": "2026-08-01",
+      "score": 12,
+      "sent_at": "2026-08-03T08:58:16.453411+00:00",
+      "source": "OpenAlex",
+      "title": "LLM4SL: LLM-GNN Collaborative Framework for Synthetic Lethality Prediction",
+      "url": "https://doi.org/10.5281/zenodo.21743292"
+    },
+    "doi:10.5281/zenodo.21743293": {
+      "date": "2026-08-01",
+      "score": 12,
+      "sent_at": "2026-08-03T08:58:16.453411+00:00",
+      "source": "OpenAlex",
+      "title": "LLM4SL: LLM-GNN Collaborative Framework for Synthetic Lethality Prediction",
+      "url": "https://doi.org/10.5281/zenodo.21743293"
+    },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
       "score": 15,
@@ -3672,6 +3712,14 @@
       "title": "Deep Phenotyping with Global Brain Activity and Plasticity Mapping Identify the Dorsal Raphe-Basolateral Amygdala Circuit as a Mediator of Adaptive Stress Responses",
       "url": "https://doi.org/10.64898/2026.07.24.740522"
     },
+    "doi:10.64898/2026.07.24.740627": {
+      "date": "2026-07-27",
+      "score": 4,
+      "sent_at": "2026-08-03T08:58:16.453411+00:00",
+      "source": "biorxiv",
+      "title": "PWO1 and TRB proteins coordinate chromatin regulation to prevent premature differentiation and ectopic lignin deposition in Arabidopsis",
+      "url": "https://doi.org/10.64898/2026.07.24.740627"
+    },
     "doi:10.64898/2026.07.26.740036": {
       "date": "2026-07-29",
       "score": 5,
@@ -3695,6 +3743,22 @@
       "source": "OpenAlex",
       "title": "pLM representations unlock metagenomic space beyond homology",
       "url": "https://doi.org/10.64898/2026.07.28.739874"
+    },
+    "doi:10.64898/2026.07.28.741267": {
+      "date": "2026-07-31",
+      "score": 10,
+      "sent_at": "2026-08-03T08:58:16.453411+00:00",
+      "source": "OpenAlex",
+      "title": "A curated human lactylome and protein language model framework enable accurate prediction and reveal local determinants of lysine lactylation",
+      "url": "https://doi.org/10.64898/2026.07.28.741267"
+    },
+    "doi:10.64898/2026.07.31.742099": {
+      "date": "2026-07-31",
+      "score": 29,
+      "sent_at": "2026-08-03T08:58:16.453411+00:00",
+      "source": "OpenAlex",
+      "title": "Evaluating Protein Language Model Embeddingsfor Structural Similarity in the Protein-Sequence Twilight Zone",
+      "url": "https://doi.org/10.64898/2026.07.31.742099"
     },
     "doi:10.66835/psh.2026.e0008": {
       "date": "2026-07-16",
