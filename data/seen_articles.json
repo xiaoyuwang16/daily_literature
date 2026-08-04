@@ -928,6 +928,14 @@
       "title": "Contrastive Learning on Multimodal Analysis of Electronic Health Records",
       "url": "https://doi.org/10.1080/01621459.2026.2698136"
     },
+    "doi:10.1080/07391102.2025.2610684": {
+      "date": "2026 Aug",
+      "score": 12,
+      "sent_at": "2026-08-04T08:15:05.707680+00:00",
+      "source": "PubMed",
+      "title": "EMMPREDMLsub: multi-label prediction of mRNA subcellular localization based on the ESM2 large language model and MMDO-MDPU resampling strategy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41493162/"
+    },
     "doi:10.1080/19420862.2026.2678000": {
       "date": "2026 Dec 31",
       "score": 10,
@@ -4119,6 +4127,14 @@
       "source": "OpenAlex",
       "title": "CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models",
       "url": "https://openalex.org/W7171902896"
+    },
+    "openalex:https://openalex.org/w7172172826": {
+      "date": "2026-07-29",
+      "score": 8,
+      "sent_at": "2026-08-04T08:15:05.707680+00:00",
+      "source": "OpenAlex",
+      "title": "ECG-InterpBench: Benchmarking the Interpretability of ECG Foundation Models with Matched-Scale Sparse Autoencoders",
+      "url": "https://openalex.org/W7172172826"
     }
   }
 }
