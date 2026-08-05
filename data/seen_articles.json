@@ -528,6 +528,14 @@
       "title": "In situ proximity labeling reveals the proteome and signaling landscape of presynaptic boutons",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42134552/"
     },
+    "doi:10.1016/j.rechem.2026.103699": {
+      "date": "2026-08-01",
+      "score": 17,
+      "sent_at": "2026-08-05T08:13:30.147255+00:00",
+      "source": "OpenAlex",
+      "title": "HMRLBA: A hierarchical multi-scale representation learning model for predicting protein-ligand binding affinity",
+      "url": "https://doi.org/10.1016/j.rechem.2026.103699"
+    },
     "doi:10.1016/j.sbi.2026.103326": {
       "date": "2026-07-10",
       "score": 4,
@@ -1719,6 +1727,14 @@
       "source": "OpenAlex",
       "title": "LM-QASAS: reference-free identification of antigen-specific sequences from the BCR repertoire using antibody language models",
       "url": "https://doi.org/10.3389/fimmu.2026.1844788"
+    },
+    "doi:10.3389/fmicb.2026.1839420": {
+      "date": "2026-08-03",
+      "score": 15,
+      "sent_at": "2026-08-05T08:13:30.147255+00:00",
+      "source": "OpenAlex",
+      "title": "TPT: a compact CNN-transformer encoder for efficient microbial small protein modeling",
+      "url": "https://doi.org/10.3389/fmicb.2026.1839420"
     },
     "doi:10.3389/fmicb.2026.1842380": {
       "date": "2026-07-02",
@@ -3752,6 +3768,22 @@
       "title": "pLM representations unlock metagenomic space beyond homology",
       "url": "https://doi.org/10.64898/2026.07.28.739874"
     },
+    "doi:10.64898/2026.07.28.741168": {
+      "date": "2026-07-29",
+      "score": 4,
+      "sent_at": "2026-08-05T08:13:30.147255+00:00",
+      "source": "biorxiv",
+      "title": "Species climate-niche properties suggest that both physiological tolerance and stress dominance shape plant community assembly across a tropical dry ecosystem",
+      "url": "https://doi.org/10.64898/2026.07.28.741168"
+    },
+    "doi:10.64898/2026.07.28.741191": {
+      "date": "2026-07-29",
+      "score": 7,
+      "sent_at": "2026-08-05T08:13:30.147255+00:00",
+      "source": "biorxiv",
+      "title": "Identification and binding-site mapping of RNA-binding proteins interacting with microRNA precursors in Arabidopsis",
+      "url": "https://doi.org/10.64898/2026.07.28.741191"
+    },
     "doi:10.64898/2026.07.28.741267": {
       "date": "2026-07-31",
       "score": 10,
@@ -3759,6 +3791,14 @@
       "source": "OpenAlex",
       "title": "A curated human lactylome and protein language model framework enable accurate prediction and reveal local determinants of lysine lactylation",
       "url": "https://doi.org/10.64898/2026.07.28.741267"
+    },
+    "doi:10.64898/2026.07.28.741285": {
+      "date": "2026-08-01",
+      "score": 10,
+      "sent_at": "2026-08-05T08:13:30.147255+00:00",
+      "source": "OpenAlex",
+      "title": "CPPLocPred: Subcellular Localization of Cell-Penetrating Peptides",
+      "url": "https://doi.org/10.64898/2026.07.28.741285"
     },
     "doi:10.64898/2026.07.31.742099": {
       "date": "2026-07-31",
