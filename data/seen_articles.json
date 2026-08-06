@@ -240,6 +240,14 @@
       "title": "How WRKY transcription factors fine-tune specificity in plant stress responses: from W-box to regulatory code",
       "url": "https://doi.org/10.1007/s11033-026-12354-0"
     },
+    "doi:10.1007/s12223-026-01557-4": {
+      "date": "2026-08-04",
+      "score": 6,
+      "sent_at": "2026-08-06T08:12:21.919575+00:00",
+      "source": "OpenAlex",
+      "title": "Network-based bioinformatics for the prediction of candidate SNPs in Staphylococcus aureus virulence and resistance genes",
+      "url": "https://doi.org/10.1007/s12223-026-01557-4"
+    },
     "doi:10.1007/s12298-026-01798-0": {
       "date": "2026-07-24",
       "score": 4,
@@ -919,6 +927,14 @@
       "source": "OpenAlex",
       "title": "amyloid-predict and LLPS-predict: Predicting phase separation propensities in the intrinsically disordered proteome",
       "url": "https://doi.org/10.1073/pnas.2531932123"
+    },
+    "doi:10.1073/pnas.2532702123": {
+      "date": "2026-08-03",
+      "score": 10,
+      "sent_at": "2026-08-06T08:12:21.919575+00:00",
+      "source": "OpenAlex",
+      "title": "Contrastive learning unites sequence and structure in a global representation of protein space",
+      "url": "https://doi.org/10.1073/pnas.2532702123"
     },
     "doi:10.1073/pnas.2610619123": {
       "date": "2026-06-17",
@@ -1808,6 +1824,14 @@
       "title": "Analysis of the interaction network relationship between drugs using a graph neural network",
       "url": "https://doi.org/10.3389/fphar.2026.1686243"
     },
+    "doi:10.3389/fphar.2026.1865620": {
+      "date": "2026-08-04",
+      "score": 4,
+      "sent_at": "2026-08-06T08:12:21.919575+00:00",
+      "source": "OpenAlex",
+      "title": "Dietary sulforaphane in cancer chemoprevention: epigenetic regulation and PRMT5-MEP50 complex inhibition-a systematic review",
+      "url": "https://doi.org/10.3389/fphar.2026.1865620"
+    },
     "doi:10.3389/fpls.2026.1815183": {
       "date": "2026-06-02",
       "score": 4,
@@ -2680,6 +2704,22 @@
       "title": "TDEP: Predicting Target Perturbation Response from Drug-Induced Transcriptomes",
       "url": "https://doi.org/10.5281/zenodo.21617259"
     },
+    "doi:10.5281/zenodo.21709986": {
+      "date": "2026-07-30",
+      "score": 14,
+      "sent_at": "2026-08-06T08:12:21.919575+00:00",
+      "source": "OpenAlex",
+      "title": "Data-Centric Evaluation of Protein Function Prediction Pipelines",
+      "url": "https://doi.org/10.5281/zenodo.21709986"
+    },
+    "doi:10.5281/zenodo.21709987": {
+      "date": "2026-07-30",
+      "score": 14,
+      "sent_at": "2026-08-06T08:12:21.919575+00:00",
+      "source": "OpenAlex",
+      "title": "Data-Centric Evaluation of Protein Function Prediction Pipelines",
+      "url": "https://doi.org/10.5281/zenodo.21709987"
+    },
     "doi:10.5281/zenodo.21715257": {
       "date": "2026-07-31",
       "score": 10,
@@ -2719,6 +2759,22 @@
       "source": "OpenAlex",
       "title": "LLM4SL: LLM-GNN Collaborative Framework for Synthetic Lethality Prediction",
       "url": "https://doi.org/10.5281/zenodo.21743293"
+    },
+    "doi:10.5281/zenodo.21796422": {
+      "date": "2026-08-04",
+      "score": 15,
+      "sent_at": "2026-08-06T08:12:21.919575+00:00",
+      "source": "OpenAlex",
+      "title": "Developing SCL2205: A Protein Sequence-based Spatial Modelling Dataset for the Protein Language Model Frontier",
+      "url": "https://doi.org/10.5281/zenodo.21796422"
+    },
+    "doi:10.5281/zenodo.21796423": {
+      "date": "2026-08-04",
+      "score": 15,
+      "sent_at": "2026-08-06T08:12:21.919575+00:00",
+      "source": "OpenAlex",
+      "title": "Developing SCL2205: A Protein Sequence-based Spatial Modelling Dataset for the Protein Language Model Frontier",
+      "url": "https://doi.org/10.5281/zenodo.21796423"
     },
     "doi:10.53799/gteskx50": {
       "date": "2026-05-30",
@@ -3799,6 +3855,14 @@
       "source": "OpenAlex",
       "title": "CPPLocPred: Subcellular Localization of Cell-Penetrating Peptides",
       "url": "https://doi.org/10.64898/2026.07.28.741285"
+    },
+    "doi:10.64898/2026.07.29.741641": {
+      "date": "2026-08-04",
+      "score": 26,
+      "sent_at": "2026-08-06T08:12:21.919575+00:00",
+      "source": "OpenAlex",
+      "title": "Interpreting Protein Language Models: high attention sites predict functional regions",
+      "url": "https://doi.org/10.64898/2026.07.29.741641"
     },
     "doi:10.64898/2026.07.31.742099": {
       "date": "2026-07-31",
